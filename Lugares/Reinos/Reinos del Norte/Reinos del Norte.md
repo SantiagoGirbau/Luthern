@@ -1,3 +1,6 @@
 ---
 aliases:
+tags:
+  - Lugar
+  - Reino
 ---
