@@ -1,0 +1,1 @@
+Papa actual de la religión del [[Seguidores del Sol Eterno|Sol Eterno]], vive en el [[Vaticano Solar]] y dirige a todas las catedrales de su religión desde ahí.

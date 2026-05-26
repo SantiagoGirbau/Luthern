@@ -23,12 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Orden Solar.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orden Solar"
+              "title": "Vaticano Solar"
+            }
+          },
+          {
+            "id": "04db73f823511d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ptolomeus Sergei.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ptolomeus Sergei"
             }
           }
         ],
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Orden Solar.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Orden Solar"
+              "title": "Enlaces entrantes de Vaticano Solar"
             }
           },
           {
@@ -124,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Orden Solar.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Orden Solar"
+              "title": "Enlaces salientes de Vaticano Solar"
             }
           },
           {
@@ -167,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Orden Solar.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Orden Solar"
+              "title": "Esquema de Vaticano Solar"
             }
           },
           {
@@ -182,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Orden Solar.md"
+                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Orden Solar"
+              "title": "Propiedades de los archivos para Vaticano Solar"
             }
           }
         ],
@@ -208,10 +222,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8195339272d93e14",
+  "active": "f0490699a9331264",
   "lastOpenFiles": [
+    "Lugares/Reinos/Reinos del Norte/Sin nombre",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole",
+    "Lugares/Reinos/Reinos del Norte/Ducado de Eredon",
+    "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md",
+    "Ptolomeus Sergei.md",
     "Lugares/Reinos/Reinos del Norte/Reinos del Norte.md",
-    "Lugares/Reinos/Reinos del Norte/Orden Solar/Orden Solar.md",
     "Lugares/Reinos/Reinos del Norte/Orden Solar",
     "Lugares/El Bosque Frontera.md",
     "Civilización Antigua/Civilización antigua.md",
@@ -243,12 +261,8 @@
     "().md",
     "zPlantillas/Persona.md",
     "Fotos/Biggsa.png",
-    "Religiones",
-    "Panteón",
     "Sin título.canvas",
     "Pasted image 20260526175810.png",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Malthus.md",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Ruem.md",
-    "Eventos Históricos/Guerra del Norte.md"
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Malthus.md"
   ]
 }
