@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religiones/Seguidores del Sol Eterno.md",
+                "file": "Lugares/Luthern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seguidores del Sol Eterno"
+              "title": "Luthern"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religiones/Seguidores del Sol Eterno.md",
+                "file": "Lugares/Luthern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Seguidores del Sol Eterno"
+              "title": "Enlaces entrantes de Luthern"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religiones/Seguidores del Sol Eterno.md",
+                "file": "Lugares/Luthern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Seguidores del Sol Eterno"
+              "title": "Enlaces salientes de Luthern"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religiones/Seguidores del Sol Eterno.md",
+                "file": "Lugares/Luthern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Seguidores del Sol Eterno"
+              "title": "Esquema de Luthern"
             }
           },
           {
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Religiones/Seguidores del Sol Eterno.md"
+                "file": "Lugares/Luthern.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Seguidores del Sol Eterno"
+              "title": "Propiedades de los archivos para Luthern"
             }
           }
         ],
@@ -192,41 +192,38 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Crear nueva base": false
     }
   },
   "active": "ebda849a8ea989ad",
   "lastOpenFiles": [
-    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos.md",
-    "Religiones/Seguidores del Sol Eterno.md",
-    "Panteón/Sol Eterno.md",
-    "Lugares/Luthern.md",
     "Lugares/Reinos/Reinos del Norte/El Bosque Frontera.md",
     "Lugares/Reinos/Reinos del Norte/Reinos del Norte.md",
+    "Lugares/Luthern.md",
+    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "().md",
     "zPlantillas/Persona.md",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Biggsa.md",
+    "Realeza/Biggsa.md",
     "Fotos/Biggsa.png",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Enya.md",
+    "Realeza/Enya.md",
     "Religiones",
     "Panteón",
     "Fotos",
     "Sin título.canvas",
     "Pasted image 20260526175810.png",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Malthus.md",
+    "Sin título.md",
+    "Realeza/Malthus.md",
     "zPlantillas",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Liana.md",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Ruem.md",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Luna.md",
+    "Realeza/Liana.md",
+    "Realeza/Ruem.md",
+    "Realeza/Luna.md",
     "Lugares/Reinos/Reinos del Norte",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos.md",
     "Lugares/Reinos/Reino de Bigzha",
     "Lugares/Reinos",
     "Lugares",
     "Eventos Históricos",
-    "Lugares/Reinos/Reino de Bigzha/Realeza",
+    "Realeza",
     "Eventos Históricos/Guerra del Norte.md",
     "Guerra.md",
     "Bienvenido.md",
