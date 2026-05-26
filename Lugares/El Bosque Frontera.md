@@ -2,6 +2,8 @@
 tags:
   - Lugar
   - Bosque
+aliases:
+  - Bosque Frontera
 ---
 Un colosal y densamente arbolado territorio que se extiende a lo largo de la franja central del continente de Luthern. Debido a su imponente tamaño, actúa como la frontera natural definitiva del mundo conocido, dividiendo por completo la región de los Reinos del Norte del Territorio Sur.
 
