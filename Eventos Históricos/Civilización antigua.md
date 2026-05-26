@@ -1,0 +1,1 @@
+Hace miles de años, existió una civilización antigua en Luthien, cuya huella aún se encuentra 
