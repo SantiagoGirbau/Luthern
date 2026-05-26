@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Luthern.md",
+                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luthern"
+              "title": "Reino de Bigzha"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Luthern.md",
+                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Luthern"
+              "title": "Enlaces entrantes de Reino de Bigzha"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/Luthern.md",
+                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Luthern"
+              "title": "Enlaces salientes de Reino de Bigzha"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lugares/Luthern.md",
+                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Luthern"
+              "title": "Esquema de Reino de Bigzha"
             }
           },
           {
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lugares/Luthern.md"
+                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Luthern"
+              "title": "Propiedades de los archivos para Reino de Bigzha"
             }
           }
         ],
@@ -192,38 +192,47 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ebda849a8ea989ad",
   "lastOpenFiles": [
+    "Religiones/Seguidores del Sol Eterno.md",
+    "Realeza/Ruem.md",
+    "Realeza/Malthus.md",
+    "Realeza/Luna.md",
+    "Realeza/Liana.md",
+    "Realeza/Enya.md",
+    "Realeza/Biggsa.md",
+    "Realeza",
+    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos.md",
+    "Panteón/Sol Eterno.md",
+    "Lugares/Luthern.md",
     "Lugares/Reinos/Reinos del Norte/El Bosque Frontera.md",
     "Lugares/Reinos/Reinos del Norte/Reinos del Norte.md",
-    "Lugares/Luthern.md",
-    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "().md",
     "zPlantillas/Persona.md",
-    "Realeza/Biggsa.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Biggsa.md",
     "Fotos/Biggsa.png",
-    "Realeza/Enya.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Enya.md",
     "Religiones",
     "Panteón",
     "Fotos",
     "Sin título.canvas",
     "Pasted image 20260526175810.png",
-    "Sin título.md",
-    "Realeza/Malthus.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Malthus.md",
     "zPlantillas",
-    "Realeza/Liana.md",
-    "Realeza/Ruem.md",
-    "Realeza/Luna.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Liana.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Ruem.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Luna.md",
     "Lugares/Reinos/Reinos del Norte",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos.md",
     "Lugares/Reinos/Reino de Bigzha",
     "Lugares/Reinos",
     "Lugares",
     "Eventos Históricos",
-    "Realeza",
     "Eventos Históricos/Guerra del Norte.md",
     "Guerra.md",
     "Bienvenido.md",
