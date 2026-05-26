@@ -1,2 +1,0 @@
-Hace miles de años, existió una civilización antigua en Luthien, cuya huella aún se encuentra en las tierras del continente como ruinas erguidas dentro del [[El Bosque Frontera|Bosque Frontera]].
-Esta civilización tenía capacidades tecnológicas ahora inimaginables por los habitantes actuales de Luthien. Se desconoce el motivo de su de
