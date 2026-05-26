@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
                 "mode": "source",
                 "source": false
               },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md"
+                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades de los archivos para Vaticano Solar"
@@ -222,15 +222,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0490699a9331264",
+  "active": "8195339272d93e14",
   "lastOpenFiles": [
-    "Lugares/Reinos/Reinos del Norte/Sin nombre",
+    "Lugares/Reinos/Reinos del Norte/República de Sinias",
+    "Lugares/Reinos/Reinos del Norte/Reino de Northan",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole",
     "Lugares/Reinos/Reinos del Norte/Ducado de Eredon",
-    "Lugares/Reinos/Reinos del Norte/Orden Solar/Vaticano Solar.md",
+    "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
     "Ptolomeus Sergei.md",
     "Lugares/Reinos/Reinos del Norte/Reinos del Norte.md",
-    "Lugares/Reinos/Reinos del Norte/Orden Solar",
+    "Lugares/Reinos/Reinos del Norte/Vaticano Solar",
     "Lugares/El Bosque Frontera.md",
     "Civilización Antigua/Civilización antigua.md",
     "Civilización Antigua",
@@ -257,7 +258,6 @@
     "Realeza/Luna.md",
     "Realeza/Liana.md",
     "Realeza/Enya.md",
-    "Realeza",
     "().md",
     "zPlantillas/Persona.md",
     "Fotos/Biggsa.png",
