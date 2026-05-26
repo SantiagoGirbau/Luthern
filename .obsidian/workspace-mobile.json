@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "486d874c7935725e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4c1f4514842a40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a255aaa1f5644c70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3641b33185d0069",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c579025d5e8701b2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "e4a62c286bab13c1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "3c4e5e30a3cac7a7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "7743b738db871701",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "049e7c1d5cbd6de7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ef43db2f0c2407fc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5582fe47286edc8e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "c3f5a279b72136ef",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "04aff098d8b58e0e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "a255aaa1f5644c70",
+  "lastOpenFiles": [
+    "zPlantillas/Persona.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Ruem.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Malthus.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Luna.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Liana.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Enya.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Biggsa.md",
+    "Lugares/Reinos/Reinos del Norte/Reinos del Norte.md",
+    "Lugares/Reinos/Reinos del Norte/El Bosque Frontera.md",
+    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos.md",
+    "Lugares/Luthern.md",
+    "Fotos/Biggsa.png",
+    "Eventos Históricos/Guerra del Norte.md",
+    "zPlantillas",
+    "Lugares/Reinos/Reino de Bigzha/Realeza",
+    "Lugares/Reinos/Reinos del Norte",
+    "Lugares/Reinos/Reino de Bigzha",
+    "Lugares/Reinos",
+    "Lugares",
+    "Fotos",
+    "Eventos Históricos"
+  ]
+}
