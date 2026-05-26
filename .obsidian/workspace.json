@@ -11,10 +11,14 @@
             "id": "5363118309c26705",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Panteón/Sol Eterno.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Sol Eterno"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Panteón/Sol Eterno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Sol Eterno"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Panteón/Sol Eterno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Sol Eterno"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Panteón/Sol Eterno.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Sol Eterno"
             }
           },
           {
@@ -163,9 +170,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Panteón/Sol Eterno.md"
+              },
               "icon": "lucide-info",
-              "title": "Propiedades del archivo"
+              "title": "Propiedades de los archivos para Sol Eterno"
             }
           }
         ],
@@ -190,8 +199,11 @@
   },
   "active": "5363118309c26705",
   "lastOpenFiles": [
-    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "Religiones/Seguidores del Sol Eterno.md",
+    "Panteón/Sol Eterno.md",
+    "Religiones",
+    "Panteón",
+    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "Realeza/Ruem.md",
     "Realeza/Malthus.md",
     "Realeza/Luna.md",
@@ -200,7 +212,6 @@
     "Realeza/Biggsa.md",
     "Realeza",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos.md",
-    "Panteón/Sol Eterno.md",
     "Lugares/Luthern.md",
     "Lugares/Reinos/Reinos del Norte/El Bosque Frontera.md",
     "Lugares/Reinos/Reinos del Norte/Reinos del Norte.md",
@@ -222,11 +233,8 @@
     "Lugares/Reinos/Reinos del Norte",
     "Lugares/Reinos/Reino de Bigzha",
     "Lugares/Reinos",
-    "Lugares",
-    "Eventos Históricos",
     "Eventos Históricos/Guerra del Norte.md",
     "Guerra.md",
-    "Bienvenido.md",
-    "cree un enlace.md"
+    "Bienvenido.md"
   ]
 }
