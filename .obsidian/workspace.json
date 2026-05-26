@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ee87475ceb6b5cd",
+        "id": "de87195353493941",
         "type": "tabs",
         "children": [
           {
-            "id": "ebda849a8ea989ad",
+            "id": "5363118309c26705",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Reino de Bigzha"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Reino de Bigzha"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Reino de Bigzha"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Reino de Bigzha"
+              "title": "Esquema"
             }
           },
           {
@@ -170,11 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Reino de Bigzha"
+              "title": "Propiedades del archivo"
             }
           }
         ],
@@ -197,8 +188,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebda849a8ea989ad",
+  "active": "5363118309c26705",
   "lastOpenFiles": [
+    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "Religiones/Seguidores del Sol Eterno.md",
     "Realeza/Ruem.md",
     "Realeza/Malthus.md",
@@ -207,7 +199,6 @@
     "Realeza/Enya.md",
     "Realeza/Biggsa.md",
     "Realeza",
-    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos.md",
     "Panteón/Sol Eterno.md",
     "Lugares/Luthern.md",
