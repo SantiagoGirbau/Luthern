@@ -1,0 +1,1 @@
+Es un reino antiguo, tiene una única religión permitida, la del Sol eterno. Se dice que en épocas de antaño, el mismo sol eterno solía brillar sobre sus tierras, b
