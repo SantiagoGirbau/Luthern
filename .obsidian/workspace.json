@@ -212,7 +212,6 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false
     }
   },
