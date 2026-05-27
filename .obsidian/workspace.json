@@ -45,8 +45,7 @@
               "title": "Imperio Teocrático de Umnazia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Ptolomeus Sergei"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -138,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Ptolomeus Sergei"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -181,13 +178,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Ptolomeus Sergei"
+              "title": "Esquema"
             }
           },
           {
@@ -195,11 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Ptolomeus Sergei"
+              "title": "Propiedades del archivo"
             }
           }
         ],
@@ -222,10 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8195339272d93e14",
+  "active": "156cefd3b2a3512e",
   "lastOpenFiles": [
-    "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
+    "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Lugares/Reinos/Reinos del Norte/Ducado de Eredon/Ducado de Eredon.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Northan/Reino de Northan.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Reino de Thole.md",
