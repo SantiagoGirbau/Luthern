@@ -1,6 +1,7 @@
 ---
 tags:
   - Religion
+  - Lore
 aliases:
   - Sol Eterno
   - Soleternistas

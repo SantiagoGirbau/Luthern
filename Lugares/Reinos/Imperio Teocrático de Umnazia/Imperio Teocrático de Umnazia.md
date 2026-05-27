@@ -8,4 +8,4 @@ aliases:
   - El Imperio
   - El Imperio de Umnazia
 ---
-El imperio más grande de todo [[Luthern]]
+El imperio más grande de todo [[Luthern]] 

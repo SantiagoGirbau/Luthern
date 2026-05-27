@@ -3,4 +3,4 @@ tags:
   - Reino
   - Lugar
 ---
-Un reino pacífico y bastante próspero. Es gobernado por un matriarcado y su Reina es una mu
+Un reino pacífico y bastante próspero. La forma de gobierno es un matriarcado y su Reina es una mujer muy sabia que no tiene descendencia. 
