@@ -33,8 +33,7 @@
               "title": "Los 7 pecados capitales."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,11 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Los 7 pecados capitales..md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Los 7 pecados capitales."
+              "title": "Propiedades del archivo"
             }
           }
         ],
@@ -206,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56cbd1c4706acee5",
+  "active": "dc146d9564418fda",
   "lastOpenFiles": [
     "Los 7 pecados capitales..md",
     "Civilización Antigua/Civilización antigua.md",
