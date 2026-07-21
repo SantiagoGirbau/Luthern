@@ -20,35 +20,21 @@
             }
           },
           {
-            "id": "c5e37613570c8582",
+            "id": "5642123d6fade6e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Reinos del Norte.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reinos del Norte"
-            }
-          },
-          {
-            "id": "539b8f88b2d91b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Imperio Teocrático de Umnazia"
+              "title": "Ptolomeus Sergei"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md"
+                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Imperio Teocrático de Umnazia"
+              "title": "Propiedades de los archivos para Ptolomeus Sergei"
             }
           }
         ],
@@ -220,12 +206,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "539b8f88b2d91b8c",
+  "active": "5642123d6fade6e5",
   "lastOpenFiles": [
+    "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
+    "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
+    "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
+    "Las 8 Bestias Capitales",
+    "Panteón/Yáhul.md",
+    "Panteón/Sol Eterno.md",
+    "Panteón/Romeo.md",
+    "Panteón/Lucerne.md",
+    "Lugares/Reinos/Reinos del Norte/Reinos del Norte.md",
     "Lugares/Reinos/Reino de Austris/Reino de Austris.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Reino de Thole.md",
     "Lugares/Reinos/Reinos del Norte/La Triple Alianza.md",
-    "Lugares/Reinos/Reinos del Norte/Reinos del Norte.md",
     "Lugares/Reinos/Reinos del Norte/Ducado de Eredon/Ducado de Eredon.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Northan/Reino de Northan.md",
     "Lugares/Reinos/Reinos del Norte/El Frente Unido.md",
@@ -242,14 +236,7 @@
     "Party/Ari.md",
     "Party/Flawa.md",
     "Party",
-    "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
     "Agrupaciones y Gremios",
-    "Eventos Históricos/Colonización de Luthern.md",
-    "Civilización Antigua/Civilización antigua.md",
-    "Lugares/El Bosque Frontera.md",
-    "Las 8 bestias capitales..md",
-    "Lugares/Reinos/Reinos del Norte/República de Sinias/República de Sinias.md",
-    "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Lugares/Reinos/Reinos del Norte/Sin título.base",
     "Lugares/Reinos/Reinos del Norte/República de Sinias",
     "Lugares/Reinos/Reinos del Norte/Reino de Northan",
@@ -257,7 +244,6 @@
     "Lugares/Reinos/Reinos del Norte/Ducado de Eredon",
     "Lugares/Reinos/Reinos del Norte/Vaticano Solar",
     "Civilización Antigua",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos",
     "Fotos/Sol Eterno.png",
     "Fotos/Biggsa.png",
     "Sin título.canvas",
