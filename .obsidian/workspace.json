@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,10 +251,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Kuka~.md"
+                "file": "Lugares/Reinos/Reinos del Norte/Reino de Northan/Reino de Northan.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Kuka~"
+              "title": "Propiedades de los archivos para Reino de Northan"
             }
           }
         ],
@@ -276,10 +276,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e24c5987fe95469",
+  "active": "223068ae436459b5",
   "lastOpenFiles": [
-    "Party/Pado~.md",
+    "Lugares/Tierras sin reclamar.md",
     "Party/Kuka~.md",
+    "Party/Pado~.md",
     "Party/Vale.md",
     "Party/Agustin.md",
     "Party/Dania.md",
@@ -297,7 +298,6 @@
     "Lugares/Reinos/Reinos del Norte/Reino de Northan/Reino de Northan.md",
     "Lugares/Reinos/Reinos del Norte/Ducado de Eredon/Ducado de Eredon.md",
     "Las 8 bestias capitales..md",
-    "Lugares/Tierras sin reclamar.md",
     "Lugares/Reinos/Reinos del Norte/República de Sinias/República de Sinias.md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
