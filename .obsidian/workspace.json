@@ -20,91 +20,21 @@
             }
           },
           {
-            "id": "56cbd1c4706acee5",
+            "id": "c5e37613570c8582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Tierras sin reclamar.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Ducado de Eredon/Ducado de Eredon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tierras sin reclamar"
-            }
-          },
-          {
-            "id": "223068ae436459b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Reino de Northan/Reino de Northan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reino de Northan"
-            }
-          },
-          {
-            "id": "753a623762c17962",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares/Erión.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erión"
-            }
-          },
-          {
-            "id": "c7bf159c28b999c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares/Luthern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Luthern"
-            }
-          },
-          {
-            "id": "f1037d0808a457e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Civilización Antigua/Ruinas Antiguas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ruinas Antiguas"
-            }
-          },
-          {
-            "id": "8e24c5987fe95469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Kuka~.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kuka~"
+              "title": "Ducado de Eredon"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Reino de Northan/Reino de Northan.md"
+                "file": "Lugares/Reinos/Reinos del Norte/Ducado de Eredon/Ducado de Eredon.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Reino de Northan"
+              "title": "Propiedades de los archivos para Ducado de Eredon"
             }
           }
         ],
@@ -276,9 +206,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "223068ae436459b5",
+  "active": "f0490699a9331264",
   "lastOpenFiles": [
+    "Lugares/Reinos/Reinos del Norte/Reino de Northan/Reino de Northan.md",
+    "Lugares/Reinos/Reinos del Norte/El Frente Unido.md",
+    "Civilización Antigua/Ruinas Antiguas.md",
+    "Lugares/Luthern.md",
+    "Lugares/Erión.md",
+    "Lugares/Reinos/Reinos del Norte/Ducado de Eredon/Ducado de Eredon.md",
     "Lugares/Tierras sin reclamar.md",
+    "Northan.md",
     "Party/Kuka~.md",
     "Party/Pado~.md",
     "Party/Vale.md",
@@ -286,26 +223,19 @@
     "Party/Dania.md",
     "Party/Ari.md",
     "Party/Flawa.md",
-    "Lugares/Luthern.md",
     "Party",
     "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
     "Agrupaciones y Gremios",
     "Eventos Históricos/Colonización de Luthern.md",
-    "Civilización Antigua/Ruinas Antiguas.md",
     "Civilización Antigua/Civilización antigua.md",
     "Lugares/El Bosque Frontera.md",
-    "Lugares/Erión.md",
-    "Lugares/Reinos/Reinos del Norte/Reino de Northan/Reino de Northan.md",
-    "Lugares/Reinos/Reinos del Norte/Ducado de Eredon/Ducado de Eredon.md",
     "Las 8 bestias capitales..md",
     "Lugares/Reinos/Reinos del Norte/República de Sinias/República de Sinias.md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "Religiones/Seguidores del Sol Eterno.md",
-    "Lugares/Reinos/Reinos del Norte/La Triple Alianza.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Reino de Thole.md",
     "Eventos Históricos/Guerra del Norte.md",
-    "Lugares/Reinos/Reino de Austris/Reino de Austris.md",
     "Lugares/Reinos/Reinos del Norte/Sin título.base",
     "Lugares/Reinos/Reinos del Norte/República de Sinias",
     "Lugares/Reinos/Reinos del Norte/Reino de Northan",
