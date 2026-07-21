@@ -1,6 +1,7 @@
 ---
 tags:
   - Lugar
+  - Continente
 ---
 Este continente ha sido recientemente colonizado. (Hace aproximadamente 120 años) en un principio por [[República de Sinias|Sinias]] luego llegó al mismo para asentarse [[Reino de Northan|Northan]] y por último [[Imperio Teocrático de Umnazia|Umnazia]]. Los primeros dos llevan 112 años en guerra por la supremacía del sector norte del continente. Durante este tiempo se formaron otros tres dominios.
 
