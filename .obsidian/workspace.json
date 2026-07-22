@@ -20,76 +20,6 @@
             }
           },
           {
-            "id": "7e0a80b2fc8a9d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religiones/Iglesia de la Luz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iglesia de la Luz"
-            }
-          },
-          {
-            "id": "aa0aa458da65dd60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Imperio Teocrático de Umnazia"
-            }
-          },
-          {
-            "id": "36d2aa7c414e2f60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gremio de Cartógrafos"
-            }
-          },
-          {
-            "id": "e47605820cbe5ab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religiones/Seguidores del Sol Eterno.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seguidores del Sol Eterno"
-            }
-          },
-          {
-            "id": "c17d4aa517a6a4d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religiones/Iglesia del Amor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iglesia del Amor"
-            }
-          },
-          {
             "id": "ca387ef49a86e2b3",
             "type": "leaf",
             "state": {
@@ -103,8 +33,7 @@
               "title": "Luthern"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Luthern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Luthern"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -251,11 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Lugares/Luthern.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Luthern"
+              "title": "Propiedades del archivo"
             }
           }
         ]
@@ -276,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca387ef49a86e2b3",
+  "active": "dc146d9564418fda",
   "lastOpenFiles": [
+    "Lugares/Luthern.md",
     "Eventos Históricos/Colonización de Luthern.md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Religiones/Iglesia de la Luz.md",
@@ -302,7 +229,6 @@
     "Lugares/Reinos/Reinos del Norte/Ducado de Eredon/Ducado de Eredon.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Northan/Reino de Northan.md",
     "Lugares/Reinos/Reinos del Norte/El Frente Unido.md",
-    "Lugares/Luthern.md",
     "Lugares/Erión.md",
     "Lugares/Tierras sin reclamar.md",
     "Party",
