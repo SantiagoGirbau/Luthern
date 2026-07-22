@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religiones/Iglesia de la Vida y la Muerte.md",
+                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iglesia de la Vida y la Muerte"
+              "title": "Gremio de Cartógrafos"
             }
           }
         ],
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Religiones/Iglesia de la Vida y la Muerte.md"
+                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Iglesia de la Vida y la Muerte"
+              "title": "Propiedades de los archivos para Gremio de Cartógrafos"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "7e0a80b2fc8a9d5f",
   "lastOpenFiles": [
-    "Religiones/Iglesia del Amor.md",
     "Religiones/Iglesia de la Vida y la Muerte.md",
+    "Religiones/Iglesia del Amor.md",
     "Religiones/Iglesia de la Luz.md",
     "Religiones/Seguidores del Sol Eterno.md",
     "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",

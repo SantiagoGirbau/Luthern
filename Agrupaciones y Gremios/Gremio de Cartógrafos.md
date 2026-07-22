@@ -1,1 +1,1 @@
-Un gremio que se dedica a la cartografía del continente 
+Un gremio que se dedica a la cartografía del continente y a la documentación de de la ubicación y metodología para encontrar [[Ruinas Antiguas|Las Ruinas]]. Originado en [[Luthern]], el [[Gremio de Cartógrafos]] hoy en día se alza como uno de los más ricos y poderosos del mundo conocido.
