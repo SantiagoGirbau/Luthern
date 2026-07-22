@@ -1,1 +1,3 @@
 Una bestia acorazada y alargada, del tamaño de una cadena montañosa pequeña, que recuerda vagamente a una pitón sin rostro. Gula no caza personas ni animales de forma individual; **devora el terreno**. Se desplaza arando la tierra. Su vientre es una trituradora colosal de placas de hueso. Mastica colinas, bosques, ruinas y ciudades enteras, dejando tras de sí una trinchera perfecta de lecho rocoso pulido donde antes había geografía. El único método de contingencia conocido por los reinos es crear "cebos tectónicos": colapsar montañas artificiales de escombros para saciarla temporalmente y obligarla a cambiar de rumbo
+
+![[2 Gula.png]]
