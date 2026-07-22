@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
+                "file": "Las 8 Bestias Capitales/2 Gula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ptolomeus Sergei"
+              "title": "2 Gula"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
+                "file": "Las 8 Bestias Capitales/2 Gula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Ptolomeus Sergei"
+              "title": "Enlaces entrantes de 2 Gula"
             }
           },
           {
@@ -206,6 +206,7 @@
   },
   "active": "04337d40d569d02b",
   "lastOpenFiles": [
+    "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
     "Las 8 Bestias Capitales/1 Pereza.md",
     "Fotos/1 Pereza.png",
     "Las 8 Bestias Capitales/2 Gula.md",
