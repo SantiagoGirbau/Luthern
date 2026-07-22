@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "5642123d6fade6e5",
+            "id": "7e0a80b2fc8a9d5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religiones/Seguidores del Sol Eterno.md",
+                "file": "Religiones/Iglesia de la Vida y la Muerte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seguidores del Sol Eterno"
+              "title": "Iglesia de la Vida y la Muerte"
             }
           }
         ],
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Religiones/Seguidores del Sol Eterno.md"
+                "file": "Religiones/Iglesia de la Vida y la Muerte.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Seguidores del Sol Eterno"
+              "title": "Propiedades de los archivos para Iglesia de la Vida y la Muerte"
             }
           }
         ],
@@ -206,8 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5642123d6fade6e5",
+  "active": "7e0a80b2fc8a9d5f",
   "lastOpenFiles": [
+    "Religiones/Iglesia del Amor.md",
+    "Religiones/Iglesia de la Vida y la Muerte.md",
+    "Religiones/Iglesia de la Luz.md",
     "Religiones/Seguidores del Sol Eterno.md",
     "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
     "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
@@ -232,9 +235,6 @@
     "Northan.md",
     "Party/Kuka~.md",
     "Party/Pado~.md",
-    "Party/Vale.md",
-    "Party/Agustin.md",
-    "Party/Dania.md",
     "Party",
     "Agrupaciones y Gremios",
     "Lugares/Reinos/Reinos del Norte/Sin título.base",
