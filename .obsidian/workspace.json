@@ -20,20 +20,21 @@
             }
           },
           {
-            "id": "ca387ef49a86e2b3",
+            "id": "04337d40d569d02b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Luthern.md",
+                "file": "Las 8 Bestias Capitales/8 Bestia sin nombre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luthern"
+              "title": "8 Bestia sin nombre"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Las 8 Bestias Capitales/8 Bestia sin nombre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de 8 Bestia sin nombre"
             }
           },
           {
@@ -202,9 +204,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc146d9564418fda",
+  "active": "04337d40d569d02b",
   "lastOpenFiles": [
+    "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
+    "Las 8 Bestias Capitales/8 Bestia sin nombre.md",
+    "Las 8 Bestias Capitales/7 Soberbia.md",
+    "Las 8 Bestias Capitales/6 Ira.md",
+    "Las 8 Bestias Capitales/4 Lujuria.md",
+    "Las 8 Bestias Capitales/5 Envidia.md",
     "Lugares/Luthern.md",
+    "Las 8 Bestias Capitales/3 Avaricia.md",
+    "Las 8 Bestias Capitales/1 Pereza.md",
+    "Las 8 Bestias Capitales/2 Gula.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Luna.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Biggsa.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Liana.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Enya.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Ruem.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Malthus.md",
     "Eventos Históricos/Colonización de Luthern.md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Religiones/Iglesia de la Luz.md",
@@ -215,22 +232,7 @@
     "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
     "Civilización Antigua/Ruinas Antiguas.md",
     "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
-    "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
-    "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
     "Las 8 Bestias Capitales",
-    "Panteón/Yáhul.md",
-    "Panteón/Sol Eterno.md",
-    "Panteón/Romeo.md",
-    "Panteón/Lucerne.md",
-    "Lugares/Reinos/Reinos del Norte/Reinos del Norte.md",
-    "Lugares/Reinos/Reino de Austris/Reino de Austris.md",
-    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Reino de Thole.md",
-    "Lugares/Reinos/Reinos del Norte/La Triple Alianza.md",
-    "Lugares/Reinos/Reinos del Norte/Ducado de Eredon/Ducado de Eredon.md",
-    "Lugares/Reinos/Reinos del Norte/Reino de Northan/Reino de Northan.md",
-    "Lugares/Reinos/Reinos del Norte/El Frente Unido.md",
-    "Lugares/Erión.md",
-    "Lugares/Tierras sin reclamar.md",
     "Party",
     "Agrupaciones y Gremios",
     "Lugares/Reinos/Reinos del Norte/Sin título.base",
