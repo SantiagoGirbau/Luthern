@@ -3,3 +3,7 @@ Es considerada la bestia "más débil" de [[Las 8 bestias capitales.|Las 8 besti
 Existen planes de contingencia en caso de que esta criatura se asiente cerca de una ciudad. Los tentáculos de carne que brotan cuando se asienta, no son tan duros como la propia bestia y si se quema un lado del campo donde se asienta, tiende a ir hacia el otro, así logrando evitar que se dirija a ciudades.
 
 Durante la noche se mueve lentamente pero es prácticamente imparable. Puede deshacer hechizos, y si recibe daños se cura rápidamente.
+
+No tiene mente alguna ni voluntad. Solo se mueve en base a su mínima supervivencia y es por ello que se la ha nombrado Pereza.
+
+![[1 Pereza.png]]
