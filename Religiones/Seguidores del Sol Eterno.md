@@ -2,6 +2,7 @@
 tags:
   - Religion
   - Lore
+  - Agrupación
 aliases:
   - Sol Eterno
   - Soleternistas

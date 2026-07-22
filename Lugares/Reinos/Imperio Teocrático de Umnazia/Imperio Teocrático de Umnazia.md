@@ -13,8 +13,8 @@ Se destaca debido a que se aceptan todas las religiones existentes y el imperio 
 Cuando más seguidores comprobables tenga una religión, más poder se le asigna luego en el gobierno y sus decisiones internas.
 
 Religiones más poderosas:
-Iglesia de la Luz con su Dios, Lucerne.
-Iglesia del Amor con su Dios, Romeo.
-Iglesia de la Vida y la Muerte con su Dios. Yáhul
+[[Iglesia de la Luz]] con su Dios, [[Lucerne]].
+[[Iglesia del Amor]] con su Dios, [[Romeo]].
+[[Iglesia de la Vida y la Muerte]] con su Dios,[[Yáhul]]
 [[Seguidores del Sol Eterno]], con su Dios, [[Sol Eterno]].
 ...

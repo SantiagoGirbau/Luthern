@@ -25,16 +25,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agrupaciones y Gremios/Exploradores de Ruinas.md",
+                "file": "Religiones/Iglesia de la Luz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploradores de Ruinas"
+              "title": "Iglesia de la Luz"
+            }
+          },
+          {
+            "id": "aa0aa458da65dd60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imperio Teocrático de Umnazia"
+            }
+          },
+          {
+            "id": "36d2aa7c414e2f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gremio de Cartógrafos"
+            }
+          },
+          {
+            "id": "e47605820cbe5ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religiones/Seguidores del Sol Eterno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seguidores del Sol Eterno"
+            }
+          },
+          {
+            "id": "c17d4aa517a6a4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religiones/Iglesia del Amor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iglesia del Amor"
+            }
+          },
+          {
+            "id": "ca387ef49a86e2b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Luthern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luthern"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -107,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agrupaciones y Gremios/Exploradores de Ruinas.md",
+                "file": "Lugares/Luthern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Exploradores de Ruinas"
+              "title": "Enlaces entrantes de Luthern"
             }
           },
           {
@@ -182,10 +252,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Agrupaciones y Gremios/Exploradores de Ruinas.md"
+                "file": "Lugares/Luthern.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Exploradores de Ruinas"
+              "title": "Propiedades de los archivos para Luthern"
             }
           }
         ]
@@ -206,19 +276,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e0a80b2fc8a9d5f",
+  "active": "ca387ef49a86e2b3",
   "lastOpenFiles": [
-    "Civilización Antigua/Ruinas Antiguas.md",
-    "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
-    "Agrupaciones y Gremios/Exploradores de Ruinas.md",
-    "Religiones/Iglesia de la Vida y la Muerte.md",
-    "Religiones/Iglesia del Amor.md",
+    "Eventos Históricos/Colonización de Luthern.md",
+    "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Religiones/Iglesia de la Luz.md",
+    "Agrupaciones y Gremios/Exploradores de Ruinas.md",
+    "Religiones/Iglesia del Amor.md",
+    "Religiones/Iglesia de la Vida y la Muerte.md",
     "Religiones/Seguidores del Sol Eterno.md",
+    "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
+    "Civilización Antigua/Ruinas Antiguas.md",
     "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
     "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
     "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
-    "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Las 8 Bestias Capitales",
     "Panteón/Yáhul.md",
     "Panteón/Sol Eterno.md",
@@ -234,7 +305,6 @@
     "Lugares/Luthern.md",
     "Lugares/Erión.md",
     "Lugares/Tierras sin reclamar.md",
-    "Northan.md",
     "Party",
     "Agrupaciones y Gremios",
     "Lugares/Reinos/Reinos del Norte/Sin título.base",

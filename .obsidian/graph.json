@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#NPC  ",
+      "query": "tag:#Deidad  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16777215
       }
     },
     {
@@ -27,18 +27,32 @@
         "a": 1,
         "rgb": 2265396
       }
+    },
+    {
+      "query": "tag:#Agrupación  ",
+      "color": {
+        "a": 1,
+        "rgb": 3562476
+      }
+    },
+    {
+      "query": "tag:#NPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 15223370
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.77291187220793,
-  "lineSizeMultiplier": 2.11253553540003,
+  "nodeSizeMultiplier": 2.26112088804657,
+  "lineSizeMultiplier": 2.51583863544064,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 11.5933396507378,
+  "centerStrength": 0.202788682821172,
+  "repelStrength": 11.3334235819683,
   "linkStrength": 1,
   "linkDistance": 252,
-  "scale": 0.429678105856876,
-  "close": true
+  "scale": 0.32423331244056425,
+  "close": false
 }

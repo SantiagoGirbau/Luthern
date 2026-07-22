@@ -1,0 +1,1 @@
+[[Luthern]] Fue colonizada hace relativamente poco tiempo. Aproximadamente 110 años. Primero
