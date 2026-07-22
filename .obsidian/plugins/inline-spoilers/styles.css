@@ -1,0 +1,88 @@
+/*!
+ * Inline Spoilers for Obsidian
+ * https://github.com/logonoff/obsidian-inline-spoilers
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
+body {
+	--inline-spoilers-hidden-foreground: transparent;
+	--inline-spoilers-hidden-background: var(--interactive-accent);
+
+	--inline-spoilers-revealed-foreground: var(--text-accent);
+	--inline-spoilers-revealed-background: hsla(var(--color-accent-hsl), 0.075);
+
+	--inline-spoilers-spoiler-radius: var(--radius-s);
+}
+
+/**
+ * hidden spoilers
+ */
+/** used in reader mode */
+.inline_spoilers-spoiler,
+
+/** used in spoiler content in editor mode */
+.inline_spoilers-editor-spoiler,
+
+/** used in delimiter in editor mode */
+.inline_spoilers-editor-spoiler-delimiter {
+	/* obscured */
+	background-color: var(--inline-spoilers-hidden-background) !important;
+	color: var(--inline-spoilers-hidden-foreground) !important;
+}
+
+/**
+ * revealed spoilers
+ */
+/** used when a hidden spoiler is revealed by clicking in reader mode */
+.inline_spoilers-spoiler.inline_spoilers-revealed,
+
+/** used when a hidden spoiler is revealed in editor mode */
+.cm-active .inline_spoilers-editor-spoiler,
+.cm-active .inline_spoilers-editor-spoiler-delimiter,
+
+/** used when a hidden spoiler is revealed using "Reveal all spoilers" */
+.inline_spoilers-revealed .inline_spoilers-spoiler,
+.inline_spoilers-revealed .inline_spoilers-editor-spoiler,
+.inline_spoilers-revealed .inline_spoilers-editor-spoiler-delimiter {
+	background-color: var(--inline-spoilers-revealed-background) !important;
+	color: var(--inline-spoilers-revealed-foreground) !important;
+}
+
+/**
+ * spoiler border radius
+ */
+/* reader mode always shows one contiguous spoiler with rounded corners */
+.inline_spoilers-spoiler {
+	border-radius: var(--inline-spoilers-spoiler-radius);
+}
+
+/* editor mode, when a spoiler is hidden, does not display delimiters (||) */
+.is-live-preview .inline_spoilers-editor-spoiler {
+	border-radius: var(--inline-spoilers-spoiler-radius);
+}
+
+/* editor mode, when a spoiler is revealed, display delimiters */
+.is-live-preview .cm-active .inline_spoilers-editor-spoiler {
+	/* contiguous border radius with the delimiter */
+	border-radius: 0em;
+}
+
+/* editor mode, when a spoiler is revealed, display delimiters, which should have
+   contiguous border radius with the spoiler content */
+.cm-line .inline_spoilers-editor-spoiler-delimiter {
+	&:has(+ .inline_spoilers-editor-spoiler) {
+		border-radius: var(--inline-spoilers-spoiler-radius) 0 0 var(--inline-spoilers-spoiler-radius);
+	}
+	&:is(.inline_spoilers-editor-spoiler + .inline_spoilers-editor-spoiler-delimiter) {
+		border-radius: 0 var(--inline-spoilers-spoiler-radius) var(--inline-spoilers-spoiler-radius) 0;
+	}
+}
+
+/** hide spoiler delimiters in editor mode when spoilers are hidden */
+.is-live-preview .inline_spoilers-editor-spoiler-delimiter {
+	display: none;
+}
+
+/** reveal spoiler delimiters in editor mode when a spoiler is revealed */
+.is-live-preview .cm-active .inline_spoilers-editor-spoiler-delimiter {
+	display: unset;
+}
