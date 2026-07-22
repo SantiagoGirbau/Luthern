@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
+                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ptolomeus Sergei"
+              "title": "Vaticano Solar"
             }
           }
         ],
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md"
+                "file": "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Ptolomeus Sergei"
+              "title": "Propiedades de los archivos para Vaticano Solar"
             }
           }
         ],
@@ -208,6 +208,7 @@
   },
   "active": "5642123d6fade6e5",
   "lastOpenFiles": [
+    "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Ptolomeus Sergei.md",
     "Lugares/Reinos/Reinos del Norte/Vaticano Solar/Vaticano Solar.md",
     "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
@@ -234,7 +235,6 @@
     "Party/Agustin.md",
     "Party/Dania.md",
     "Party/Ari.md",
-    "Party/Flawa.md",
     "Party",
     "Agrupaciones y Gremios",
     "Lugares/Reinos/Reinos del Norte/Sin título.base",
