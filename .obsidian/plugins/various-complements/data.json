@@ -32,11 +32,33 @@
     "select": [
       {
         "modifiers": [],
-        "key": "Enter"
+        "key": "Tab",
+        "hideHotkeyGuide": false
+      },
+      {
+        "modifiers": [],
+        "key": "Enter",
+        "hideHotkeyGuide": false
       }
     ],
-    "select with custom alias": [],
-    "select with custom alias and add to aliases": [],
+    "select with custom alias": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "Tab",
+        "hideHotkeyGuide": false
+      }
+    ],
+    "select with custom alias and add to aliases": [
+      {
+        "modifiers": [
+          "Ctrl"
+        ],
+        "key": "Enter",
+        "hideHotkeyGuide": false
+      }
+    ],
     "select with query alias": [],
     "up": [
       {
@@ -84,7 +106,7 @@
   "caretLocationSymbolAfterComplement": "",
   "displayedTextSuffix": " => ...",
   "enableInternalLinkComplement": true,
-  "suggestInternalLinkWithAlias": false,
+  "suggestInternalLinkWithAlias": true,
   "preserveFirstLetterCaseOnInternalLink": false,
   "excludeInternalLinkPathPrefixPatterns": "",
   "excludeInternalLinkPathGlobPatterns": [],
