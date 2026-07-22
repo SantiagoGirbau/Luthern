@@ -1,1 +1,7 @@
-Agrupación que se dedica a explorar y saquear [[Ruinas Antiguas|Las Ruinas]] en [[Luthern]]. Es un gremio muy importante y tiene sedes por todo el [[Luthern|Continente Nuevo]] 
+---
+aliases:
+  - Exploradores
+  - Gremio de exploradores
+---
+Agrupación que se dedica a explorar y saquear [[Ruinas Antiguas|Las Ruinas]] en [[Luthern]]. Es un gremio muy importante y tiene sedes por todo el [[Luthern|Continente Nuevo]].
+
