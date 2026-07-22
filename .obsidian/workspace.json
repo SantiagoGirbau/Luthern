@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agrupaciones y Gremios/Exploradores de Ruinas.md",
+                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploradores de Ruinas"
+              "title": "Gremio de Cartógrafos"
             }
           }
         ],
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Agrupaciones y Gremios/Exploradores de Ruinas.md"
+                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Exploradores de Ruinas"
+              "title": "Propiedades de los archivos para Gremio de Cartógrafos"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "7e0a80b2fc8a9d5f",
   "lastOpenFiles": [
-    "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
     "Agrupaciones y Gremios/Exploradores de Ruinas.md",
+    "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
     "Religiones/Iglesia de la Vida y la Muerte.md",
     "Religiones/Iglesia del Amor.md",
     "Religiones/Iglesia de la Luz.md",
