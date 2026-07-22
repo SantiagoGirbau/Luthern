@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
+                "file": "Agrupaciones y Gremios/Exploradores de Ruinas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gremio de Cartógrafos"
+              "title": "Exploradores de Ruinas"
             }
           }
         ],
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md"
+                "file": "Agrupaciones y Gremios/Exploradores de Ruinas.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Gremio de Cartógrafos"
+              "title": "Propiedades de los archivos para Exploradores de Ruinas"
             }
           }
         ],
@@ -208,6 +208,8 @@
   },
   "active": "7e0a80b2fc8a9d5f",
   "lastOpenFiles": [
+    "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
+    "Agrupaciones y Gremios/Exploradores de Ruinas.md",
     "Religiones/Iglesia de la Vida y la Muerte.md",
     "Religiones/Iglesia del Amor.md",
     "Religiones/Iglesia de la Luz.md",
@@ -233,8 +235,6 @@
     "Lugares/Erión.md",
     "Lugares/Tierras sin reclamar.md",
     "Northan.md",
-    "Party/Kuka~.md",
-    "Party/Pado~.md",
     "Party",
     "Agrupaciones y Gremios",
     "Lugares/Reinos/Reinos del Norte/Sin título.base",
