@@ -6,4 +6,4 @@ Estadísticas:
 14
 10
 
-Planea formar parte de una 
+Planea formar parte de una [[Tribus Aborígenes|Tribu]] 
