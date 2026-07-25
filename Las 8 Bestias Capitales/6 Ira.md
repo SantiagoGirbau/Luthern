@@ -6,6 +6,7 @@ tags:
   - Lore
   - NPC
   - BestiaCapital
+  - Criatura
 ---
 **Ira** es considerada una de las más peligrosas entre **[[Las 8 bestias capitales.]]**, no por su poder destructivo directo, sino por su intelecto sádico y su capacidad para corromper la voluntad ajena.
 Ira aparece de un instante al otro en un lugar donde se esté por desatar conflicto y maldice a todas las criaturas a su alrededor incitándolos a la violencia desenfrenada. Aquellos afectados olvidan todo sobre sus personas y comienzan a atacar y destruir todo a su alrededor. Aparte de violentos, infunde a los afectados con fuerzas y poderes destructivos, los cuales desaparecen una vez termina el conflicto.

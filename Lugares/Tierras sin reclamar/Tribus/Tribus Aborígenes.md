@@ -1,0 +1,1 @@
+Estas tribus llegaron a [[Luthern]] (O [[Luthern|Luh'Terna]] en el dialecto aborigen) aproximadamente 200 años antes de la [[Colonización de Luthern]]. 

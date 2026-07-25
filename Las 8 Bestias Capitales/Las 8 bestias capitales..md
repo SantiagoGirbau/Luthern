@@ -8,6 +8,8 @@ tags:
   - NPC
   - Lore
   - Deidad
+  - Criatura
+  - Agrupación
 ---
 Rondando por el mundo existen 8 bestias colosales cuyo origen se desconoce. Cada una de ellas ha sido nombrada por uno de los pecados capitales de este mundo.
 

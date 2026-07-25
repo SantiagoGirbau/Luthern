@@ -8,6 +8,7 @@ tags:
   - Lore
   - NPC
   - BestiaCapital
+  - Criatura
 ---
 Es considerada la bestia "más débil" de [[Las 8 bestias capitales.|Las 8 bestias]], Es básicamente una bola gigante de carne y pus que se mueve durante la noche entre tierras fértiles, consume todo a su paso y genera tentáculos de carne a su alrededor para defenderse de ataques. A pesar de que la misma no se mueve durante el día, que es mientras se alimenta, su piel es extremadamente dura y resistente a la magia. Es una de las [[Las 8 bestias capitales.|Bestias capitales]] con la que más se ha experimentado, pero aún no han habido avances sobre cómo podría eliminarse o frenarse.
 
