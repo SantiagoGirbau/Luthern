@@ -41,9 +41,16 @@
         "a": 1,
         "rgb": 15223370
       }
+    },
+    {
+      "query": "Jugador",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 2.26112088804657,
@@ -52,7 +59,7 @@
   "centerStrength": 0.202788682821172,
   "repelStrength": 11.3334235819683,
   "linkStrength": 1,
-  "linkDistance": 252,
-  "scale": 0.32423331244056425,
+  "linkDistance": 384,
+  "scale": 0.18462327465275277,
   "close": false
 }

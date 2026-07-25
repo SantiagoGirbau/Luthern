@@ -1,3 +1,9 @@
+---
+aliases:
+tags:
+  - Jugador
+---
+Forma parte de la [[Party]]. 
 Estadísticas:
 17
 11
