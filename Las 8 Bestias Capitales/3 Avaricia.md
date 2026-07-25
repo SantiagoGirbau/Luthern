@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Avaricia
 tags:
   - NPC
   - Lore

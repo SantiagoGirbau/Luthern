@@ -15,6 +15,6 @@ La soberbia, la avaricia, la lujuria, la ira, la gula, la envidia, la pereza y u
 
 Estas bestias están relacionadas con la [[Civilización antigua]] o al menos eso teorizan los historiadores.
 
-Las tribus aborígenes tienen otra teoría, piensan que estas bestias rondan el continente para
+Las tribus aborígenes tienen otra teoría, piensan que estas bestias rondan el continente para evitar que el [[Seguidores del Sol Eterno|Sol Eterno]] vuelva a brillar sobre las tierras de [[Luthern]].
 
 

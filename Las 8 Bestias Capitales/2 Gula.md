@@ -4,6 +4,7 @@ aliases:
   - El Devorador de montañas
   - El Devorador de ciudades
   - El Devorador
+  - Gula
 tags:
   - Lore
   - BestiaCapital

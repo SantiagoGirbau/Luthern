@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Lujuria
 tags:
   - Lore
   - NPC
