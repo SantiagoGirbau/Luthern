@@ -10,3 +10,4 @@ Suelen ser sencillas de matar, debido a que si se elimina el anfitrión, Envidia
 De todas formas se trata con mucha precaución a la eliminación de Deambulantes debido a que un solo paso en falso y podría desatar una pandemia.
 Algunos [[Deambulante|Deambulantes]] pueden ser muy fuertes debido a que el anfitrión lo fue en vida.
 La gente infectada con [[5 Envidia|La peste]] no suele considerarse viva ya, por lo que su eliminación no es considerada asesinato.
+

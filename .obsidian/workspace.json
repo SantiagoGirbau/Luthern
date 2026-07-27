@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
+                "file": "Criaturas/Deambulante.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tribus Aborígenes"
+              "title": "Deambulante"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
+                "file": "Criaturas/Deambulante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Tribus Aborígenes"
+              "title": "Enlaces entrantes de Deambulante"
             }
           },
           {
@@ -206,6 +206,7 @@
   },
   "active": "27b441a614447aab",
   "lastOpenFiles": [
+    "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
     "Party/Vale.md",
     "Party/Pado~.md",
     "Fotos/Sur de Luthern.png",
@@ -217,7 +218,6 @@
     "Party/Dania.md",
     "Party/Ari.md",
     "Party/Agustin.md",
-    "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
     "Eventos Históricos/Colonización de Luthern.md",
     "Eventos Históricos/La Gran Helada.md",
     "Las 8 Bestias Capitales/8 Bestia sin nombre.md",
