@@ -47,8 +47,7 @@
               "title": "Reino de Bigzha"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Reino de Bigzha"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -218,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e3a817c55657990",
+  "active": "dc146d9564418fda",
   "lastOpenFiles": [
+    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "Lugares/Luthern.md",
     "Party/Dania.md",
     "Party/Kuka~.md",
