@@ -39,15 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
+                "file": "Las 8 Bestias Capitales/4 Lujuria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reino de Bigzha"
+              "title": "4 Lujuria"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Las 8 Bestias Capitales/4 Lujuria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de 4 Lujuria"
             }
           },
           {
@@ -216,8 +218,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc146d9564418fda",
+  "active": "7e3a817c55657990",
   "lastOpenFiles": [
+    "Las 8 Bestias Capitales/3 Avaricia.md",
+    "Las 8 Bestias Capitales/1 Pereza.md",
+    "Las 8 Bestias Capitales/2 Gula.md",
+    "Las 8 Bestias Capitales/6 Ira.md",
+    "Las 8 Bestias Capitales/7 Soberbia.md",
+    "Las 8 Bestias Capitales/4 Lujuria.md",
+    "Las 8 Bestias Capitales/5 Envidia.md",
+    "Fotos/1 Pereza.png",
     "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "Lugares/Luthern.md",
     "Party/Dania.md",
@@ -239,19 +249,11 @@
     "Panteón/El Dragón.md",
     "Lugares/Tierras sin reclamar/Tierras sin reclamar.md",
     "Religiones/Seguidores del Sol Eterno.md",
-    "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
     "Lugares/Tierras sin reclamar/Tribus",
-    "Lugares/Tierras sin reclamar/Sin título.md",
     "Lugares/Tierras sin reclamar",
-    "Lugares/Sin título.md",
-    "Las 8 Bestias Capitales/7 Soberbia.md",
-    "Las 8 Bestias Capitales/6 Ira.md",
-    "Las 8 Bestias Capitales/5 Envidia.md",
-    "Las 8 Bestias Capitales/4 Lujuria.md",
     "Criaturas",
     "Fotos/6 Ira.png",
     "Fotos/2 Gula.png",
-    "Fotos/1 Pereza.png",
     "Las 8 Bestias Capitales",
     "Party",
     "Agrupaciones y Gremios",
