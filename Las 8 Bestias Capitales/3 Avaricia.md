@@ -7,4 +7,4 @@ tags:
   - BestiaCapital
   - Criatura
 ---
-Es una de las [[Las 8 bestias capitales.|Bestias capitales]] 
+Es una de las [[Las 8 bestias capitales.|Bestias capitales]]. Idea: Dragon
