@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Las 8 Bestias Capitales/7 Soberbia.md",
+                "file": "Eventos Históricos/Guerra del Norte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Soberbia"
+              "title": "Guerra del Norte"
             }
           }
         ],
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Las 8 Bestias Capitales/7 Soberbia.md",
+                "file": "Eventos Históricos/Guerra del Norte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 7 Soberbia"
+              "title": "Enlaces entrantes de Guerra del Norte"
             }
           },
           {
@@ -220,9 +220,9 @@
   },
   "active": "cdecb4bba3f4f5ac",
   "lastOpenFiles": [
+    "Las 8 Bestias Capitales/7 Soberbia.md",
     "Las 8 Bestias Capitales/5 Envidia.md",
     "Las 8 Bestias Capitales/6 Ira.md",
-    "Las 8 Bestias Capitales/7 Soberbia.md",
     "Las 8 Bestias Capitales/4 Lujuria.md",
     "Las 8 Bestias Capitales/3 Avaricia.md",
     "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
