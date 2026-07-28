@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Las 8 Bestias Capitales/3 Avaricia.md",
+                "file": "Las 8 Bestias Capitales/7 Soberbia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Avaricia"
+              "title": "7 Soberbia"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Las 8 Bestias Capitales/3 Avaricia.md",
+                "file": "Las 8 Bestias Capitales/7 Soberbia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 3 Avaricia"
+              "title": "Enlaces entrantes de 7 Soberbia"
             }
           },
           {
@@ -206,9 +206,9 @@
   },
   "active": "d463039012fc5be5",
   "lastOpenFiles": [
+    "Las 8 Bestias Capitales/3 Avaricia.md",
     "Las 8 Bestias Capitales/7 Soberbia.md",
     "Las 8 Bestias Capitales/5 Envidia.md",
-    "Las 8 Bestias Capitales/3 Avaricia.md",
     "Las 8 Bestias Capitales/2 Gula.md",
     "Las 8 Bestias Capitales/1 Pereza.md",
     "Eventos Históricos/Guerra del Norte.md",
