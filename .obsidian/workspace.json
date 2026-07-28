@@ -65,14 +65,12 @@
             "id": "52d276ea1b860b39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Las 8 Bestias Capitales/4 Lujuria.md",
-                "mode": "source",
-                "source": false
+                "file": "Fotos/5 Lujuria.png"
               },
-              "icon": "lucide-file",
-              "title": "4 Lujuria"
+              "icon": "lucide-image",
+              "title": "5 Lujuria"
             }
           }
         ],
@@ -149,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Las 8 Bestias Capitales/4 Lujuria.md",
+                "file": "Fotos/5 Lujuria.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 4 Lujuria"
+              "title": "Enlaces entrantes de 5 Lujuria"
             }
           },
           {
@@ -248,8 +246,9 @@
   },
   "active": "52d276ea1b860b39",
   "lastOpenFiles": [
-    "Las 8 Bestias Capitales/3 Avaricia.md",
     "Las 8 Bestias Capitales/4 Lujuria.md",
+    "Fotos/5 Lujuria.png",
+    "Las 8 Bestias Capitales/3 Avaricia.md",
     "Las 8 Bestias Capitales/5 Envidia.md",
     "Fotos/4 Avaricia.png",
     "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
