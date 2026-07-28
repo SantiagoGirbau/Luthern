@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
+                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tribus Aborígenes"
+              "title": "Gremio de Cartógrafos"
             }
           }
         ],
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
+                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Tribus Aborígenes"
+              "title": "Enlaces entrantes de Gremio de Cartógrafos"
             }
           },
           {
@@ -248,9 +248,11 @@
   },
   "active": "52d276ea1b860b39",
   "lastOpenFiles": [
+    "Agrupaciones y Gremios/Exploradores de Ruinas.md",
+    "Agrupaciones y Gremios/Colmenas.md",
+    "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
     "Lugares/Tierras sin reclamar/Tribus/Sangre de dragón/Sangre de dragón.md",
     "Lugares/Tierras sin reclamar/Tribus/Sangre de dragón",
-    "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
     "Panteón/El Dragón.md",
     "Las 8 Bestias Capitales/6 Ira.md",
     "Fotos/6 Ira.png",
@@ -277,7 +279,6 @@
     "Party/Agustin.md",
     "Eventos Históricos/Colonización de Luthern.md",
     "Las 8 Bestias Capitales/8 Bestia sin nombre.md",
-    "Agrupaciones y Gremios/Colmenas.md",
     "Lugares/Tierras sin reclamar/Tribus",
     "Lugares/Tierras sin reclamar",
     "Criaturas",
