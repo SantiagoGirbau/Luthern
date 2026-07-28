@@ -1,6 +1,8 @@
 ---
 aliases:
   - Avaricia
+  - El Dragón Pálido
+  - El Devorador De Almas
 tags:
   - NPC
   - Lore
