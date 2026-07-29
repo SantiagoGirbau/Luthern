@@ -2,6 +2,7 @@
 tags:
   - Lore
   - Lugar
+  - Estructura
 aliases:
   - Ruinas
   - Las Ruinas

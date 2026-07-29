@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atium.md",
+                "file": "Objetos Hombrew/Atium.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ojos de Magia.md",
+                "file": "Mecánicas/Puntos de cansancio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ojos de Magia"
+              "title": "Puntos de cansancio"
             }
           }
         ],
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ojos de Magia.md",
+                "file": "Mecánicas/Puntos de cansancio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Ojos de Magia"
+              "title": "Enlaces entrantes de Puntos de cansancio"
             }
           },
           {
@@ -232,12 +232,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0490699a9331264",
+  "active": "10002867e004e160",
   "lastOpenFiles": [
-    "Sin nombre",
-    "Ojos de Magia.md",
-    "Atium.md",
+    "Objetos Hombrew/Atium.md",
+    "Mecánicas/Puntos de cansancio.md",
+    "Mecánicas",
+    "Sin título.md",
+    "Estructuras/Ojo de Magia.md",
     "Eventos Históricos/Guerra del Norte.md",
+    "Estructuras/Ruinas Antiguas.md",
+    "Estructuras",
+    "Objetos Hombrew",
     "Lugares/Reinos/Reinos del Norte/Cordillera de Sangre.md",
     "Las 8 Bestias Capitales/4 Lujuria.md",
     "Las 8 Bestias Capitales/7 Soberbia.md",
@@ -263,8 +268,6 @@
     "Party/Dania.md",
     "Party/Kuka~.md",
     "Party/Vale.md",
-    "Eventos Históricos/La Gran Helada.md",
-    "Party/Pado~.md",
     "Fotos/Sur de Luthern.png",
     "Fotos/Norte de Luthern.png",
     "Lugares/Tierras sin reclamar/Tribus",
@@ -274,9 +277,6 @@
     "Las 8 Bestias Capitales",
     "Party",
     "Agrupaciones y Gremios",
-    "Lugares/Reinos/Reinos del Norte/Sin título.base",
-    "Lugares/Reinos/Reinos del Norte/República de Sinias",
-    "Lugares/Reinos/Reinos del Norte/Reino de Northan",
     "Fotos/Sol Eterno.png",
     "Fotos/Biggsa.png",
     "Sin título.canvas",
