@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "cd235b65b56b9dab",
+            "id": "10002867e004e160",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "10002867e004e160",
+            "id": "ea760fbb2b0d4db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -232,7 +232,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10002867e004e160",
+  "active": "ea760fbb2b0d4db4",
   "lastOpenFiles": [
     "Objetos Hombrew/Atium.md",
     "Mecánicas/Puntos de cansancio.md",
