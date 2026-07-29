@@ -4,11 +4,11 @@ Para minar AXM se necesita reprogramar un irradiador mágico industrial de alta 
 
 Ojo de magia: Es un lugar donde se ha casteado un hechizo de nivel 10 o más, dependiendo de que tan alto el hechizo, mas poderoso el ojo de magia.
 
-Atium/AXM:
+###Atium/AXM:
 
  El AXM, funciona así: En el instante en que lo tomas, podés ver el futuro desde los ojos de tu futuro yo. Todas las acciones que hagas, van a ser en un futuro ficticio generado por el atium. Si una persona toma AXM y la otra no, esta puede ver claramente el futuro de las acciones del otro y puede adelantarse a sus actos. En caso de que ambas partes tomen AXM todo se dará en un combate ficticio en el futuro.
 
-ewMecánicamente hablando: Al tomar AXM tu conciencia se ve adelantada a tus actos en 10 turnos (60 segundos) y todo lo que suceda en ese periodo no habrá de afectar al usuario.|||||| Cuando uno de los dos usuarios muere o queda inconsciente en el combate ficticio, el efecto del AXM cesa.  
+Mecánicamente hablando: Al tomar Atium tu conciencia se ve adelantada a tus actos en 10 turnos (60 segundos) y todo lo que suceda en ese periodo no habrá de afectar al usuario. Cuando uno de los dos usuarios muere o queda inconsciente en el combate ficticio, el efecto del Atium cesa.  
 Una persona no debe consumir más de un cristal de Atium al día, porque podría producir daños irreparables al cuerpo. Aunque esto no es siempre.
 
 Si se consume una segunda dosis, todos los HP se recuperan, y al terminar el efecto se aplicarán 2 puntos de cansancio al jugador.
