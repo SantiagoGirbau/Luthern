@@ -1,3 +1,8 @@
+---
+aliases:
+tags:
+  - Mineral
+---
 El atium es un metal precioso descubierto en el [[Luthern|Continente Nuevo]]. Principalmente en la [[Cordillera de Sangre]], donde se mina desde su descubrimiento.
 
 El [[Atium]] se volvió rápidamente un mineral muy preciado debido a sus propiedades anti-mágicas. Se utiliza enormemente para crear dispositivos, armas y armaduras anti-mágicas.
