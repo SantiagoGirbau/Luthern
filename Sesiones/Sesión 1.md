@@ -57,4 +57,8 @@ Biggs, Enya, Liana, Malthus y Ruem... Luna no se encuentra a la vista.
 
 La gente ovaciona por un rato largo hasta que suena un gong repetidas veces y se alza el silencio antinatural.
 
-El Príncipe [[Malthus]] se adelanta un segundo y dice en voz
+El Príncipe [[Malthus]] se adelanta un segundo y dice en voz alta. 
+-El Rey [[Reino de Bigzha|Biggsa]] está por hablar, aquel que ose interrumpir o faltarle el respeto será acallado con acero.
+Se da la vuelta haciendo volar su capa azul de forma airosa. Detrás de el, se adelanta lentamente el Rey. Un hombre de características sencillas pero magnánimas y su voz es suave y dulce.
+
+-Gracias hijo, no es necesario que amenaces a nadie...
