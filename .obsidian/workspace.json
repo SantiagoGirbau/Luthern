@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos Hombrew/Mithril.md",
-                "mode": "source",
+                "file": "Party/Agustin.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mithril"
+              "title": "Agustin"
             }
           }
         ],
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objetos Hombrew/Mithril.md",
+                "file": "Party/Agustin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Mithril"
+              "title": "Enlaces entrantes de Agustin"
             }
           },
           {
@@ -234,8 +234,8 @@
   },
   "active": "ea760fbb2b0d4db4",
   "lastOpenFiles": [
-    "Objetos Hombrew/Atium.md",
     "Objetos Hombrew/Mithril.md",
+    "Objetos Hombrew/Atium.md",
     "Mecánicas/Puntos de cansancio.md",
     "Mecánicas",
     "Sin título.md",
