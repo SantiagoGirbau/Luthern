@@ -47,4 +47,14 @@ Todos se dirigen hasta ahí, se hace levemente tarde, en el [[Dolce Marina]] pas
 
 Las calles ahora están VACÍAS. Quedan solo un par de vendedores ordenando sus puestos.
 
-Corren al palacio a medida que se van acercando van viendo más gente y al final del todo ya llegan a la multitud. Una enorme cantidad de personas se apretujan y acumulan a los pies del palacio, en la rotonda central de la ciudad y en la calle principal desde donde se ve el 
+Corren al palacio a medida que se van acercando van viendo más gente y al final del todo ya llegan a la multitud. Una enorme cantidad de personas se apretujan y acumulan a los pies del palacio, en la rotonda central de la ciudad y en la calle principal desde donde se ve el Balcón real.
+
+Tirada de supervivencia, investigación o algo así para encontrar un lugar bonito.
+
+Logran o no encontrar un espacio donde se lo ve al Rey asomarse junto con su familia.
+
+Biggs, Enya, Liana, Malthus y Ruem... Luna no se encuentra a la vista.
+
+La gente ovaciona por un rato largo hasta que suena un gong repetidas veces y se alza el silencio antinatural.
+
+El Príncipe [[Malthus]] se adelanta un segundo y dice en voz
