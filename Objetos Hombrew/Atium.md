@@ -7,7 +7,7 @@ El atium es un metal precioso descubierto en el [[Luthern|Continente Nuevo]]. Pr
 
 El [[Atium]] se volvió rápidamente un mineral muy preciado debido a sus propiedades anti-mágicas. Se utiliza enormemente para crear dispositivos, armas y armaduras anti-mágicas.
 
-Algunos de estos dispositivos consisten en granadas perturba-magia, escudos anti-magia, armas absorbe-magia, entre muchos otros usos, como generación de energía.
+Algunos de estos dispositivos consisten en [[Granadas Perturba-Magia]], escudos anti-magia, armas absorbe-magia, entre muchos otros usos, como generación de energía.
 
 Este metal es obtenido a través de cuevas conocidas como [[Ojo de Magia]]
 
