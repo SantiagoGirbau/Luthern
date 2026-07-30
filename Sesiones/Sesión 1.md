@@ -62,3 +62,4 @@ El Príncipe [[Malthus]] se adelanta un segundo y dice en voz alta.
 Se da la vuelta haciendo volar su capa azul de forma airosa. Detrás de el, se adelanta lentamente el Rey. Un hombre de características sencillas pero magnánimas y su voz es suave y dulce.
 
 -Gracias hijo, no es necesario que amenaces a nadie...
+
