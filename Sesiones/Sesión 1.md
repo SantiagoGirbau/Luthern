@@ -47,4 +47,4 @@ Todos se dirigen hasta ahí, se hace levemente tarde, en el [[Dolce Marina]] pas
 
 Las calles ahora están VACÍAS. Quedan solo un par de vendedores ordenando sus puestos.
 
-Corren al palacio a medida que se van acercando van viendo más gente y al final del todo ya llegan a la multitud. Una enorme cantidad de personas se apretujan y acumulan a los pies del palacio, en la rotonda central de la ciudad y en la calle principal desde donde se ve el Balcóm
+Corren al palacio a medida que se van acercando van viendo más gente y al final del todo ya llegan a la multitud. Una enorme cantidad de personas se apretujan y acumulan a los pies del palacio, en la rotonda central de la ciudad y en la calle principal desde donde se ve el 

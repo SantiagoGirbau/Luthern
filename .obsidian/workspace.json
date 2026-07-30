@@ -215,8 +215,19 @@
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
             }
+          },
+          {
+            "id": "8428314bc84c327a",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Modo agente"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -231,11 +242,21 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Modo agente": false
     }
   },
-  "active": "d206941702e02b8e",
+  "active": "8428314bc84c327a",
   "lastOpenFiles": [
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Scheduled-Tasks",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Bohsse.md",
     "Party/Vale.md",
     "Eventos Históricos/Edicto Real.md",
@@ -252,31 +273,23 @@
     "Lugares/Bosque Frontera",
     "Objetos Hombrew/Granadas Perturba-Magia.md",
     "Objetos Hombrew/Atium.md",
-    "Sesiones",
     "Las 8 Bestias Capitales/6 Ira.md",
     "Party/Dania.md",
     "Party/Ari.md",
     "Objetos Hombrew/Mithril.md",
     "Mecánicas/Puntos de cansancio.md",
-    "Mecánicas",
     "Sin título.md",
     "Estructuras/Ojo de Magia.md",
     "Estructuras/Ruinas Antiguas.md",
-    "Estructuras",
-    "Objetos Hombrew",
     "Lugares/Reinos/Reinos del Norte/Cordillera de Sangre.md",
     "Las 8 Bestias Capitales/4 Lujuria.md",
     "Las 8 Bestias Capitales/7 Soberbia.md",
     "Fotos/5 Lujuria.png",
     "Fotos/4 Avaricia.png",
-    "Lugares/Tierras sin reclamar/Tribus/Sangre de dragón",
     "Fotos/6 Ira.png",
     "Fotos/1 Pereza.png",
     "Fotos/Sur de Luthern.png",
     "Fotos/Norte de Luthern.png",
-    "Lugares/Tierras sin reclamar/Tribus",
-    "Lugares/Tierras sin reclamar",
-    "Criaturas",
     "Fotos/2 Gula.png",
     "Fotos/Sol Eterno.png",
     "Fotos/Biggsa.png",
