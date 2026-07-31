@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Las 8 Bestias Capitales/3 Avaricia.md",
+                "file": "Agrupaciones y Gremios/Exploradores de Ruinas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Avaricia"
+              "title": "Exploradores de Ruinas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Agrupaciones y Gremios/Exploradores de Ruinas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Exploradores de Ruinas"
             }
           },
           {
@@ -230,10 +232,12 @@
       "gemini-scribe:Gemini Scribe: Modo agente": false
     }
   },
-  "active": "dc146d9564418fda",
+  "active": "54c0b65ec9a4000c",
   "lastOpenFiles": [
-    "Sesiones/Sesión 1.md",
+    "Las 8 Bestias Capitales/1 Pereza.md",
     "Las 8 Bestias Capitales/3 Avaricia.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Luna.md",
+    "Sesiones/Sesión 1.md",
     "Religiones/Iglesia de la Luz.md",
     "Panteón/Yáhul.md",
     "Religiones/Seguidores del Sol Eterno.md",
@@ -242,7 +246,6 @@
     "Religiones/Iglesia del Amor.md",
     "Religiones/Iglesia de la Vida y la Muerte.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Bohsse.md",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Luna.md",
     "Lugares/Reinos/Reino de Bigzha/Realeza/Enya.md",
     "Mecánicas y Notas/Preguntas.md",
     "Mecánicas/Sin título 1.md",
@@ -267,7 +270,6 @@
     "Lugares/Reinos/Reino de Bigzha/Mar Dulce.md",
     "Lugares/Bosque Frontera/Cordillera Umbría.md",
     "Lugares/Bosque Frontera",
-    "Objetos Hombrew/Granadas Perturba-Magia.md",
     "Fotos/5 Lujuria.png",
     "Fotos/4 Avaricia.png",
     "Fotos/6 Ira.png",
