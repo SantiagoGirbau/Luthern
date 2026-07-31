@@ -61,5 +61,10 @@ El Príncipe [[Malthus]] se adelanta un segundo y dice en voz alta.
 -El Rey [[Reino de Bigzha|Biggsa]] está por hablar, aquel que ose interrumpir o faltarle el respeto será acallado con acero.
 Se da la vuelta haciendo volar su capa azul de forma airosa. Detrás de el, se adelanta lentamente el Rey. Un hombre de características sencillas pero magnánimas y su voz es suave y dulce.
 
--Gracias hijo, no es necesario que amenaces a nadie... Hola a todos. Soy [[Reino de Bigzha|Biggsa]] 
+-Gracias hijo, no es necesario que amenaces a nadie... Hola a todos. Soy [[Reino de Bigzha|Biggsa]] por si alguno no me conoce... 
+La gente se ríe ante la aclaración.
+-Y por si no saben también, publiqué un anuncio hace un tiempo en búsqueda de gente dispuesta a crecer...
+La gente vuelve a reír.
+Malthus se adelanta un segundo y dice "Cómo osan faltar el respeto a..."
+[[Reino de Bigzha|Bigssa]] levanta la mano firmemente y de 
 
