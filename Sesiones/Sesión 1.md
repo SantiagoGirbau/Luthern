@@ -7,7 +7,18 @@ tags:
 ---
 Introducciones por personaje. Consistirán en todos leyendo u oyendo el Edicto donde sea que se encuentren. 
 
-Lunes 
+Martes 15 del Tercero del año 139 del calendario Soleternista.
+
+Llueve a cántaros. Fiddle. Ya hace bastante saliste del bosque. Has estado deambulando por lo que asumes es el Sur de Luthern, ya que el bosque ahora se encuentra al norte, a diferencia del sur, como te has acostumbrado durante tus años de vida...
+
+Saltas de porche en porche en un pueblo por el cual no te has molestado ni en aprender su nombre.
+
+Hasta que llegas a un pequeño tablón de anuncios donde hay un banco para descansar.
+Un papel sorprendentemente blanco llama tu atención.
+
+
+
+
 
 > [!Edicto Real]
 > El Rey de [[Reino de Bigzha|Bigzha]] llama a aventureros, mercenarios, guerreros, magos, cartógrafos o cualquier otra profesión allegada a presentarse al mediodía del día Jueves 30 del mes Séptimo del año 139 del calendario [[Seguidores del Sol Eterno|Soleternista]] en el palacio Real de [[Reino de Bigzha|Bigzha]] en la ciudad de [[Bohsse]], en el corazón de [[Luthern]] al norte del [[Mar Dulce]].
