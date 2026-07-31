@@ -4,6 +4,7 @@ aliases:
   - Las 8 bestias
   - Las grandes bestias
   - Bestias capitales
+  - Las bestias Capitales
 tags:
   - NPC
   - Lore
