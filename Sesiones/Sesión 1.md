@@ -65,7 +65,7 @@ Tirada de supervivencia, investigación o algo así para encontrar un lugar boni
 
 Logran o no encontrar un espacio donde se lo ve al Rey asomarse junto con su familia.
 
-Biggs, Enya, Liana, Malthus y Ruem... Luna no se encuentra a la vista.
+Biggs, Liana (Esposa), Enya, Malthus y Ruem... sus hijos. Luna no se encuentra a la vista.
 
 La gente ovaciona por un rato largo hasta que suena un gong repetidas veces y se alza el silencio antinatural.
 
