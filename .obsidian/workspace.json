@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Vale.md",
+                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Dolce Marina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vale"
+              "title": "Dolce Marina"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Vale.md",
+                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Dolce Marina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Vale"
+              "title": "Enlaces entrantes de Dolce Marina"
             }
           },
           {
@@ -262,12 +262,12 @@
   },
   "active": "fe83f86549eed17c",
   "lastOpenFiles": [
+    "Party/Vale.md",
     "Las 8 Bestias Capitales/3 Avaricia.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes’Burrow.md",
     "Objetos Hombrew/Mapas de las Ruinas.md",
     "Sesiones/Sesión 1.md",
     "Agrupaciones y Gremios/Exploradores de Ruinas.md",
-    "Party/Vale.md",
     "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
     "Pasted image 20260731012803.png",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos",
