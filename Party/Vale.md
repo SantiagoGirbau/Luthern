@@ -161,11 +161,11 @@ Nunca regreso  a [[Thes’Burrow]].
 
 Dentro de poco será el aniversario de esa noche. 
 
-Actualmente Fiddle vaga solo por la región cercana a Bigzha (luego de salir por su cuenta, se dio con que estaba al otro lado del [[El Bosque Frontera|Bosque Frontera]]. Resultaba muy difícil regresar a Thole), viajando con su pequeña y liviana valija. Cargando consigo el inservible mapa que causó tanto dolor (aun no se decide si venderlo, destruirlo, enterrarlo o regresarlo anónimamente a su pueblo).
+Actualmente Fiddle vaga solo por la región cercana a Bigzha (luego de salir por su cuenta, se dio con que estaba al otro lado del [[El Bosque Frontera|Bosque Frontera]]. Resultaba muy difícil regresar a Thole), viajando con su pequeña y liviana valija. Cargando consigo el inservible [[Mapas de las Ruinas|Mapa]] que causó tanto dolor (aun no se decide si venderlo, destruirlo, enterrarlo o regresarlo anónimamente a su pueblo).
 
 Se volvió seriamente adicto al café. A toda costa Fiddle busca reemplazar su sueño. 
 
-Primero, porque Avaricia apareció de noche, y si está despierto, la Bestia no puede alcanzarlo.
+Primero, porque [[3 Avaricia|Avaricia]] apareció de noche, y si está despierto, la Bestia no puede alcanzarlo.
 
 Pero también porque le es imposible dormir tranquilo. Desde ese evento, cada vez que él cierra sus ojos, escucha los gritos de esa noche. 
 
@@ -232,7 +232,7 @@ PEQUEÑA GUIA
 
   
 
-- Cuando FIddle escuchó el llamado del rey, se encontraba cerca de donde daría este anuncio (no se si es una ciudad, pueblo o reino). Recordemos que al salir del Bosque frontera término por la zona. Y seguramente ese último año se quedó vagabundeando, ahogando sus penas en cafeína de taberna en taberna, dando pena donde fuera. ¿porque no escuchar lo que su honorable señoría el rey tiene para decir? capas advierte que hay Bestias cerca y Fiddle tenga que salir despavorido más hacia el sur.
+- Cuando FIddle escuchó [[Edicto Real|El Llamado]] del rey, se encontraba cerca de donde daría este anuncio (no se si es una ciudad, pueblo o reino). Recordemos que al salir del Bosque frontera término por la zona. Y seguramente ese último año se quedó vagabundeando, ahogando sus penas en cafeína de taberna en taberna, dando pena donde fuera. ¿porque no escuchar lo que su honorable señoría el rey tiene para decir? capas advierte que hay Bestias cerca y Fiddle tenga que salir despavorido más hacia el sur.
     
 
   
