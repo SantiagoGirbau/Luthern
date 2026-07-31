@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesiones/Sesión 1.md",
+                "file": "Objetos Hombrew/Mapas de las Ruinas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Sesión 1"
+              "title": "Enlaces entrantes de Mapas de las Ruinas"
             }
           },
           {
@@ -260,8 +260,9 @@
       "gemini-scribe:Gemini Scribe: Modo agente": false
     }
   },
-  "active": "d206941702e02b8e",
+  "active": "f7ad2fc49fc87886",
   "lastOpenFiles": [
+    "Sesiones/Sesión 1.md",
     "Lugares/Luthern.md",
     "Mecánicas y Notas/Preguntas.md",
     "Objetos Hombrew/Café Dolce Marina.md",
@@ -270,7 +271,6 @@
     "Las 8 Bestias Capitales/3 Avaricia.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes’Burrow.md",
     "Objetos Hombrew/Mapas de las Ruinas.md",
-    "Sesiones/Sesión 1.md",
     "Agrupaciones y Gremios/Exploradores de Ruinas.md",
     "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
     "Pasted image 20260731012803.png",
