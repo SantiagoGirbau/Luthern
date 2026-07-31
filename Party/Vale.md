@@ -184,9 +184,9 @@ PEQUEÑA GUIA
 
 - Fiddle Dirtypaws: protagonista. Haregon de pelaje grisaseo/amarillento. 
     
-- Bucker Tropp: Amigo de la infancia y tetstigo de casamiento de Fiddle. Humano. Misma edad que Fiddle. De contextura robusta y grandote (build de fighter/farmer)
+- [[Bucker Tropp]]: Amigo de la infancia y tetstigo de casamiento de Fiddle. Humano. Misma edad que Fiddle. De contextura robusta y grandote (build de fighter/farmer)
     
-- Primrose de Dirtpaws: Ex-Pareja de Fiddle. Otra haregon. Pelaje marron rojizo/arosado.
+- [[Primrose de Dirtpaws]]: Ex-Pareja de Fiddle. Otra haregon. Pelaje marron rojizo/arosado.
     
 - Holy (mujer) y Grace (varon) Dirtypaws: Hijos de Fiddle y Primrose. Nacieron a los 4 años de su relación. Deberian tener alrededor de 6 - 8 años. Fiddle los vio por última vez con 1 año menos de edad.
     
