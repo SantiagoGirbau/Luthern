@@ -35,7 +35,7 @@ Fiddle no encontraba nada vergonzoso en eso.
 
   
 
-Creció en una pequeña comunidad al Norte, “Thes’Burrow” donde todos conocían el nombre de todos. Y desde siempre se supo que Fiddle era “medio cagón”. Bucker, su mejor amigo desde la infancia, convirtió el hecho en su pasatiempo favorito. Planeando bromas para agarrarlo de sorpresa y asustarlo. Fiddle protestaba que era innecesario matarlo de un infarto. Bucker solo se reía y contestaba que sin bullying, no existe la amistad. 
+Creció en una pequeña comunidad al Norte, “[[Thes’Burrow]]” donde todos conocían el nombre de todos. Y desde siempre se supo que Fiddle era “medio cagón”. Bucker, su mejor amigo desde la infancia, convirtió el hecho en su pasatiempo favorito. Planeando bromas para agarrarlo de sorpresa y asustarlo. Fiddle protestaba que era innecesario matarlo de un infarto. Bucker solo se reía y contestaba que sin bullying, no existe la amistad. 
 
 Y sin esta amistad, Fiddle reconoce, no habria llegado tan lejos como lo hizo. Pues fue Bucker quien siempre lo empujó un paso más allá de donde él se atrevía. Fue él quien lo convenció de experimentar con la magia que tanto temía usar. Fue él quien, tras semanas de insistencia, lo persuadió de robar aquel amuleto que le permitía canalizar mejor sus hechizos.
 
