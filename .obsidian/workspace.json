@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,8 +164,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,7 +259,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sesiones/Sesión 1.md"
+                "file": "Las 8 Bestias Capitales/Las 8 bestias capitales..md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -285,13 +284,14 @@
       "obsidian-git:Open Git source control": false,
       "gemini-scribe:Gemini Scribe: Modo agente": false,
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "agent-client:Open agent client": false
+      "agent-client:Open agent client": false,
+      "iconic:Abrir libro de reglas": false
     }
   },
-  "active": "07696ec893874b04",
+  "active": "f0490699a9331264",
   "lastOpenFiles": [
-    "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
     "Sesiones/Sesión 1.md",
+    "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
     "Lugares/Reinos/Reino de Bigzha/Realeza/Lunaria.md",
     "Criaturas/Civeta umbría.md",
     "Pasted image 20260731131217.png",

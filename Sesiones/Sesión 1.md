@@ -17,9 +17,6 @@ Hasta que llegas a un pequeño tablón de anuncios donde hay un banco para desca
 Un papel sorprendentemente blanco llama tu atención.
 
 
-
-
-
 > [!Edicto Real]
 > El Rey de [[Reino de Bigzha|Bigzha]] llama a aventureros, mercenarios, guerreros, magos, cartógrafos o cualquier otra profesión allegada a presentarse al mediodía del día Jueves 30 del mes Séptimo del año 139 del calendario [[Seguidores del Sol Eterno|Soleternista]] en el palacio Real de [[Reino de Bigzha|Bigzha]] en la ciudad de [[Bohsse]], en el corazón de [[Luthern]] al norte del [[Mar Dulce]].
 > El rey insiste en que se presente todo aquel interesado en fama, gloria, fortuna y poder, independientemente de su pasado, bandera, religión o poder actual. El único requisito es el deseo de crecer y volverse más fuerte para superar lo insuperable.
