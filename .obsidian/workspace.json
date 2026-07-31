@@ -156,12 +156,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -261,19 +265,9 @@
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
             }
-          },
-          {
-            "id": "48f903641e709724",
-            "type": "leaf",
-            "state": {
-              "type": "agent-client-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "New session"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -294,7 +288,7 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "48f903641e709724",
+  "active": "07696ec893874b04",
   "lastOpenFiles": [
     "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
     "Sesiones/Sesión 1.md",
