@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Edric
 tags:
   - Jugador
 ---
@@ -19,13 +20,13 @@ Fueron meses difíciles, pero debía cuidarla lo mas que pudiese, puesto que nad
 
 Los días seguían avanzando y la enfermedad de mi madre solo parecía empeorar más y más, hasta que un día me dio un recado.
 
-“Edric, querido, si de verdad buscas ayudar a tu madre, busca en Bigzha a un comerciante llamado Theodor, deberás cruzar el Bosque Frontera, ve con algún grupo de expedición o de comerciantes, no te arriesgues a ir solo, es un lugar muy peligroso y con tu fuerza actual no sobrevivirías. Cuando encuentres a Theodor, dale esta carta, el sabrá que hacer después.”
+“Edric, querido, si de verdad buscas ayudar a tu madre, busca en [[Reino de Bigzha|Bigzha]] a un comerciante llamado Theodor, deberás cruzar el [[El Bosque Frontera|Bosque Frontera]], ve con algún grupo de expedición o de comerciantes, no te arriesgues a ir solo, es un lugar muy peligroso y con tu fuerza actual no sobrevivirías. Cuando encuentres a Theodor, dale esta carta, el sabrá que hacer después.”
 
 Hice caso a cada indicación de mi madre, al día siguiente una caravana saldría hacia Bigzha para llevar mercadería que vender, yo me uní a ellos con la excusa de que cuidaría de los viajantes a cambio de no pagar el traslado. Ellos aceptaron.
 
 El viaje no tuvo demasiados contratiempos, algún par de criaturas salvajes no demasiado grandes, pero si hambrientas, nos atacaron, Algunos viajeros y yo íbamos armados, así que no fueron demasiado problema.
 
-Llegamos al gran reino de Bigzha, nunca había presenciado un ambiente tan… Tranquilo y vivo, nadie parecía preocuparse por los problemas que traía consigo la guerra. No tuve demasiado tiempo para volverme un turista, debía encontrar a Theodor.
+Llegamos al gran reino de Bigzha, nunca había presenciado un ambiente tan… Tranquilo y vivo, nadie parecía preocuparse por los problemas que traía consigo la guerra. No tuve demasiado tiempo para volverme un turista, debía encontrar a [[Theodor]].
 
 Para mi buena fortuna, la tienda de este hombre era conocida por la zona, ya que no muy lejos de la plaza principal se alzaba una herboristería bastante grande y bien cuidada, repleta de plantas aromáticas y decorativas de todos colores. Tras un tablón de madera que cumplía la función de mostrador se encontraba un hombre grande, muy peludo y con una gran sonrisa, se trataba de ese tal Theodor.
 
@@ -41,7 +42,7 @@ Mi corazón se detuvo por un segundo, mi madre, quien se había dedicado a mí e
 
 Ha pasado casi un año desde que llegué a Bigzha, un año desde la fecha que yo utilizo como aniversario del fallecimiento de mi madre. Theodor se ha encargado de mi como si fuera el padre que nunca tuve y me ha ayudado a entrenar como lo hacían aquellos acólitos.
 
-Parte de mi nuevo entrenamiento requería que me adentrara algunos kilómetros en el bosque, recolectara hierbas y plantas para Theodor y regresara. Fue en ese entrenamiento donde todo volvería a cambiar.
+Parte de mi nuevo entrenamiento requería que me adentrara algunos kilómetros en el bosque, recolectara hierbas y plantas para [[Theodor]] y regresara. Fue en ese entrenamiento donde todo volvería a cambiar.
 
 Un día, no se exactamente el porqué, me adentré aun mas lejos en el bosque, el doble… tal vez el triple de la distancia habitual… ¿Estaba poniéndome a prueba a mi mismo? ¿Algo me llamaba? No estoy del todo seguro. Lo que si se es que lo que vi era trágico.
 
