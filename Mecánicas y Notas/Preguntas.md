@@ -15,4 +15,5 @@ Responde las siguientes preguntas:
 - ¿Crees que es posible matar a un Dios?
 - ¿Crees que es posible matar a un Dios?
 - ¿Crees que es posible matar a un Dios?
-  
+
+https://santiagogirbau.github.io/Luthern/preguntas.html
