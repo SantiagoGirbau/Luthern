@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -276,9 +276,10 @@
       "gemini-scribe:Gemini Scribe: Modo agente": false
     }
   },
-  "active": "f0490699a9331264",
+  "active": "62ea58aeccc27c78",
   "lastOpenFiles": [
     "Criaturas/Civeta umbría.md",
+    "Pasted image 20260731131217.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Marina Cofmak.md",
     "Sesiones/Sesión 1.md",
     "Party/Vale.md",
@@ -310,7 +311,6 @@
     "Lugares/Erión.md",
     "Religiones/Iglesia del Amor.md",
     "Religiones/Iglesia de la Vida y la Muerte.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Bohsse.md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Scheduled-Tasks",
@@ -323,7 +323,6 @@
     "zFotos/6 Ira.png",
     "zFotos/1 Pereza.png",
     "zFotos/Sur de Luthern.png",
-    "zFotos/Norte de Luthern.png",
     "Sin título.canvas"
   ]
 }
