@@ -35,8 +35,7 @@
               "title": "Sesión 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesiones/Sesión 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Sesión 1"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -218,7 +216,7 @@
       "gemini-scribe:Gemini Scribe: Modo agente": false
     }
   },
-  "active": "d206941702e02b8e",
+  "active": "dc146d9564418fda",
   "lastOpenFiles": [
     "Sesiones/Sesión 1.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Bohsse.md",
