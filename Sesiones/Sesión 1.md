@@ -5,7 +5,7 @@ tags:
   - Sesión
   - Lore
 ---
- Introducciones por personaje. Consistirán en todos leyendo u oyendo el Edicto donde sea que se encuentren. 
+Introducciones por personaje. Consistirán en todos leyendo u oyendo el Edicto donde sea que se encuentren. 
 
 > [!Edicto Real]
 > El Rey de [[Reino de Bigzha|Bigzha]] llama a aventureros, mercenarios, guerreros, magos, cartógrafos o cualquier otra profesión allegada a presentarse al mediodía del día Jueves 30 del mes Séptimo del año 139 del calendario [[Seguidores del Sol Eterno|Soleternista]] en el palacio Real de [[Reino de Bigzha|Bigzha]] en la ciudad de [[Bohsse]], en el corazón de [[Luthern]] al norte del [[Mar Dulce]].

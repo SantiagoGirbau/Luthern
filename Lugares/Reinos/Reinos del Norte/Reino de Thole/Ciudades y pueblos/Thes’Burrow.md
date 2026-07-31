@@ -3,4 +3,4 @@ Anteriormente eran una tribu originaria, pero con el tiempo se fue modernizando 
  
  Palabras de Vale: 
  _Imagino que la casa de Fiddle y Primrose, y quizás la costumbre de la gente de su pueblo, habría sido como las casas de los Hobbits. Casas bajo colinas de tierra. Bien cottage core y humildes. Y sus vestimentas también serían de las mismas vibras que las de The Shire._
-![[Pasted image 20260731012803.png]]
+![[Thes'Burrow.png]]
