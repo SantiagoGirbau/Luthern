@@ -100,7 +100,10 @@ Las voces se empiezan a alzar, el cuchicheo se convierte en voces, las voces en 
 
 La gente poco a poco empieza a desalojar las calles, yéndose con una cara de desilusión, muchos burlándose del disparate que oyeron...
 
-[[Malthus]] reniega, Bigssa no lo detiene hasta un rato después.
+[[Malthus]] reniega y grita:
+-¿¡No están cansados de vivir en su tiranía!? ¿¡De temer cada día que su hogar, su familia desaparezca en un instante!? ¡Las he visto sangrar! ¡Si sangra puede morir!
+
+Bigssa no lo detiene hasta un rato después.
 
 Unos 5 minutos después solo quedan unas 30 personas. Algunos se ven poderosos, otros desesperados. Unos pocos tienen una mirada de determinación.
 
@@ -110,8 +113,19 @@ El Rey Salta de golpe del balcón y aterriza con fuerza impactante en el patio d
 Liana, su mujer, se agarra la frente en desaprobación, pero con una sonrisa de oreja a oreja.
 Malthus y [[Enya]] Intentan por un segundo detenerlo, pero evidentemente no pueden.
 
-Entonces... Ustedes son los que quedan... [[Reino de Bigzha|Bigssa]] tiene un aura enorme. Atemoriza e impone respeto.
+-Entonces... Ustedes son los que quedan...- [[Reino de Bigzha|Bigssa]] tiene un aura enorme. Atemoriza e impone respeto.
 
 Bigssa los barre a todos con la mirada.
 
-Está bien, a todos y cada uno de ustedes, solo por la valentía de haberse quedado
+-Está bien, a todos y cada uno de ustedes, solo por la valentía de haberse quedado, se los recompensará con 5 piezas de oro.- Chasquea los dedos y ya hay 6 personas repartiendo bolsitas con el dinero... 
+
+-Ahora mismo, evidentemente y como me hubiera gustado explicar anteriormente, no planeo que ninguno de ustedes se enfrente a una bestia capital.
+-Sería enviarlos a morir...
+-Mi plan consiste en entrenarlos, prepararlos e informarlos hasta que ustedes mismos puedan con certeza absoluta, poner de "Rodillas" a una de esas bestias.
+-Se les asignará un supervisor a cada uno de ustedes. Considérenlos como "Asesores y entrenadores". Les darán misiones, trabajos y entrenamientos para fortalecer, su cuerpo, su alma y su voluntad.
+
+Salen por la puerta del palacio 6 personas.
+
+3 mujeres y 3 hombres.
+
+Se ponen a hablar entre ellos, 
