@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 1216788
       }
+    },
+    {
+      "query": "tag:#Sesión  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 15.0588872343306,
   "linkStrength": 1,
   "linkDistance": 406,
-  "scale": 0.24466510967910013,
-  "close": true
+  "scale": 0.5694148860370303,
+  "close": false
 }
