@@ -255,19 +255,21 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Sesiones/Sesión 1.md"
+              },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
             }
           },
           {
-            "id": "8428314bc84c327a",
+            "id": "48f903641e709724",
             "type": "leaf",
             "state": {
-              "type": "gemini-agent-view",
+              "type": "agent-client-chat-view",
               "state": {},
-              "icon": "sparkles",
-              "title": "Modo agente"
+              "icon": "bot-message-square",
+              "title": "New session"
             }
           }
         ],
@@ -287,10 +289,12 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "gemini-scribe:Gemini Scribe: Modo agente": false
+      "gemini-scribe:Gemini Scribe: Modo agente": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "agent-client:Open agent client": false
     }
   },
-  "active": "d206941702e02b8e",
+  "active": "48f903641e709724",
   "lastOpenFiles": [
     "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
     "Sesiones/Sesión 1.md",

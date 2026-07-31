@@ -99,4 +99,6 @@ Las voces se empiezan a alzar, el cuchicheo se convierte en voces, las voces en 
 -Perdió la razón
 -Pretende que nos suicidemos
 -La pérdida de su hija lo hizo perder el norte... Que el Sol Eterno lo proteja...
--
+-Vámonos...
+
+
