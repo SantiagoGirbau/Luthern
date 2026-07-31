@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religiones/Iglesia de la Luz.md",
+                "file": "Las 8 Bestias Capitales/3 Avaricia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iglesia de la Luz"
+              "title": "3 Avaricia"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religiones/Iglesia de la Luz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Iglesia de la Luz"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -232,11 +230,12 @@
       "gemini-scribe:Gemini Scribe: Modo agente": false
     }
   },
-  "active": "54c0b65ec9a4000c",
+  "active": "dc146d9564418fda",
   "lastOpenFiles": [
-    "Panteón/Yáhul.md",
     "Sesiones/Sesión 1.md",
+    "Las 8 Bestias Capitales/3 Avaricia.md",
     "Religiones/Iglesia de la Luz.md",
+    "Panteón/Yáhul.md",
     "Religiones/Seguidores del Sol Eterno.md",
     "Lugares/Luthern.md",
     "Lugares/Erión.md",
@@ -259,7 +258,6 @@
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe",
     "Eventos Históricos/Edicto Real.md",
-    "Las 8 Bestias Capitales/3 Avaricia.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Dolce Marina.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse",
     "Las 8 Bestias Capitales/2 Gula.md",
