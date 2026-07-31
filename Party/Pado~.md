@@ -70,7 +70,7 @@ Han pasado ya unas semanas, los brazos no parecen obedecer a todas mis ordenes, 
 
 La plaza principal está llena, un anuncio, el mismísimo rey ha pedido ayuda de todo aquel que este dispuesto a partir en un viaje. Servirá para ponerme a prueba a mí, y poner a prueba este nuevo poder. Solo espero que en este viaje pueda encontrar la forma de ayudar a todo aquel que me ha ayudado a sobrevivir hasta ahora.
 
-El alma del guerrero:
+El alma del guerrero: =={purple}(Ha sido modificada para encajar mejor en [[Bucker =={accent}Tropp]])====
 
 Kord’ac es mi nombre, el hombre mas grande, mas fuerte, y el líder de una antigua tribu establecida en lo profundo de los bosques. No hay criatura que pueda abatirme, no hay desafío que no pueda superar, no hay objetivo que no pueda cumplir.
 
