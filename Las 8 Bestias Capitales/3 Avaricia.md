@@ -3,6 +3,7 @@ aliases:
   - Avaricia
   - El Dragón Pálido
   - El Devorador De Almas
+  - Terror Volador
 tags:
   - NPC
   - Lore

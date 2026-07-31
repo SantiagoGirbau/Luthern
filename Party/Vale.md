@@ -85,7 +85,7 @@ Fiddle jamás abandonó completamente a su familia. Seguía visitando y asegurá
 
 Cuando la situación del pueblo empezó a empeorar, Bucker tuvo una idea disparatada.
 
-Todos en el pueblo habían reunido suficiente dinero para comprar el mapa de unas antiguas ruinas. Según los rumores, allí encontrarían suficientes recursos para vender y sacar adelante a toda la comunidad. Solo necesitaban hombres que se sumarán a la expedición.
+Todos en el pueblo habían reunido suficiente dinero para comprar el [[Mapas de las Ruinas|Mapa]] de unas antiguas ruinas. Según los rumores, allí encontrarían suficientes recursos para vender y sacar adelante a toda la comunidad. Solo necesitaban hombres que se sumarán a la expedición.
 
 Bucker insistió durante semanas. Necesitaban un hechicero. Necesitaban a Fiddle.
 
@@ -101,11 +101,11 @@ Todo lo malo que podía pasar…pasó.
 
 Quien estaba guiando al grupo se confundio y tomaron el caino equivocado. Jamas llegaron a las ruinas, y terminaron perdiendose por el Boque Frontera. 
 
-Y esa maldita noche, cuando decidieron acampar para juntar fuerzas y seguir adelante, Avaricia los atacó.
+Y esa maldita noche, cuando decidieron acampar para juntar fuerzas y seguir adelante, [[3 Avaricia|Avaricia]] los atacó.
 
 Fiddle había luchado contra alguna que otra bestias antes, en sus desventuras con Bucker. Ninguna se parecía a la Bestia de esa noche. 
 
-Los hombres comenzaron a caer como moscas, algunos sin tener momento para reaccionar. Otros se levantaron a los gritos con sus armas para luchar contra el terro volador.
+Los hombres comenzaron a caer como moscas, algunos sin tener momento para reaccionar. Otros se levantaron a los gritos con sus armas para luchar contra el [[3 Avaricia|Terror Volador]] 
 
 Los gritos comenzaron a llenar el bosque, los hombres continuaban cayendo sin vida al piso.
 
@@ -125,7 +125,7 @@ El miedo siempre a consumido a Fiddle. Desde que tiene memoria.
 
 Y esa noche habia descubierto un miedo nuevo. 
 
-¿Avaricia? no, no era solo esa bestia lo que lee aterraba.
+¿[[3 Avaricia|Avaricia]]? no, no era solo esa bestia lo que le aterraba.
 
   
 
@@ -151,7 +151,7 @@ Temía ver los ojos decepcionados de Primrose sobre si. Temía que sus hijos cre
 
 Por primera vez en su vida, Fiddle temia ser visto por lo que era: un cobarde.  
   
-Nunca regreso  a Thes’Burrow.
+Nunca regreso  a [[Thes’Burrow]].
 
   
 
@@ -161,7 +161,7 @@ Nunca regreso  a Thes’Burrow.
 
 Dentro de poco será el aniversario de esa noche. 
 
-Actualmente Fiddle vaga solo por la región cercana a Bigzha (luego de salir por su cuenta, se dio con que estaba al otro lado del Bosque Frontera. Resultaba muy difícil regresar a Northan), viajando con su pequeña y liviana valija. Cargando consigo el inservible mapa que causó tanto dolor (aun no se decide si venderlo, destruirlo, enterrarlo o regresarlo anónimamente a su pueblo).
+Actualmente Fiddle vaga solo por la región cercana a Bigzha (luego de salir por su cuenta, se dio con que estaba al otro lado del [[El Bosque Frontera|Bosque Frontera]]. Resultaba muy difícil regresar a Thole), viajando con su pequeña y liviana valija. Cargando consigo el inservible mapa que causó tanto dolor (aun no se decide si venderlo, destruirlo, enterrarlo o regresarlo anónimamente a su pueblo).
 
 Se volvió seriamente adicto al café. A toda costa Fiddle busca reemplazar su sueño. 
 
