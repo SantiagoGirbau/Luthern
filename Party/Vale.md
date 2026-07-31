@@ -18,10 +18,7 @@ Backstory:
 [Sorcerer: Lunar Sorcery - DND 5th Edition](https://dnd5e.wikidot.com/sorcerer:lunar-sorcery) 
 # Fiddle Dirtypaws
 
-  
-
 El miedo siempre ha consumido a Fiddle. Desde que tiene memoria.
-
   
 Siempre justificó su cobardía con su origen cual especie. Al ser medio conejo (decia él), es normal sentir la paranoia de que todos alrededor tuyo están a la deriva para comerte, para matarte. “Hasta que se demuestre lo contrario, todo el mundo será tu enemigo”.
 
@@ -41,11 +38,8 @@ Y sin esta amistad, Fiddle reconoce, no habria llegado tan lejos como lo hizo. P
 
 Y cuando escucharon rumores sobre otra haregon viajando por la región (encima una mujer haregon!) fue Bucker quien prácticamente lo arrastró por la región para que Fiddle encontrará "el amor de su vida". 
 
-  
+  ---
 
----
-
-  
 
 Primrose y Fiddle resultaron ser la pareja perfecta, al menos al principio de su relación.  
 
@@ -53,9 +47,7 @@ Primrose era todo lo que Fiddle no era. Segura. Decidida. Valiente y testaruda. 
 
 Y a pesar de estar rodeado de personas tan valerosas… Fiddle nunca se esforzó por controlar sus ansiedades. ¿Y por qué lo haría? Él sentia cero verguenza de ser cobarde. 
 
-  
-
-“Los héroes mueren, mientras los cobardes logran vivir otro día más.” le decía tanto a su esposa como a Bucker cuando sugerían una idea atrevida. 
+  “Los héroes mueren, mientras los cobardes logran vivir otro día más.” le decía tanto a su esposa como a Bucker cuando sugerían una idea atrevida. 
 
   
 
@@ -64,8 +56,6 @@ Y a pesar de estar rodeado de personas tan valerosas… Fiddle nunca se esforzó
   
 
 Cuando Prim tuvo a los mellizos, Fiddle simplemente quedó helado. Sus manos le temblaban al alzar a sus hijos  por primera vez. 
-
-  
 
 No le tenia miedo a los bebes; se tenia miedo a si mismo. 
 
@@ -195,9 +185,76 @@ PEQUEÑA GUIA
 - Paso casi 1 año del incidente. 
     
 
-  
-  
+---
 
+--- REGISTRO DEL DOMO DE LA VERDAD ---
+
+Pregunta: ¿Quién eres?
+Respuesta: Fiddle Dirtypaws
+
+Pregunta: ¿De dónde provienes?
+Respuesta: Thes'burrow. Un pueblo al norte de [[Luthern]]
+
+Pregunta: ¿Cuál es tu objetivo actual?
+Respuesta: ¿Sobrevivir? La verdad, me siento bastante perdido y sin rumbo. Iré a cualquier parte siempre y cuando evite afrontar el pasado.
+
+Pregunta: ¿Crees en algún Dios? Si es así, ¿cuál?
+Respuesta: Se que muchos obtienen sus poderes de los dioses. En mi pueblo imagino que venerábamos a los dioses relacionados a la cosecha y el buen hogar. ¿Honestamente? pase por tanto que me cuesta poner mi fe en algún Dios. No soy ateo, pero tampoco diría ser practicante. 
+
+Pregunta: Si fueras un animal, ¿Cuál serías?
+Respuesta: Soy un conejo. ¡NO UNA LIEBRE! pequeña aclaracion.
+
+Pregunta: ¿Cuál es tu opinión respecto a las 8 bestias?
+Respuesta: Las odio, me causan terror. Si las demás bestias son tan letales como los rumores dicen ser, ojala nunca cruzar camino con otra. 
+
+Especialmente odio a [[3 Avaricia|Avaricia]]. Dios, Avaricia. [[3 Avaricia|El terror del cielo]]. El solo pensar en esa bestia hace que se me ericen los pelos. 
+
+Quizás en el fondo me gustaría acabar con Avaricia. La voz de Bucker y Primrose dicen en mi interior que debería detener a esa Bestia. Pero soy solo un conejo. 
+
+Dios, ojala no cruzarme nunca más con Avaricia, ni con ninguno de sus malditos primos.
+
+Pregunta: Descríbete con 3 palabras
+Respuesta: Ansioso. Precavido. Cobarde
+
+Pregunta: ¿Cuál es tu comida favorita?
+Respuesta: Ah, Prim solía hacer un estofado de hongos delicioso. Y sus Pastafrolas caceras eran las mejores.
+
+Actualmente solo consumo lo necesario y café. Así pega mas fuerte...
+
+Pregunta: ¿Cuáles diría la gente que son tus mayores defectos?
+Respuesta: Soy muy cagón. Eso no es ningún secreto. 
+
+Pregunta: ¿Cuáles diría la gente que son tus mayores virtudes?
+Respuesta: Una vez Prim menciono que, pese a ser temeroso, podía ver la imagen más grande frente a mí. Dijo que era una criatura creativa, que podía resolver cualquier situación en la que me encontrara con astucia y las palabras correctas (Carisma pese al temor). 
+Más de una vez Bucker y yo salimos de un aprieto gracias a alguna mentira que se me ocurrió. Dijo que, diferente a el, tenía un cerebro bastante rapido y despierto.
+
+No sé si habrán estado diciendo la verdad.
+
+Pregunta: Nombra al menos 2 personas importantes para ti. ¿Quiénes son y qué hicieron?
+Respuesta: Bucker, mi mejor amigo, mi testigo de casamiento. De no haber sido por el hay muchas cosas que no me habría animado a intentar. Dede adentrarme en la magia hasta conocer al amor de mi vida. La ultima vez que lo vi fue esa noche... 
+
+Mi familia, Primrose, Holy y Grace. Me gustaría decir que lo son mi todo en el mundo y que haría lo que sea por ellos, pero temo que no puedo decir eso genuinamente...
+
+Pregunta: Nombra al menos 2 personas o criaturas que odies. ¿Quiénes son y qué hicieron?
+Respuesta: Avaricia. Esa Bestia es la razón de todo esto! se llevo a tantos buenos hombres,(mejores que yo).
+
+((¿Aunque sinceramente? creo que me odio más a mi mismo, y lo cobarde que puedo llegar a ser. No creo que alguien más sea responsable de lo que siento))
+
+Pregunta: Cuenta una anécdota que consideres divertida, interesante o relevante para conocerte mejor.
+Respuesta: Nose si llamarla divertida, relevante; no es para nada una anécdota heroica. 
+
+Pero mis recuerdos favoritos son yo estando al borde de la cama de los mellizos, inventando historias para hacerlos dormir. 
+
+Inventaba en mi cabeza caballeros peleando contra dragones y siendo héroes, princesas magicas cabalgando sobre unicornios y ayudando a los más necesitados. Admito que eran historias bastante creativas de lo que suenan ahora. Prim decía que más que hacerlos dormir, los mellizos se excitaban más con esas historias, actuando lo que narraba como si ellos fueran los heroes;
+
+Todos disfrutabamos de la hora de los cuentos antes de ir a dormir. 
+
+Pregunta: ¿Crees que es posible matar a un Dios?
+Respuesta: Sí
+
+
+  
+---
 # Datos para mas sabor:
 
 - Fiddle tiene aprox. 30-35 años. Para no tener problemas, recomiendo que su edad funcione igual a como se manejan las edades de los humanos. Que los Haregons alcancen madurez a los 12-16 y vivan hasta los 60-80 años.  

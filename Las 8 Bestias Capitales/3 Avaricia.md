@@ -4,6 +4,7 @@ aliases:
   - El Dragón Pálido
   - El Devorador De Almas
   - Terror Volador
+  - El terror del cielo
 tags:
   - NPC
   - Lore

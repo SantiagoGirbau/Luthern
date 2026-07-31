@@ -39,6 +39,8 @@ Allí se encuentra el resto del grupo.
 
 Hay sorprendentemente poca gente, a pesar de lo atiburrada que está la ciudad e incluso el callejón en donde se encuentra.
 
+El café vale 1 DE PLATA (Un precio exorbitante). [[Marina Cofmak]]
+
 ==Ahí se van a conocer, Hay que escribir que hace cada uno==
 
 Llega la hora del [[Edicto Real|El Edicto]]. 

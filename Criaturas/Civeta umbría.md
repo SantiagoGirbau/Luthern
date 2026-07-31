@@ -1,0 +1,1 @@
+Es un mamífero feliforme pequeño, principalmente nocturno, nativo del [[El Bosque Frontera|Bosque Umbrío]]
