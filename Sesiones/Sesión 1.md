@@ -70,7 +70,7 @@ Biggs, Liana (Esposa), Enya, Malthus y Ruem... sus hijos. Luna no se encuentra a
 La gente ovaciona por un rato largo hasta que suena un gong repetidas veces y se alza el silencio antinatural.
 
 El Príncipe [[Malthus]] se adelanta un segundo y dice en voz alta. 
--El Rey [[Reino de Bigzha|Biggsa]] está por hablar, aquel que ose interrumpir o faltarle el respeto será acallado con acero.
+-El Rey [[Reino de Bigzha|Biggsa]] el Justo está por hablar, aquel que ose interrumpir o faltarle el respeto será acallado con acero.
 Se da la vuelta haciendo volar su capa azul de forma airosa. Detrás de el, se adelanta lentamente el Rey. Un hombre de características sencillas pero magnánimas y su voz es suave y dulce.
 
 -Gracias hijo, no es necesario que amenaces a nadie... Hola a todos. Soy [[Reino de Bigzha|Biggsa]] por si alguno no me conoce... 
@@ -98,4 +98,20 @@ Las voces se empiezan a alzar, el cuchicheo se convierte en voces, las voces en 
 -La pérdida de su hija lo hizo perder el norte... Que el Sol Eterno lo proteja...
 -Vámonos...
 
+La gente poco a poco empieza a desalojar las calles, yéndose con una cara de desilusión, muchos burlándose del disparate que oyeron...
 
+[[Malthus]] reniega, Bigssa no lo detiene hasta un rato después.
+
+Unos 5 minutos después solo quedan unas 30 personas. Algunos se ven poderosos, otros desesperados. Unos pocos tienen una mirada de determinación.
+
+(Que cada uno describa cómo se siente ahora mismo y cómo los ven los demás)
+
+El Rey Salta de golpe del balcón y aterriza con fuerza impactante en el patio del palacio.
+Liana, su mujer, se agarra la frente en desaprobación, pero con una sonrisa de oreja a oreja.
+Malthus y [[Enya]] Intentan por un segundo detenerlo, pero evidentemente no pueden.
+
+Entonces... Ustedes son los que quedan... [[Reino de Bigzha|Bigssa]] tiene un aura enorme. Atemoriza e impone respeto.
+
+Bigssa los barre a todos con la mirada.
+
+Está bien, a todos y cada uno de ustedes, solo por la valentía de haberse quedado
