@@ -69,5 +69,9 @@ Malthus se adelanta un segundo y dice "Cómo osan faltar el respeto a..."
 [[Reino de Bigzha|Bigssa]] levanta la mano firmemente y detiene bruscamente a Malthus. Una fracción de segundo después de el movimiento un enorme viento sopla siguiéndolo. Haciendo que vuelen sombreros, papeles y polvo. El silencio vuelve a reinar.
 
 -Entonces creo que debería explicarles un poco más...
--Ehem... Como no sabrán, debido a que se mantuvo un secreto, hace 14 meses mi hija menor, Luneria falleció trágicamente en manos de una de las [[Las 8 bestias capitales.|Bestias capitales]] mientras viajaba hacia el norte con su grupo para dar evangelio [[Seguidores del Sol Eterno|Soleternista]] a la gente de Thole.
+-Ehem... Como no sabrán, debido a que se mantuvo un secreto, hace 14 meses mi hija menor, [[Lunaria]] falleció trágicamente en manos de una de las [[Las 8 bestias capitales.|Bestias capitales]] mientras viajaba hacia el norte con su grupo para dar evangelio [[Seguidores del Sol Eterno|Soleternista]] a la gente de Thole.
 
+La gente cuchichea bochornosamente...
+
+-ES POR ESO... -levantando un poco la voz
+-Que he decidido realizar [[Edicto Real|El Llamado]] para encontrar

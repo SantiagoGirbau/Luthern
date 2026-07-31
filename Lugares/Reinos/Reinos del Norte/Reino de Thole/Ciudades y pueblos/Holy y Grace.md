@@ -1,1 +1,1 @@
-Hijos de [[Vale|Fiddle Dirtypaws]]. Extrañ
+Hijos de [[Vale|Fiddle Dirtypaws]]. Extrañan a su padre
