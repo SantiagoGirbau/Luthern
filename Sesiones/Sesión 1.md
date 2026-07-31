@@ -66,5 +66,8 @@ La gente se ríe ante la aclaración.
 -Y por si no saben también, publiqué un anuncio hace un tiempo en búsqueda de gente dispuesta a crecer...
 La gente vuelve a reír.
 Malthus se adelanta un segundo y dice "Cómo osan faltar el respeto a..."
-[[Reino de Bigzha|Bigssa]] levanta la mano firmemente y detiene brúscamente a Malthus. Una fracción de segundo después de  
+[[Reino de Bigzha|Bigssa]] levanta la mano firmemente y detiene bruscamente a Malthus. Una fracción de segundo después de el movimiento un enorme viento sopla siguiéndolo. Haciendo que vuelen sombreros, papeles y polvo. El silencio vuelve a reinar.
+
+-Entonces creo que debería explicarles un poco más...
+-Ehem... Como no sabrán, debido a que se mantuvo un secreto, hace 14 meses mi hija menor, Lune
 
