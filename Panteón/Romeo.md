@@ -7,5 +7,6 @@ tags:
   - Deidad
   - NPC
   - Panteón
+Estado: Pobre
 ---
 Dios del Amor, de lo bello y de la amistad.

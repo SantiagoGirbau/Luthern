@@ -1,4 +1,17 @@
+---
+aliases:
+  - Adoradores del dragón
+  - Broc'kuhn
+tags:
+  - Tribu
+  - Agrupación
+  - Lore
+  - Lugar
+  - Religion
+Estado: Terminado
+---
 **
+Broc'kuhn = Sangre diluída
 ### Leyenda de los [[Dol'Gara]]:
 (Dol=Descendientes )
 

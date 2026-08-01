@@ -8,5 +8,6 @@ tags:
   - Deidad
   - NPC
   - Panteón
+Estado: Pobre
 ---
 Dios de la Vida, la muerte, la reencarnación y la vida eterna.

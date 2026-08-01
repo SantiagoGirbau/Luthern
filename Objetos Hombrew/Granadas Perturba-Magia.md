@@ -4,6 +4,7 @@ aliases:
 tags:
   - Objeto
   - Arma
+Estado: Terminado
 ---
 Tipo: Arma de Guerra
 Costo: 50 de oro
