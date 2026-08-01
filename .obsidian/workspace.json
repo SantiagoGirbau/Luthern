@@ -42,11 +42,25 @@
               "type": "markdown",
               "state": {
                 "file": "Party/Ari.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Ari"
+            }
+          },
+          {
+            "id": "2f3f3ad71a6862d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Tierras sin reclamar/Tribus/Napi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Napi"
             }
           },
           {
@@ -246,9 +260,12 @@
   },
   "active": "1a0ba664e2a11a29",
   "lastOpenFiles": [
+    "Lugares/Tierras sin reclamar/Tribus/Napi.md",
+    "Party/Ari.md",
+    "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
+    "zFotos/Silas y Eris.png",
     "Las 8 Bestias Capitales/7 Soberbia.md",
     "Sesiones/Sesión 1.md",
-    "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
     "Mecánicas y Notas/Bendiciones/Bendiciones.md",
     "Las 8 Bestias Capitales/6 Ira.md",
     "Las 8 Bestias Capitales/5 Envidia.md",
@@ -276,8 +293,6 @@
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Bucker Tropp.md",
     "Panteón/El Dragón.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Marina Cofmak.md",
-    "Criaturas/Civeta umbría.md",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Lunaria.md",
     "zFotos/Civeta Umbría.png",
     "zFotos/5 Lujuria.png",
     "zFotos/4 Avaricia.png",
@@ -291,7 +306,6 @@
     "gemini-scribe/Scheduled-Tasks",
     "zFotos/6 Ira.png",
     "zFotos/1 Pereza.png",
-    "zFotos/Sur de Luthern.png",
     "Sin título.canvas"
   ]
 }

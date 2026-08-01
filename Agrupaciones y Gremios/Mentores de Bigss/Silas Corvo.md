@@ -3,3 +3,7 @@
 **Backstory:** Hace muchos años, Silas fue un combatiente formidable, pero la brutal e implacable realidad de Luthern terminó de quebrar su espíritu, arrebatándole por completo la voluntad de luchar luego de haber matado brutalmente a su esposa y 2 de sus hijas bajo la influencia de [[6 Ira|Ira]]. Considera que el plan de enfrentar a las Bestias Capitales es un delirio suicida impulsado por el duelo irracional de un padre roto. La única razón por la que se presentó al Llamado es para saldar una vieja y pesada deuda que tiene con el Rey Bigssa, que logró rescatar a la hija más pequeña del desastre cuando pasaba por el pueblo. Hoy busca liberarse de esa carga de una vez por todas. Y dedicarse a cuidar de la única familia que le queda.
 
  Su actitud abiertamente derrotista, su cinismo tóxico y su constante olor a humo hicieron que los demás instructores lo hicieran a un lado al instante, decidiendo por unanimidad que fuera él quien se hiciera cargo de los "sobrantes". No espera absolutamente nada de ustedes, salvo que se rindan pronto o mueran rápido.
+
+
+![[Silas y Eris.png|364]]
+			Silas y su esposa Eris
