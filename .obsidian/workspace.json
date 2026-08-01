@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "Party/Flawa.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -245,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/Azura.md"
+                "file": "Party/Flawa.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -272,10 +272,10 @@
       "iconic:Abrir libro de reglas": false
     }
   },
-  "active": "a7e38347b0fa09ea",
+  "active": "3890ce27144233da",
   "lastOpenFiles": [
-    "Party/Pado.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/Azura.md",
+    "Party/Pado.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura",
     "Party/Vale.md",
     "Party/Party.md",
