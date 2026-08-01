@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
-                "mode": "source",
+                "file": "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Silas Corvo"
+              "title": "Dol'Gara"
             }
           },
           {
@@ -259,7 +259,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md"
+                "file": "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -288,8 +288,11 @@
   },
   "active": "dadc32e0f4f12838",
   "lastOpenFiles": [
-    "Sesiones/Sesión 1.md",
+    "Lugares/Tierras sin reclamar/Tribus/Sangre de dragón/Sangre de dragón.md",
+    "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md",
+    "Lugares/Tierras sin reclamar/Tribus/Dol'Gara",
     "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
+    "Sesiones/Sesión 1.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
     "Agrupaciones y Gremios/Mentores de Bigss",
     "Mecánicas y Notas/Bendiciones/Bendiciones.md",
@@ -324,13 +327,10 @@
     "zFotos/Bucker Tropp.png",
     "zFotos/Thes'Burrow.png",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Holy y Grace.md",
-    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Primrose de Dirtpaws.md",
-    "Lugares/Luthern.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Scheduled-Tasks",
-    "gemini-scribe/Skills",
     "zFotos/6 Ira.png",
     "zFotos/1 Pereza.png",
     "zFotos/Sur de Luthern.png",
