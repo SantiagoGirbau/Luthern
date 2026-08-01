@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Las 8 Bestias Capitales/7 Soberbia.md",
+                "file": "Party/Ari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Soberbia"
+              "title": "Ari"
             }
           },
           {
@@ -217,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Las 8 Bestias Capitales/7 Soberbia.md"
+                "file": "Party/Ari.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -246,9 +246,9 @@
   },
   "active": "1a0ba664e2a11a29",
   "lastOpenFiles": [
+    "Las 8 Bestias Capitales/7 Soberbia.md",
     "Sesiones/Sesión 1.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
-    "Las 8 Bestias Capitales/7 Soberbia.md",
     "Mecánicas y Notas/Bendiciones/Bendiciones.md",
     "Las 8 Bestias Capitales/6 Ira.md",
     "Las 8 Bestias Capitales/5 Envidia.md",
