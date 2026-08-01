@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Party/Ari.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,35 +50,49 @@
             }
           },
           {
-            "id": "2f3f3ad71a6862d3",
+            "id": "3890ce27144233da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Tierras sin reclamar/Tribus/Napi.md",
+                "file": "Party/Flawa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Napi"
+              "title": "Flawa"
             }
           },
           {
-            "id": "3e55f93db75bd664",
+            "id": "a7e38347b0fa09ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
+                "file": "Party/Pado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Silas Corvo"
+              "title": "Pado"
+            }
+          },
+          {
+            "id": "8ca503a136cb28f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Vale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vale"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Ari.md"
+                "file": "Party/Pado.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -258,14 +272,19 @@
       "iconic:Abrir libro de reglas": false
     }
   },
-  "active": "1a0ba664e2a11a29",
+  "active": "a7e38347b0fa09ea",
   "lastOpenFiles": [
-    "Lugares/Tierras sin reclamar/Tribus/Napi.md",
+    "Party/Vale.md",
+    "Party/Party.md",
+    "Party/Pado.md",
+    "Party/Flawa.md",
     "Party/Ari.md",
+    "Party/Agustin.md",
+    "Sesiones/Sesión 1.md",
+    "Lugares/Tierras sin reclamar/Tribus/Napi.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
     "zFotos/Silas y Eris.png",
     "Las 8 Bestias Capitales/7 Soberbia.md",
-    "Sesiones/Sesión 1.md",
     "Mecánicas y Notas/Bendiciones/Bendiciones.md",
     "Las 8 Bestias Capitales/6 Ira.md",
     "Las 8 Bestias Capitales/5 Envidia.md",
@@ -284,15 +303,10 @@
     "Lugares/Reinos/Reino de Bigzha/Realeza/Biggsa.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Theodor.md",
     "Lugares/Reinos/Reino de Bigzha/Realeza/Liana.md",
-    "Party/Pado.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thalea/Thalea.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thalea",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/NPCS",
-    "Bucker =={accent}Tropp.md",
-    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Bucker Tropp.md",
-    "Panteón/El Dragón.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Marina Cofmak.md",
     "zFotos/Civeta Umbría.png",
     "zFotos/5 Lujuria.png",
     "zFotos/4 Avaricia.png",
