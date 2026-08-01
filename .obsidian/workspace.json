@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Pado.md",
+                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/Azura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pado"
+              "title": "Azura"
             }
           },
           {
@@ -245,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/Pado.md"
+                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/Azura.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -274,9 +274,11 @@
   },
   "active": "a7e38347b0fa09ea",
   "lastOpenFiles": [
+    "Party/Pado.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/Azura.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura",
     "Party/Vale.md",
     "Party/Party.md",
-    "Party/Pado.md",
     "Party/Flawa.md",
     "Party/Ari.md",
     "Party/Agustin.md",
@@ -303,7 +305,6 @@
     "Lugares/Reinos/Reino de Bigzha/Realeza/Biggsa.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Theodor.md",
     "Lugares/Reinos/Reino de Bigzha/Realeza/Liana.md",
-    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thalea/Thalea.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thalea",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/NPCS",
@@ -317,7 +318,6 @@
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Scheduled-Tasks",
     "zFotos/6 Ira.png",
     "zFotos/1 Pereza.png",
     "Sin título.canvas"
