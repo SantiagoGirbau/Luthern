@@ -282,9 +282,7 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "gemini-scribe:Gemini Scribe: Modo agente": false,
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "agent-client:Open agent client": false,
       "iconic:Abrir libro de reglas": false
     }
   },
