@@ -1,6 +1,6 @@
 **
-
-Los Dol’Gara (Dol=Descendientes )
+### Leyenda de los [[Dol'Gara]]:
+(Dol=Descendientes )
 
 En la primera leyenda, antes de que los continentes tuvieran los nombres de hoy, existió un vínculo que desafió el mismísimo orden natural de las cosas, el amor entre un mortal y un dios. Nuestro fundador, Gara, nació en las distantes y mitológicas tierras del gran Sol, tierras prósperas donde la dorada luz del sol acaricia cálidamente a todos sus habitantes. Y entre esos habitantes había una diosa, maestra de los elementos, poseía una prístina piel que rivalizaba al más duro de los aceros, su voz invocaba sismos, portaba unos ojos que eran pozos eternos de radiante energía y su presencia cargaba con el peso de mil montañas. 
 
