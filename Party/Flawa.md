@@ -19,7 +19,7 @@ Planea formar parte de una [[Tribus Aborígenes|Tribu]]
 
 ### Kae’lan
 
-Durante sus primeros seis años, el nombre Kae’lan resonaba como un cántico de esperanza entre los miembros de los Dol’Gara. El era el orgullo de su padre El’Kar, el jefe de la tribu, y un prodigio cuya luz prometía convertirse en el futuro de su pueblo. 
+Durante sus primeros seis años, el nombre Kae’lan resonaba como un cántico de esperanza entre los miembros de los [[Dol'Gara]] . El era el orgullo de su padre El’Kar, el jefe de la tribu, y un prodigio cuya luz prometía convertirse en el futuro de su pueblo. 
 
 Pero el destino es un escritor implacable con hambre de historias interesantes. En su séptimo cumpleaños, el nacimiento de su hermana menor fracturó la realidad de Kae’lan.
 
@@ -38,12 +38,7 @@ Kae’lan miró a la bebé, luego a su padre.
   
 
 El’Kar le acarició el cabello a Kae’lan de forma distraída sin apartar sus ojos de la niña. —Kae’lan, algún día entenderas mis palabras, pero no hace falta cargar con todo el peso del futuro de la tribu—.
-
-  
-
 Esa noche, la luz de Kae’lan se apagó. Él, que en algún momento fue el protagonista de una gran epopeya, fue desterrado al papel de un personaje secundario.
-
-  
 
  Al día siguiente, luego de las noticias del nacimiento de su hermana As’ran, la tribu entera enloqueció de felicidad, pues la niña nació con la marca de los Ul’Men, la primera en el linaje del jefe de la tribu.
 
@@ -57,8 +52,6 @@ El anciano chaman de la tribu, Aren’Ká, lo observó desde la distancia, acerc
 
 —La envidia es un veneno que bebes de tu propia copa esperando a que el otro muera muchacho—. Dijo el anciano, apoyando su bastón.
 
-  
-
 —No es envidia, viejo loco— replicó Kae’lan, tropezando sus palabras con un mudo resentimiento. —Es injusticia. Yo sangro cada día en los campos de entrenamiento y ella no hace nada y todos caen de rodillas. parezco una hormiga a su lado—
 
   
@@ -71,7 +64,7 @@ Esas palabras resonaron en Kae’lan, convirtiendose en el refugio del joven aho
 
   
 
-El momento decisivo de Kae’lan llegó a sus doce años, durante el Kahl’Doar, un brutal rito de iniciacion para convertirse en un guerrero runico (Los Ul’Rha). La tradición consistía en peregrinar a traves del bosque sagrado que protegía la tumba de la diosa y tallar su nombre en la runa origen que se encontraba en lo más alto del volcán. 
+El momento decisivo de Kae’lan llegó a sus doce años, durante el Kahl’Doar, un brutal rito de iniciacion para convertirse en un guerrero runico (Los Ul’Rha). La tradición consistía en peregrinar a traves del [[El Bosque Frontera|Bosque Sagrado]] que protegía la tumba de la diosa y tallar su nombre en la runa origen que se encontraba en lo más alto del volcán. 
 
 Antes de partir, el jefe El’Kar le entregó el cincel ritual.
 
@@ -125,6 +118,3 @@ Kae’lan se arrodilló, ensuciando las inmaculadas túnicas de la niña con la 
   
 
 En ese viaje, Kae’lan había dejado de anhelar el papel de protagonista, pues el se erguía ahora en las trincheras de su destino. Por primera vez, Kae’lan se sentía en paz con su lugar en el mundo, dispuesto a ser el inquebrantable escudo de As’ran, renunciando a ser su sombra.
-
-  
-**
