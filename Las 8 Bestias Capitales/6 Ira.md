@@ -11,6 +11,8 @@ tags:
 **Ira** es considerada una de las más peligrosas entre **[[Las 8 bestias capitales.]]**, no por su poder destructivo directo, sino por su intelecto sádico y su capacidad para corromper la voluntad ajena.
 Ira aparece de un instante al otro en un lugar donde se esté por desatar conflicto y maldice a todas las criaturas a su alrededor incitándolos a la violencia desenfrenada. Aquellos afectados olvidan todo sobre sus personas y comienzan a atacar y destruir todo a su alrededor. Aparte de violentos, infunde a los afectados con fuerzas y poderes destructivos, los cuales desaparecen una vez termina el conflicto.
 Se cree que Ira desaparece una vez termina la destrucción, habiéndose alimentado de la sangre y cenizas causadas por su maldición.
+No existe una contingencia para evitar una aparición de Ira, pero en los minutos antes de su aparición, se dice que retumban trompetas en el cielo hasta que Ira cae del cielo abruptamente y comienza la masacre.
+Una persona que conoce de esta leyenda puede, si tiene suerte y es veloz (Caballo o teletransportación), alejarse lo suficiente como para evitar sus efectos. Pero simplemente correr no sirve de nada.
 ### Aspecto
 
 A diferencia de otras bestias colosales, Ira se manifiesta como una estatua de tamaño humanoide (aprox. 2.5 metros de altura) tallada en una única pieza de obsidiana o **piedra negra** desconocida. La piedra parece absorber la luz a su alrededor.
