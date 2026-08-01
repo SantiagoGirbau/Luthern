@@ -24,6 +24,8 @@ Un papel sorprendentemente blanco llama tu atención.
 > _"A todo aquel que le corresponda. Hago este llamado para todo aquel que desee poder. La fama, fortuna y gloria son solo incentivos propuestos por mis seguidores, pero, el deseo de crecer es lo que los llevará a gozar de estos premios. Preséntense ante mí el día acordado y ayúdenme a construir el [[Luthern]] que todos deseamos y no pudimos tener._
 > 
 > _Atentamente: [[Biggsa|Biggs]]"_
+> 
+> Y por último un sello real. 
 
 Y por último un sello real. (Una azada por encima de una rueda de carro)
 
@@ -128,4 +130,8 @@ Salen por la puerta del palacio 6 personas.
 
 3 mujeres y 3 hombres.
 
-Se ponen a hablar entre ellos, 
+Se ponen a hablar entre ellos, cada quien elige a sus campeones, excepto uno
+
+Que se acerca al grupo luego de que nadie los elija y se presenta con voz carrasposa y con una expresión de absolutamente nada.
+
+-Soy [[Silas Corvo]], me designaron a los pobres diablos que ningún otro instructor quería. Les diría que se rindan ahora, pero si lo hacen, seguiré debiéndole un favor a Biggs-El Rey Biggsa. así que mejor intenten y fallen. Yo haré mi trabajo. Ustedes hagan el suyo.
