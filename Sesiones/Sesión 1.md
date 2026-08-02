@@ -140,4 +140,7 @@ Un último que estaba atrás del resto, se acerca al grupo luego de que nadie lo
 
 El hombre apesta a tabaco y alcohol fuerte.
 
--Tenía esperanzas de que no quede nadie que no sea un discípulo de esos otros
+-Tenía esperanzas de que no quede nadie que no sea un discípulo de esos otros... Bueno... Por hoy su misión será conocer la ciuidad. Quisiera que vayan a estos puntos de interés.
+
+
+Biblioteca
