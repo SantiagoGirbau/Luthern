@@ -3,6 +3,7 @@ aliases:
   - Hasta
 tags:
   - Jugador
+Estado: Terminado
 ---
 Forma parte de la [[Party]]. 
 
@@ -236,7 +237,7 @@ Hasta no sabía si podía gustarle o no. Sin embargo, al ver la sonrisa en el ro
 
 Desde aquel momento, Lune comenzó a educarlo.
 
-Le enseño a hablar con mayor claridad, a utilizar cubiertos, a vestirse con prendas y el significado del consentimiento. Le explico también que no podía tomar comida de otras personas, que debía llamar antes de entrar a una habitación y que mostrar los dientes era de down.
+Le enseño a hablar con mayor claridad, a utilizar cubiertos, a vestirse con prendas y el significado del consentimiento. Le explico también que no podía tomar comida de otras personas, que debía llamar antes de entrar a una habitación y que <mark style="background:#d3f8b6">mostrar los dientes era de down.</mark>
 
 La mayoría de estas normas le parecían absurdas, pero decidió seguirlas por respeto a Lune.
 

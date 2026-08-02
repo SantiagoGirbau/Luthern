@@ -3,6 +3,7 @@ aliases:
   - Edric
 tags:
   - Jugador
+Estado: Terminado
 ---
 Forma parte de la [[Party]] 
 El alma del heredero: 
@@ -91,3 +92,53 @@ No sobrevivirá… No sin la ayuda del mas fuerte… No sin la ayuda de Kord’a
 Solo puedo usar mis brazos… No importa, es más… Que suficiente… No se llevarán a otro más… No mientras mi espíritu… Siga luchando.
 
 El muchacho es hábil, pero no parece entender que mi fuerza no le pertenece, Kord’ac no obedece ordenes de un blandengue. Si quiere la ayuda del hombre más fuerte, debe ganársela.
+
+--- REGISTRO DEL DOMO DE LA VERDAD ---
+
+Pregunta: ¿Quién eres?
+Respuesta: Edric Hilldan
+
+Pregunta: ¿De dónde provienes?
+Respuesta: El sur de Thalea
+
+Pregunta: ¿Cuál es tu objetivo actual?
+Respuesta: Dominar esta nueva fuerza, ayudar a mi gente
+
+Pregunta: ¿Crees en algún Dios? Si es así, ¿cuál?
+Respuesta: El dios Sol siempre ha cuidado de mi, o eso es lo que me han enseñado
+
+Pregunta: Si fueras un animal, ¿Cuál serías?
+Respuesta: El que haga falta para cumplir mi objetivo, sigo cambiando, sigo creciendo, sigo aprendiendo
+
+Pregunta: ¿Cuál es tu opinión respecto a las 8 bestias?
+Respuesta: Ojalá nunca volver a cruzarme con una
+
+Pregunta: Descríbete con 3 palabras
+Respuesta: Protector
+Ágil
+Aprendiz
+
+Pregunta: ¿Cuál es tu comida favorita?
+Respuesta: Un buen plato de carne acompañado de hierbas recién recolectadas, Theodor me enseñó a hacer uso de ellas
+
+Pregunta: ¿Cuáles diría la gente que son tus mayores defectos?
+Respuesta: No soy capaz de soltar mi pasado
+
+Pregunta: ¿Cuáles diría la gente que son tus mayores virtudes?
+Respuesta: Mi perseverancia y mi voluntad, algunos dirían que soy un "cabeza dura"
+
+Pregunta: Nombra al menos 2 personas importantes para ti. ¿Quiénes son y qué hicieron?
+Respuesta: Mi madre, Sillya, me hizo sobrevivir y sacrificó incluso su salud por mi.
+Theodor, me dio cobijo cuando nadie mas lo haría, sin siquiera conocerme de nada.
+
+Pregunta: Nombra al menos 2 personas o criaturas que odies. ¿Quiénes son y qué hicieron?
+Respuesta: Odio a todo aquel que esté dispuesto a seguir con el conflicto que esta en el norte, miles de vidas se han sacrificado por una causa que parece no tener fin. Especificamente, al militar que me miró a los ojos y me informó que mi padre murió en combate, para luego decirme que yo debía enlistarme.
+Uno de los monjes siempre intentó acercarse a mi madre, con intenciones impuras, su nombre es Orzo, lo desprecio.
+
+
+Pregunta: Cuenta una anécdota que consideres divertida, interesante o relevante para conocerte mejor.
+Respuesta: Uno de mis primeros días en Bigzha intenté comprar algunas cosas que me encomendó Theodor, y como no estaba acostumbrado a la vida "en paz", me tomó por sorpresa la amabilidad del vendedor, y el hecho de que no intentó robarme o regatear sus propios precios. Lo tomé como insulto, luego Theodor me explicó la situación, fui a pedir disculpas al día siguiente.
+
+Pregunta: ¿Crees que es posible matar a un Dios?
+Respuesta: Sí
+
