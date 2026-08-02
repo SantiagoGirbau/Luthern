@@ -18,7 +18,13 @@ Un papel sorprendentemente blanco llama tu atención.
 
 _Hasta_ te encontrás en una ciudad cercana al borde de [[Imperio Teocrático de Umnazia|Umnazia]]. Hace un tiempo te separaste de Lune, más de un año debe ser. El día es abrasador y el dinero escacea... Ves pegado en un tablón de trabajos en la posada donde estabas quedando un papel de un color que llama la atención.
 
-[[Ari|Jengibre]] Estás en viaje de camino a [[Reino de Bigzha|Bigzha]], no es un tramo muy largo, has viajado mucho mas en tus años de vida. Pero por algún motivo, cada paso te cuesta más. Las montañas y el bosque en el que te has acostumbrado a vivir se hacen cada vez más pequeña
+[[Ari|Jengibre]] Estás en viaje de camino a [[Reino de Bigzha|Bigzha]], no es un tramo muy largo, has viajado mucho mas en tus años de vida. Pero por algún motivo, cada paso te cuesta más. Las montañas y el bosque en el que te has acostumbrado a vivir se hacen cada vez más pequeñas detrás tuyo. En tu mano. Un papel que tomaste de tu tribu antes de irte.
+
+Kae'lan mientras te ahogas en una jarra de una bebida alcohólica que no te has dignado ni en ver cuál es, escuchas a compañeros de tu guarnición murmurando y diciendo cosas. El Rey [[Reino de Bigzha|Bigzha]] ha publicado el Segundo [[Edicto Real]] en todo su reinado. Debe ser importante...
+(Te paras con curiosidad) y vas a ver de qué se trata. La gente se aparta, porque a pesar de tu mala reputación, varios de ellos te respetan por lo que se rumorea que has vivido...
+Uno de los jóvenes guardias te extiende un papel.
+
+La plaza principal del pueblo está llena, un anuncio urgente ha sido publicado y un pregonero lo lee en voz alta
 
 Cada uno de ustedes lee o escucha desde distintos lugares.
 
@@ -186,9 +192,20 @@ Las arpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugad
 
 Luego cruzarán el resto del viaje sin problemas, es un día entero de viaje ya que es un barco rápido y hay buen viento.
 
-Llegan al pueblo de donde proviene [[Pado|Edric]]. La herboristería de [[Theodor]] se encuentra ahí. Pueden pedirle cosas. Se las dará libre de cargos.
+Llegan a Asura, el pueblo de donde proviene [[Pado|Edric]]. La herboristería de [[Theodor]] se encuentra ahí. Pueden pedirle cosas. Se las dará libre de cargos.
 
 Luego tienen 2 días de viaje en carro (Que deben pagar) hasta la frontera sur de [[Reino de Bigzha|Bigzha]] donde deberán rastrear a esta caravana de [[Deambulante|Deambulantes]].
+
+Pasan por 2 pueblos, Asura, luego Eleandale y 1 tribu, los Bo-Bore, que son aquellos que hicieron la petición de ayuda.
+
+Eleandale es un pueblo pequeño ganadero. Tiene muchos campos
+
+
+
+
+
+
+
 
 Otras misiones para luego:
 - Investigar unas Ruinas de la civilización antigua cualquiera y traer de regreso al menos 5 piedras fosforecentes de ahí. (El mapa no se incluye) 5 puntos
