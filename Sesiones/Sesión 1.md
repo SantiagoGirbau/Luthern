@@ -140,7 +140,28 @@ Un último que estaba atrás del resto, se acerca al grupo luego de que nadie lo
 
 El hombre apesta a tabaco y alcohol fuerte.
 
--Tenía esperanzas de que no quede nadie que no sea un discípulo de esos otros... Bueno... Por hoy su misión será conocer la ciuidad. Quisiera que vayan a estos puntos de interés.
+-Tenía esperanzas de que no quede nadie que no sea un discípulo de esos otros... Bueno... Por hoy su misión será conocer la ciudad. Vayan a las barracas que nos asignaron y acomódense...
+
+-Mañana empezamos con el "entrenamiento"
+
+Les dará muy vagas instrucciones y se irá
+
+Se van a perder por huevos.
+
+Conocer lugares?
+
+El día siguiente. 
+Silas los espera en el salón principal tomando un café
+-Tengo una buena y una mala noticia
+
+-La mala es que no tengo ni idea de sus capacidades, por lo que no puedo asignarles una misión acorde de la lista que me brindaron los servidores del rey.
+
+-La buena es que eso significa que lo harán ustedes en lugar de mí...
+
+Misiones disponibles:
+- Investigar unas Ruinas de la civilización antigua cualquiera y traer de regreso al menos 5 piedras fosforecentes de ahí. (El mapa no se incluye)
+- Dar caza una caravana de 4 Deambulantes que se han visto rondando en los límites con la [[Tierras sin reclamar]] 
+- Frenar a una tribu autóctona violenta que ha estado causando estragos en un pueblo en el Sur, ignorando peticiones de alianzas o treguas. Se debe realizar mediante cualquier medio necesario.
+- Dar caza a un
 
 
-Biblioteca
