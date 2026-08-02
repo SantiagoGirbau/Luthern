@@ -4,7 +4,7 @@ aliases:
 tags:
   - Jugador
 ---
-Forma parte de la [[Party]]. 
+Forma parte de la [[1Party]]. 
 
 En una de las tribus más cercanas a Austris se hallaban discutiendo los Grandes Ancianos acerca de un comunicado que había llegado en manos de uno de los mensajeros.
 “No podemos ignorarlo,” vociferaba Yuca, una Firbolg de piel celeste y ojos ya blancos por la edad. Ella se levantaba por encima de los demás con su altura, y su imponencia era tal que pocos se atrevían a contradecirla. “Es imperativo que enviemos al menos a diez de nuestros mejores representantes, a nuestra sangre, a que busquen aliados que nos asistan en nuestra razón de ser de éste último siglo.”

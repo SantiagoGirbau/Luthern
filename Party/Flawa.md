@@ -4,7 +4,7 @@ aliases:
 tags:
   - Jugador
 ---
-Forma parte de la [[Party]]. 
+Forma parte de la [[1Party]]. 
 Estadísticas:
 17
 11

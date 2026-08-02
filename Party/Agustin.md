@@ -7,7 +7,7 @@ tags:
   - Jugador
 Estado: Terminado
 ---
-Forma parte de la [[Party]]. 
+Forma parte de la [[1Party]]. 
 
 Hasta no recordaba cómo había llegado al bosque. Su primer recuerdo era el calor del cuerpo de su madre y la suavidad de su pelaje. Había sido abandonado y rescatado por aquella bestia.
 
@@ -287,7 +287,7 @@ Pregunta: Descríbete con 3 palabras
 Respuesta: Perseverante, Confiable y ansioso
 
 Pregunta: ¿Cuál es tu comida favorita?
-Respuesta: La fruta pui pui
+Respuesta: La [[Fruta Pui Pui]]
 
 Pregunta: ¿Cuáles diría la gente que son tus mayores defectos?
 Respuesta: mi ansiedad, mis ataques de ira y mis dificultades para comunicarme.

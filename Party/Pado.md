@@ -5,7 +5,7 @@ tags:
   - Jugador
 Estado: Terminado
 ---
-Forma parte de la [[Party]] 
+Forma parte de la [[1Party]] 
 El alma del heredero: 
 
 La vida en [[Thalea]] nunca nos ha sido fácil, ni para mi familia ni para mí. Desde antes incluso que yo naciera mi padre tuvo que abandonarnos a mi y a mi madre para ir a la guerra, desde entonces mi madre se recluyó con unos acólitos para asegurarse de que su hijo tendría la protección y la crianza que necesitaba.

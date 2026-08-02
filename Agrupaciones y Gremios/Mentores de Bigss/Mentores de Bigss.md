@@ -1,3 +1,16 @@
+---
+aliases:
+  - Mentores
+  - Generales
+tags:
+  - NPC
+  - Agrupación
+  - Gremio
+  - Lore
+Estado: Aceptable
+---
+Estos son los generales y mentores que [[Biggsa|Biggsa el Grande]] convocó para entrenar a la gente que acuda al [[Edicto Real|Llamado Real]].
+
 **1. Kaelen "Rostro de Hierro" (Hombre)**
 
 - **Descripción:** Un guerrero imponente, casi un gigante, envuelto en una armadura pesada y desgastada que parece haber sido forjada a medida para él. Su rostro está curtido por innumerables batallas, y una cicatriz profunda le cruza el ojo izquierdo, ahora blanco y ciego. Lleva un mandoble gigantesco a la espalda con una facilidad pasmosa.
