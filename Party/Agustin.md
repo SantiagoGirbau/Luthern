@@ -245,7 +245,7 @@ La mayoría de estas normas le parecían absurdas, pero decidió seguirlas por r
 
 Había pasado un año desde que Hasta fue rescatado. Durante ese tiempo logro incorporarse poco a poco a la sociedad. Ya era capaz de comunicarse con los demás, conocía las normas mas básicas de convivencia y había aprendido a controlar sus cambios de apariencia, aunque todavía volvía a aquella forma salvaje para recordar su vida en el bosque, le daba tranquilidad.
 
-Entrenaba diariamente con su arma, el paladin era su tutor, quien le enseñaba a mantener una postura firme, defenderse correctamente y no depender únicamente de la fuerza del arma. La sacerdotisa continuaba ayudándolo a comprender a las personas, mientras que la tiefling le enseñaba a moverse sin ser visto y a reconocer cuando alguien intentaba engañarlo.
+Entrenaba diariamente con su arma, el paladin era su tutor, quien le enseñaba a mantener una postura firme, defenderse correctamente y no depender únicamente de la fuerza del arma. La sacerdotisa continuaba ayudándolo a comprender a las personas, mientras que la tiefling le **enseñaba** a moverse sin ser visto y a reconocer cuando alguien intentaba engañarlo.
 
 El grupo lo había llevado consigo en varias misiones. Aunque no le permitían participar de ningún combate ni acercarse a lugares peligrosos, Hasta observaba y aprendia lo que podía.
 

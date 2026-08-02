@@ -16,6 +16,12 @@ Saltas de porche en porche en un pueblo del cual no te has molestado ni en apren
 Hasta que llegas a un pequeño tablón de anuncios donde hay un banco para descansar.
 Un papel sorprendentemente blanco llama tu atención.
 
+_Hasta_ te encontrás en una ciudad cercana al borde de [[Imperio Teocrático de Umnazia|Umnazia]]. Hace un tiempo te separaste de Lune, más de un año debe ser. El día es abrasador y el dinero escacea... Ves pegado en un tablón de trabajos en la posada donde estabas quedando un papel de un color que llama la atención.
+
+[[Ari|Jengibre]] Estás en viaje de camino a [[Reino de Bigzha|Bigzha]], no es un tramo muy largo, has viajado mucho mas en tus años de vida. Pero por algún motivo, cada paso te cuesta más. Las montañas y el bosque en el que te has acostumbrado a vivir se hacen cada vez más pequeña
+
+Cada uno de ustedes lee o escucha desde distintos lugares.
+
 
 > [!Edicto Real]
 > El Rey de [[Reino de Bigzha|Bigzha]] llama a aventureros, mercenarios, guerreros, magos, cartógrafos o cualquier otra profesión allegada a presentarse al mediodía del día Jueves 30 del mes Séptimo del año 139 del calendario [[Seguidores del Sol Eterno|Soleternista]] en el palacio Real de [[Reino de Bigzha|Bigzha]] en la ciudad de [[Bohsse]], en el corazón de [[Luthern]] al norte del [[Mar Dulce]].
