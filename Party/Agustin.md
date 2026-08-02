@@ -262,3 +262,48 @@ Hasta intento ignorarla, pero las voces regresaban todos los días con mayor int
 Poco después el llamado de Biggsa llego hasta la ciudad en la que se encontraban. El rey convocaba a guerreros, aventureros y mercenarios de todo el continente, sin explicar que amenaza debían enfrentar. La coincidencia inquietó a Hasta. No confiaba en las intenciones del estoque, pero sabia que aquel llamado podía conducirlo hacia respuestas sobre la figura que había destruido su tribu y el verdadero origen del dragón.
 
 El estoque buscaba poder. Hasta las respuestas, ambos deseaban emprender el mismo camino.
+
+--- REGISTRO DEL DOMO DE LA VERDAD ---
+
+Pregunta: ¿Quién eres?
+Respuesta: Hasta Silvae
+
+Pregunta: ¿De dónde provienes?
+Respuesta: Del [[El Bosque Frontera|Bosque Frontera]]
+
+Pregunta: ¿Cuál es tu objetivo actual?
+Respuesta: Mi objetivo actual es averiguar mas sobre el pecado de la [[6 Ira|Ira]], sobre mi estoque y las pesadillas que tengo.
+
+Pregunta: ¿Crees en algún Dios? Si es así, ¿cuál?
+Respuesta: Creo en el Dragon Ancestral
+
+Pregunta: Si fueras un animal, ¿Cuál serías?
+Respuesta: Un Gorila Umbrío
+
+Pregunta: ¿Cuál es tu opinión respecto a las 8 bestias?
+Respuesta: Por ahora las odio.
+
+Pregunta: Descríbete con 3 palabras
+Respuesta: Perseverante, Confiable y ansioso
+
+Pregunta: ¿Cuál es tu comida favorita?
+Respuesta: La fruta pui pui
+
+Pregunta: ¿Cuáles diría la gente que son tus mayores defectos?
+Respuesta: mi ansiedad, mis ataques de ira y mis dificultades para comunicarme.
+
+Pregunta: ¿Cuáles diría la gente que son tus mayores virtudes?
+Respuesta: mi perseverancia en situaciones complicadas, mis habilidades de supervivencia y mi proactividad
+
+Pregunta: Nombra al menos 2 personas importantes para ti. ¿Quiénes son y qué hicieron?
+Respuesta: Mi madre que me rescato y me dio un hogar, el sabio por darme las herramientas para sobrevivir y Lune por darme un nuevo comienzo.
+
+Pregunta: Nombra al menos 2 personas o criaturas que odies. ¿Quiénes son y qué hicieron?
+Respuesta: El pecado de la ira, me obligo a hacer cosas terribles y me dejo con secuelas. Y a mi mismo por dejar que esas cosas pasaran.
+
+Pregunta: Cuenta una anécdota que consideres divertida, interesante o relevante para conocerte mejor.
+Respuesta: Me prohibieron ir a comprar solo al mercado porque un niño gordo siempre me estafaba. Una vez le compre sus sucios zapatos por 1 de oro porque me hizo pensar que podía volar con ellos. 
+
+Pregunta: ¿Crees que es posible matar a un Dios?
+Respuesta: Sí
+

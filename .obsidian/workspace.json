@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Party/Flawa.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.66926193237305
+    "width": 243.33591842651367
   },
   "right": {
     "id": "d8b077610cfb0538",
@@ -232,11 +232,11 @@
   },
   "active": "b54ddd79bf727872",
   "lastOpenFiles": [
+    "Party/Agustin.md",
+    "Party/Flawa.md",
     "Objetos Hombrew/Fruta Pui Pui.md",
     "Criaturas/Gorila Umbrío.md",
     "Panteón/El Dragón.md",
-    "Party/Agustin.md",
-    "Party/Flawa.md",
     "Party/Ari.md",
     "Party/Pado.md",
     "Sesiones/Sesión 1.md",
