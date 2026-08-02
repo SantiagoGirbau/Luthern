@@ -3,6 +3,7 @@ aliases:
   - Dragón
   - El Dragón Gigante
   - Dios Dragón
+  - Dragón Ancestral
 tags:
   - Lugar
   - Criatura

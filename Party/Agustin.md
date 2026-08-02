@@ -1,6 +1,8 @@
 ---
 aliases:
   - Hasta
+  - Silvae
+  - Hasta Silvae
 tags:
   - Jugador
 Estado: Terminado
