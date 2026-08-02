@@ -22,15 +22,13 @@ Con tan solo 7 años, Hasta solo era capaz de ver como sus hermanos cazaban gran
 
 En vez de expulsarlo o matarlo como era de costumbre, el sabio decidió ponerlo a prueba. Le presento ejercicios mentales que exigían paciencia y razonamiento, para determinar sus capacidades mentales. Y aunque Hasta se equivocaba seguido, lo seguía intentando hasta dar con la respuesta correcta.
 
-Al ver su tenacidad el sabio decidió instruirlo. Le enseño el lenguaje de su religión y como leer los glifos grabados en las paredes. También le mostró, aunque de manera bastante básica, como comunicarse con extranjeros y cazadores que de vez en cuando atravesaban el bosque.
+Al ver su tenacidad el sabio decidió instruirlo. Le enseño el lenguaje de su religión y como =={orange}leer los glifos grabados en las paredes==. También le mostró, aunque de manera bastante básica, como comunicarse con extranjeros y cazadores que de vez en cuando atravesaban el bosque.
 
 Así, bajo la tutela del sabio, Hasta fue creciendo y aprendiendo aun más sobre el mundo y su gente. Aunque al principio los demás lo seguían viendo como un debilucho que necesitaba protección, con el tiempo comenzó a encontrar nuevas formas de contribuir a la manada.
 
 Mientras los cazadores se encargaban de conseguir el alimento y defender el territorio, Hasta aprendió a reconocer las plantas y frutos del bosque. Descubrió cuales les podían servir de alimento, cuales aliviaban el dolor y cuales eran capaces de matar a los que las consumían. Al principio, pocos confiaban en sus advertencias. Los mas fuertes se burlaban de él y preferían guiarse por su instinto antes que escuchar a alguien que ni siquiera era capaz de derribar una simple presa.
 
 Sin embargo, les demostró que sus conocimientos eran más útiles de lo que ellos pensaron. Durante las épocas de escasez, enseño a la manada a racionar la comida para que alcanzara hasta el regreso de los cazadores. Cuando algún extraño se acercaba al territorio, Hasta era el que resolvía los conflictos, sin violencia, creando una buena reputación a su especie.
-
-Realizó un acuerdo con los cazadores para que dejaran de poner trampas donde ellos cazaban y ayudaba a aquellos perdidos a volver a la zona segura del bosque.
 
 Con cada peligro que ayudaba a evitar, las burlas fueron desapareciendo. Los que alguna vez lo llamaron debilucho comenzaron a acudir a él antes de probar un fruto desconocido o al hallar huelas extrañas cerca de sus madrigueras. Incluso aquellos cazadores más fuertes le pedían ayuda al adentrarse en terrenos desconocidos.
 
