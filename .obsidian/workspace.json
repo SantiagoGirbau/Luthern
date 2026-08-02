@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md"
+                "file": "Sesiones/Sesión 1.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -244,8 +244,9 @@
       "iconic:Abrir libro de reglas": false
     }
   },
-  "active": "ac9b50295ce04707",
+  "active": "d206941702e02b8e",
   "lastOpenFiles": [
+    "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
     "Sesiones/Sesión 1.md",
     "Party/Agustin.md",
     "Criaturas/Gorila Umbrío.md",
@@ -272,7 +273,6 @@
     "Objetos Hombrew/Atium.md",
     "Objetos Hombrew/Café Dolce Marina.md",
     "Religiones/Iglesia de la Luz.md",
-    "Religiones/Iglesia de la Vida y la Muerte.md",
     "Panteón Menor",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura",
     "zFotos/Silas y Eris.png",

@@ -130,8 +130,14 @@ Salen por la puerta del palacio 6 personas.
 
 3 mujeres y 3 hombres.
 
-Se ponen a hablar entre ellos, cada quien elige a sus campeones, excepto uno
+Se ponen a hablar entre ellos, cada quien elige a sus campeones
 
-Que se acerca al grupo luego de que nadie los elija y se presenta con voz carrasposa y con una expresión de absolutamente nada.
+Pueden claramente ver que los otros mentores ni se presentan a sus "Nuevos" discípulos.
+
+Un último que estaba atrás del resto, se acerca al grupo luego de que nadie los elija y se presenta con voz carrasposa y con una expresión de absolutamente nada.
 
 -Soy [[Silas Corvo]], me designaron a los pobres diablos que ningún otro instructor quería. Les diría que se rindan ahora, pero si lo hacen, seguiré debiéndole un favor a Biggs-El Rey Biggsa. así que mejor intenten y fallen. Yo haré mi trabajo. Ustedes hagan el suyo.
+
+El hombre apesta a tabaco y alcohol fuerte.
+
+-Tenía esperanzas de que no quede nadie que no sea un discípulo de esos otros
