@@ -267,3 +267,47 @@ Kae´lan observaba desde las sombras del patio a los guerreros jactandose de sus
 Al terminar de afilar su espada, Kae’lan se levantó, y alzo su espada en mueca de las jarras de cerveza, murmurando por sus labios —Por un día más en este mundo de mierda—f
 
 **
+
+--- REGISTRO DEL DOMO DE LA VERDAD ---
+
+Pregunta: ¿Quién eres?
+Respuesta: Kae'lan
+
+Pregunta: ¿De dónde provienes?
+Respuesta: De la tribu de los Dol'Gara
+
+Pregunta: ¿Cuál es tu objetivo actual?
+Respuesta: Sobrevivir
+
+Pregunta: ¿Crees en algún Dios? Si es así, ¿cuál?
+Respuesta: En la diosa de los Dol'Gara
+
+Pregunta: Si fueras un animal, ¿Cuál serías?
+Respuesta: Un dragón 
+
+Pregunta: ¿Cuál es tu opinión respecto a las 8 bestias?
+Respuesta: Las odio profundamente
+
+Pregunta: Descríbete con 3 palabras
+Respuesta: Cansado, solo, muerto
+
+Pregunta: ¿Cuál es tu comida favorita?
+Respuesta: Batata en cualquiera de sus formas
+
+Pregunta: ¿Cuáles diría la gente que son tus mayores defectos?
+Respuesta: No poder soltar el pasado, no avanzar, quedarme estancado en un solo lugar
+
+Pregunta: ¿Cuáles diría la gente que son tus mayores virtudes?
+Respuesta: Perseverancia 
+
+Pregunta: Nombra al menos 2 personas importantes para ti. ¿Quiénes son y qué hicieron?
+Respuesta: Mí hermana, que me mostró mí deber, y Aren'Ká, quien me puso en mí lugar
+
+Pregunta: Nombra al menos 2 personas o criaturas que odies. ¿Quiénes son y qué hicieron?
+Respuesta: Los Ahl'Broc y la bestia de la ira, ambos acabaron con mí familia y mí tribu
+
+Pregunta: Cuenta una anécdota que consideres divertida, interesante o relevante para conocerte mejor.
+Respuesta: En los bosques hay batatas que saben a madera y te dan cargadera... 
+
+Pregunta: ¿Crees que es posible matar a un Dios?
+Respuesta: Sí
