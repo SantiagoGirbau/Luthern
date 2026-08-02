@@ -1,6 +1,7 @@
 ---
 aliases:
   - Edric
+  - Edric Hilldan
 tags:
   - Jugador
 Estado: Terminado

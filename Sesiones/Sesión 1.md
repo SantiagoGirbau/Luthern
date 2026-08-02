@@ -170,7 +170,19 @@ Si es que lo logran, quizás tengan esperanza...
 
 Deberán cruzar en barco al sur.
 
-Ahí les contarán la leyen
+Ahí les contarán la leyenda de la [[7 Soberbia]].
+
+En el viaje los van a atacar 4 arpías y pelearan sobre el barco.
+
+![[Pasted image 20260802040252.png|700]]
+
+Las arpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugador.
+
+Luego cruzarán el resto del viaje sin problemas, es un día entero de viaje ya que es un barco rápido y hay buen viento.
+
+Llegan al pueblo de donde proviene [[Pado|Edric]]. La herboristería de [[Theodor]] se encuentra ahí. Pueden pedirle cosas. Se las dará libre de cargos.
+
+Luego tienen 2 días de viaje en carro (Que deben pagar) hasta la frontera sur de [[Reino de Bigzha|Bigzha]] donde deberán rastrear a esta caravana de [[Deambulante|Deambulantes]].
 
 Otras misiones para luego:
 - Investigar unas Ruinas de la civilización antigua cualquiera y traer de regreso al menos 5 piedras fosforecentes de ahí. (El mapa no se incluye) 5 puntos
