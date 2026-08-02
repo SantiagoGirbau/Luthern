@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Party/Agustin.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -230,7 +230,7 @@
       "iconic:Abrir libro de reglas": false
     }
   },
-  "active": "f0490699a9331264",
+  "active": "b54ddd79bf727872",
   "lastOpenFiles": [
     "Party/Flawa.md",
     "Party/Agustin.md",
