@@ -46,7 +46,7 @@ El sabio le había enseñado a reconocer este tipo de peligros, por lo que Hasta
 
             Pasaron casi tres meses desde su partida hasta su regreso.
 
-Cuando por fin llego la ubicación indicada por el sabio, Hasta se quedó atónito por lo que encontró, frente a él se encontraban los restos gigantes de un dragón, esa criatura de la que siempre hablaba el sabio, aquel que veneraban tanto yacía muerto frente a sus ojos.
+Cuando por fin llego la ubicación indicada por el sabio, Hasta se quedó atónito por lo que encontró, frente a él se encontraban los restos gigantes de un [[El Dragón|Dragón]], esa criatura de la que siempre hablaba el sabio, aquel que veneraban tanto yacía muerto frente a sus ojos.
 
 Hasta notó una grieta en una de las costillas del dragón. La abertura conducía a una cueva oscura, se podía ver como una tenue luz roja emanaba de allí. Un olor muy fuerte a hierro y azufre escapaba de ella, tan fuerte que comenzaba a marearlo.
 
