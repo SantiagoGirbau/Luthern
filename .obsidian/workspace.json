@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md",
+                "file": "Lugares/Tierras sin reclamar/Tribus/Ahl'Broc/Ahl'Broc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dol'Gara"
+              "title": "Ahl'Broc"
             }
           }
         ],
@@ -245,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md"
+                "file": "Lugares/Tierras sin reclamar/Tribus/Ahl'Broc/Ahl'Broc.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -274,6 +274,7 @@
   },
   "active": "7dca2bb6783ba6d1",
   "lastOpenFiles": [
+    "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md",
     "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
     "Mecánicas y Notas/Preguntas.md",
     "Mecánicas y Notas/Bendiciones/Bendiciones.md",
@@ -300,7 +301,6 @@
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Marina Cofmak.md",
     "Criaturas/Civeta umbría.md",
     "Panteón Menor",
-    "Las 8 Bestias Capitales/6 Ira.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura",
     "zFotos/Silas y Eris.png",
     "Lugares/Tierras sin reclamar/Tribus/Dol'Gara",
