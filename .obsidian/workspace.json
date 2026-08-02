@@ -41,26 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Flawa.md",
+                "file": "Party/Agustin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flawa"
-            }
-          },
-          {
-            "id": "bafef5bfb1522583",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Agustin"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Party/Agustin.md"
+              },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
             }
@@ -238,7 +230,7 @@
       "iconic:Abrir libro de reglas": false
     }
   },
-  "active": "bafef5bfb1522583",
+  "active": "f0490699a9331264",
   "lastOpenFiles": [
     "Party/Flawa.md",
     "Party/Agustin.md",
