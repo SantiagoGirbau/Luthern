@@ -166,7 +166,7 @@ Aslan fue a buscar cosas de su guarnición. [[Flawa|Aslan]] Formaba parte de la 
 
 Al volver cocinaron algo, Fiddle y Edric pasaron una vez mas por el [[Dolce Marina]] 
 
-También visitaron una Verdulería Exótica
+También visitaron una [[Verdulería Exótica]]
 
 Conocer lugares?
 
