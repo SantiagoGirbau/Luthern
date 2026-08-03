@@ -168,7 +168,14 @@ Al volver cocinaron algo, Fiddle y Edric pasaron una vez mas por el [[Dolce Mari
 
 También visitaron una [[Verdulería Exótica]]
 
-Conocer lugares?
+---
+Hasta aquí llegamos en la [[Sesión 1]]
+
+Feedback:
+Hacer los escenarios más interactivos.
+
+
+---
 
 El día siguiente. 
 Silas los espera en el salón principal tomando un café
