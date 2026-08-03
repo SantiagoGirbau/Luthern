@@ -1,3 +1,10 @@
+---
+aliases:
+  - Marina
+  - Marimar
+---
+Es una mujer de cabello cobrizo, semielfo joven de unos 22 años que atiende el [[Dolce Marina]] 
+
 --- REGISTRO DEL DOMO DE LA VERDAD ---
 
 Pregunta: ¿Quién eres?

@@ -160,6 +160,14 @@ Les dará muy vagas instrucciones y se irá
 
 Se van a perder por huevos.
 
+Compraron comida para 7 días para los 5, hicieron copias a las llaves (Aún no las buscaron del herrero [[Valdo Boreas]])
+
+Aslan fue a buscar cosas de su guarnición. [[Flawa|Aslan]] Formaba parte de la división Oeste.
+
+Al volver cocinaron algo, Fiddle y Edric pasaron una vez mas por el [[Dolce Marina]] 
+
+También visitaron una Verdulería Exótica
+
 Conocer lugares?
 
 El día siguiente. 

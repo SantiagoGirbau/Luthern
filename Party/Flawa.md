@@ -1,6 +1,7 @@
 ---
 aliases:
   - Kae’lan
+  - Aslan
 tags:
   - Jugador
 ---
