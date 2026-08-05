@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos Hombrew/Comida/Café Dolce Marina.md",
+                "file": "Mecánicas y Notas/Cocina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Café Dolce Marina"
+              "title": "Cocina"
             }
           },
           {
@@ -217,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objetos Hombrew/Comida/Café Dolce Marina.md"
+                "file": "Mecánicas y Notas/Cocina.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -246,13 +246,17 @@
   },
   "active": "5d4489fdd7a6fadd",
   "lastOpenFiles": [
-    "Objetos Hombrew/Comida/Escabeche de Fruta Piu Piu.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Ingredientes.md",
+    "Objetos Hombrew/Cocina/Comidas",
+    "Objetos Hombrew/Cocina/Ingredientes",
+    "Mecánicas y Notas/Cocina.md",
+    "Objetos Hombrew/Cocina/Comidas/Café Dolce Marina.md",
+    "Objetos Hombrew/Cocina/Comidas/Escabeche de Fruta Piu Piu.md",
     "Sesiones/Sesión 1.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Dolce Marina.md",
-    "Objetos Hombrew/Comida/Café Dolce Marina.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/José José.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Verdulería Exótica.md",
-    "Objetos Hombrew/Comida/Fruta Pui Pui.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Fruta Pui Pui.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
     "Party/Flawa.md",
     "Agrupaciones y Gremios/Guardia de Bigzha.md",
@@ -260,7 +264,7 @@
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Marina Cofmak.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS",
-    "Objetos Hombrew/Comida",
+    "Objetos Hombrew/Cocina",
     "Party/Pado.md",
     "Party/Ari.md",
     "Party/Agustin.md",
@@ -274,16 +278,11 @@
     "Party/Cajón",
     "Panteón/El Dragón.md",
     "Las 8 Bestias Capitales/6 Ira.md",
-    "Party/Vale.md",
-    "Lugares/Tierras sin reclamar/Tribus/Ahl'Broc/Ahl'Broc.md",
-    "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md",
     "Panteón Menor",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura",
     "zFotos/Silas y Eris.png",
     "Lugares/Tierras sin reclamar/Tribus/Dol'Gara",
     "Agrupaciones y Gremios/Mentores de Bigss",
-    "Mecánicas y Notas/Bendiciones",
-    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow",
     "zFotos/Civeta Umbría.png",
     "zFotos/5 Lujuria.png",
     "zFotos/4 Avaricia.png",

@@ -1,0 +1,1 @@
+La idea es hacer varios ingredientes que entre sí vayan dando mini-buffos. Que al combinarlos en un platillo que tenga sentido, los efectos de cada ingrediente se irán sumando al plato final, siempre q
