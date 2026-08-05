@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos Hombrew/Cocina/Ingredientes/Ingredientes Especiales.md",
+                "file": "Objetos Hombrew/Cocina/Ingredientes/Agua del Mar Dulce Destilada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ingredientes Especiales"
+              "title": "Agua del Mar Dulce Destilada"
             }
           }
         ],
@@ -245,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objetos Hombrew/Cocina/Ingredientes/Ingredientes Especiales.md"
+                "file": "Objetos Hombrew/Cocina/Ingredientes/Agua del Mar Dulce Destilada.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -275,6 +275,9 @@
   },
   "active": "4a92b4497de53358",
   "lastOpenFiles": [
+    "Objetos Hombrew/Cocina/Ingredientes/Grano de Café Kopi-Lowak.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Agua del Mar Dulce Destilada.md",
+    "Objetos Hombrew/Cocina/Comidas/Café Dolce Marina.md",
     "Objetos Hombrew/Cocina/Ingredientes/Batata verde.md",
     "Objetos Hombrew/Cocina/Ingredientes/Fruta Pui Pui.md",
     "Objetos Hombrew/Cocina/Ingredientes/Pimiento Rosado.md",
@@ -290,7 +293,6 @@
     "ingrediente.md",
     "Objetos Hombrew/Cocina/Comidas",
     "Objetos Hombrew/Cocina/Ingredientes",
-    "Objetos Hombrew/Cocina/Comidas/Café Dolce Marina.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/José José.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Verdulería Exótica.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
@@ -308,8 +310,6 @@
     "Las 8 Bestias Capitales/7 Soberbia.md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Criaturas/Gorila Umbrío.md",
-    "Criaturas/Deambulante.md",
-    "Party/1Party.md",
     "Party/Cajón",
     "Panteón Menor",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura",
