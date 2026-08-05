@@ -23,8 +23,9 @@ Espantoso: 7 de daño
 
 Y además aplica los efectos de los ingredientes especiales que se hayan usado
 
-El límite de ingredientes especiales que se puede usar por plato es de 3.
+El límite de ingredientes que se puede usar por plato es de 3.
 Si se tiene competencia en cocina, este valor aumenta en 2
 Si se tiene el feat de Chef, no se debe hacer la última tirada del platillo.
+Una porción debe tener al menos 3 ingredientes para considerarse completa. Los mismos pueden ser o no especiales.
 
-La comida se puede
+El platillo debe ser comido como máximo 10 minutos después de haber sido preparado, o no surtirá efecto. Existen algunos ingredientes que extienden este período, haciendo que las comidas duren mucho más.
