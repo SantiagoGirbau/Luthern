@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos Hombrew/Cocina/Ingredientes/1Ingredientes Especiales.md",
+                "file": "Objetos Hombrew/Cocina/Ingredientes/Ingredientes Especiales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1Ingredientes Especiales"
+              "title": "Ingredientes Especiales"
             }
           }
         ],
@@ -245,7 +245,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objetos Hombrew/Cocina/Ingredientes/1Ingredientes Especiales.md"
+                "file": "Objetos Hombrew/Cocina/Ingredientes/Ingredientes Especiales.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -269,18 +269,19 @@
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "iconic:Abrir libro de reglas": false
+      "iconic:Abrir libro de reglas": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "4a92b4497de53358",
   "lastOpenFiles": [
-    "Mecánicas y Notas/Cocina.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Pimiento Rosado.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Batata verde.md",
     "Objetos Hombrew/Cocina/Ingredientes/Fruta Pui Pui.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Pimiento Rosado.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Ingredientes Especiales.md",
+    "Mecánicas y Notas/Cocina.md",
     "Objetos Hombrew/Cocina/Comidas/Escabeche de Fruta Piu Piu.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Dolce Marina.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Batata verde.md",
-    "Objetos Hombrew/Cocina/Ingredientes/1Ingredientes Especiales.md",
     "Pasted image 20260802040252.png",
     "Sesiones/Sesión 1.md",
     "Pasted image 20260805163932.png",

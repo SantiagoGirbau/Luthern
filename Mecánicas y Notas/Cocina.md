@@ -5,9 +5,9 @@ tags:
   - Hombrew
 Estado: Aceptable
 ---
-La idea es hacer varios [[1Ingredientes Especiales]] que entre sí vayan dando mini-buffos. Que al combinarlos en un platillo que tenga sentido, los efectos de cada ingrediente se irán sumando al plato final, siempre que se cocine de manera adecuada. En caso de cocinarlo mal, los mini-buffos, se transformarán en mini-debuffos.
+La idea es hacer varios [[Ingredientes Especiales]] que entre sí vayan dando mini-buffos. Que al combinarlos en un platillo que tenga sentido, los efectos de cada ingrediente se irán sumando al plato final, siempre que se cocine de manera adecuada. En caso de cocinarlo mal, los mini-buffos, se transformarán en mini-debuffos.
 
-Por cada ingrediente especial que se agregué, se deberá hacer una tirada de "Cocina" y dependiendo del resultado de la misma, ese [[1Ingredientes Especiales|ingrediente]] aportará su buffo o su debuffo.
+Por cada ingrediente especial que se agregué, se deberá hacer una tirada de "Cocina" y dependiendo del resultado de la misma, ese [[Ingredientes Especiales|ingrediente]] aportará su buffo o su debuffo.
 El cómo está preparado cada uno de los ingredientes no afecta directamente al sabor del platillo y no afecta su capacidad de alimentar.
 
 En cambio qué tan bien está hecho el platillo total (Tirada final) si afecta su sabor.
