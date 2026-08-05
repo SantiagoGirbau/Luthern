@@ -36,7 +36,21 @@
             }
           },
           {
-            "id": "5d4489fdd7a6fadd",
+            "id": "5843fd55602953f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objetos Hombrew/Cocina/Ingredientes/pimiento morado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pimiento morado"
+            }
+          },
+          {
+            "id": "4a92b4497de53358",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -217,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mecánicas y Notas/Cocina.md"
+                "file": "Objetos Hombrew/Cocina/Ingredientes/pimiento morado.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -244,19 +258,26 @@
       "iconic:Abrir libro de reglas": false
     }
   },
-  "active": "5d4489fdd7a6fadd",
+  "active": "5843fd55602953f1",
   "lastOpenFiles": [
-    "Objetos Hombrew/Cocina/Ingredientes/Ingredientes.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Batata verde.md",
+    "Objetos Hombrew/Cocina/Ingredientes/1Ingredientes.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Fruta Pui Pui.md",
+    "Objetos Hombrew/Cocina/Ingredientes/pimiento morado.md",
+    "Mecánicas y Notas/Cocina.md",
+    "Pasted image 20260802040252.png",
+    "Sesiones/Sesión 1.md",
+    "Pasted image 20260805163932.png",
+    "Pasted image 20260805163914.png",
+    "Pasted image 20260805163917.png",
+    "ingrediente.md",
     "Objetos Hombrew/Cocina/Comidas",
     "Objetos Hombrew/Cocina/Ingredientes",
-    "Mecánicas y Notas/Cocina.md",
     "Objetos Hombrew/Cocina/Comidas/Café Dolce Marina.md",
     "Objetos Hombrew/Cocina/Comidas/Escabeche de Fruta Piu Piu.md",
-    "Sesiones/Sesión 1.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Dolce Marina.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/José José.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Verdulería Exótica.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Fruta Pui Pui.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
     "Party/Flawa.md",
     "Agrupaciones y Gremios/Guardia de Bigzha.md",
@@ -269,15 +290,12 @@
     "Party/Ari.md",
     "Party/Agustin.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
-    "Pasted image 20260802040252.png",
     "Las 8 Bestias Capitales/7 Soberbia.md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Criaturas/Gorila Umbrío.md",
     "Criaturas/Deambulante.md",
     "Party/1Party.md",
     "Party/Cajón",
-    "Panteón/El Dragón.md",
-    "Las 8 Bestias Capitales/6 Ira.md",
     "Panteón Menor",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura",
     "zFotos/Silas y Eris.png",
@@ -288,9 +306,6 @@
     "zFotos/4 Avaricia.png",
     "zFotos/Fiddle1.png",
     "zFotos/Familia Dirtypaws.png",
-    "zFotos/Bucker Tropp.png",
-    "zFotos/Thes'Burrow.png",
-    "zFotos/6 Ira.png",
     "Sin título.canvas"
   ]
 }

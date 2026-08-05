@@ -174,7 +174,7 @@ Hasta aquí llegamos en la [[Sesión 1]]
 Feedback:
 Hacer los escenarios más interactivos.
 Dar espacios para sacar a luz las backstories
-
+![[Pasted image 20260805163932.png]]
 
 ---
 
