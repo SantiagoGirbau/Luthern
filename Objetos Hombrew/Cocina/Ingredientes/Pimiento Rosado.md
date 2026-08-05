@@ -10,6 +10,6 @@ Es un poco dulzón, es favorito para hacer escabeches
 Costo: 8 de cobre cada una. (Cada una sirve para guarnir una porción)
 
 Buff:
-Otorga +3 de vida temporal al platillo
+Otorga +3 de vida temporal extra al platillo
 Debuff:
 El platillo infringe 3 de daño al consumidor

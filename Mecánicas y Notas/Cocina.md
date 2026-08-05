@@ -22,3 +22,9 @@ Horrible: 5 de daño
 Espantoso: 7 de daño  
 
 Y además aplica los efectos de los ingredientes especiales que se hayan usado
+
+El límite de ingredientes especiales que se puede usar por plato es de 3.
+Si se tiene competencia en cocina, este valor aumenta en 2
+Si se tiene el feat de Chef, no se debe hacer la última tirada del platillo.
+
+La comida se puede
