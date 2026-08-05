@@ -2,6 +2,7 @@
 aliases:
   - Ingrediente
   - ingrediente
+  - Ingredientes Especiales
 tags:
   - Hombrew
   - Ingrediente
