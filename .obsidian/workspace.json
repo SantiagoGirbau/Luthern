@@ -39,14 +39,12 @@
             "id": "5843fd55602953f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Objetos Hombrew/Cocina/Ingredientes/Especias/Gel de Slime Purificado.md",
-                "mode": "source",
-                "source": false
+                "file": "zFotos/Statblock Arpía.png"
               },
-              "icon": "lucide-file",
-              "title": "Gel de Slime Purificado"
+              "icon": "lucide-image",
+              "title": "Statblock Arpía"
             }
           }
         ],
@@ -203,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objetos Hombrew/Cocina/Ingredientes/Especias/Gel de Slime Purificado.md"
+                "file": "zFotos/Statblock Arpía.png"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -233,12 +231,15 @@
   },
   "active": "5843fd55602953f1",
   "lastOpenFiles": [
+    "Pasted image 20260805163932.png",
+    "zFotos/Silas Corvo.jpg",
+    "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Especias/Gel de Slime Purificado.md",
     "Mecánicas y Notas/Cocina.md",
     "Objetos Hombrew/Cocina/Ingredientes/Tomate Chispa.md",
     "Objetos Hombrew/Cocina/Ingredientes/Fruta Pui Pui.md",
     "Objetos Hombrew/Cocina/Ingredientes/Especias/Agua del Mar Dulce Destilada.md",
     "Objetos Hombrew/Cocina/Ingredientes/Especias",
-    "Objetos Hombrew/Cocina/Ingredientes/Especias/Gel de Slime Purificado.md",
     "Objetos Hombrew/Cocina/Ingredientes/Hongo Toro.md",
     "Objetos Hombrew/Cocina/Ingredientes/Ciruela Sombría.md",
     "Objetos Hombrew/Cocina/Ingredientes/Nuez de Hierro.md",
@@ -249,9 +250,8 @@
     "Objetos Hombrew/Cocina/Ingredientes/Grano de Café Kopi-Lowak.md",
     "Objetos Hombrew/Cocina/Comidas/Café Dolce Marina.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Dolce Marina.md",
-    "Pasted image 20260802040252.png",
+    "zFotos/Statblock Arpía.png",
     "Sesiones/Sesión 1.md",
-    "Pasted image 20260805163932.png",
     "Pasted image 20260805163914.png",
     "Pasted image 20260805163917.png",
     "ingrediente.md",
@@ -259,7 +259,6 @@
     "Objetos Hombrew/Cocina/Ingredientes",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/José José.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Verdulería Exótica.md",
-    "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
     "Party/Flawa.md",
     "Agrupaciones y Gremios/Guardia de Bigzha.md",
     "Criaturas/Civeta umbría.md",
@@ -277,7 +276,6 @@
     "zFotos/5 Lujuria.png",
     "zFotos/4 Avaricia.png",
     "zFotos/Fiddle1.png",
-    "zFotos/Familia Dirtypaws.png",
     "Sin título.canvas"
   ]
 }

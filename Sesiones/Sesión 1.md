@@ -202,7 +202,7 @@ Ahí les contarán la leyenda de la [[7 Soberbia]].
 
 En el viaje los van a atacar 4 arpías y pelearan sobre el barco.
 
-![[Pasted image 20260802040252.png|700]]
+![[Statblock Arpía.png|700]]
 
 Las arpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugador.
 
