@@ -1,20 +1,15 @@
-ARPÍA
 Monstruosidad Mediano, Caótico malvado
-
 Las arpías son monstruosidades que mezclan atributos de mujer con los de ave de carroña.
 Son capaces de volar con sus emplumadas alas y de cantar de forma tan sublime que atraen
 a todo el que las escucha como corderos al matadero. Las arpías blanden toscos garrotes a
 veces hechos con los mondos huesos de sus víctimas.
 
-Origen: Reglas básicas
 Categoría: Monstruo
 Clase de armadura: 11
 Iniciativa: +1
 Puntos de Golpe: 38 (7d8+7)
 Valor de desafío: 1 (200 PX)
 Velocidad: 20 pies, 40 pies volando
-
-
 
 Sentidos: Percepción pasiva 10
 Idiomas: Común
@@ -46,4 +41,5 @@ foso, y cuando recibe daño de una fuente que no sea la arpía, el objetivo pued
 tirada de salvación. También puede hacerlo al final de cada uno de sus turnos. Si tiene éxito,
 el efecto termina. Cuando el efecto termine de la manera que sea, el objetivo se vuelve
 inmune a la canción de esta harpía durante las siguientes 24 horas.
+
 ![[Harpía del Mar Dulce.png]]

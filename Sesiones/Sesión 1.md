@@ -174,7 +174,6 @@ Hasta aquí llegamos en la [[Sesión 1]]
 Feedback:
 Hacer los escenarios más interactivos.
 Dar espacios para sacar a luz las backstories
-![[Alguna Mujer de armadura.png]]
 
 ---
 
@@ -184,16 +183,17 @@ Silas los espera en el salón principal tomando un café
 
 -La mala es que no tengo ni idea de sus capacidades, por lo que no puedo asignarles una misión acorde de la lista que me brindaron los servidores del rey.
 
--La buena es que eso significa que sea lo que sea que elija, quizás quede liberado de mi cargo...
+-La buena es que eso significa que, sea lo que sea que elija, quizás quede liberado de mi cargo...
 
-Mision de hoy
+-Esta es su primera misión. Dice tirando un papel sobre la mesa.
+
 - Dar caza una caravana de 4-6 [[Deambulante|Deambulantes]] que se han visto rondando en los límites con la [[Tierras sin reclamar]] 7 puntos
   
-Los puntos son para determinar el potencial latente del grupo. Cuanto más puntos, más les pagan, más renombre para ustedes y su mentor... A mi me da igual la verdad, hagan lo que quieran...
+-Los puntos son para determinar el potencial latente del grupo. Cuanto más puntos, más les pagan, más renombre para ustedes y su mentor... A mi me da igual la verdad, hagan lo que quieran...
 
-Los [[Deambulante|Deambulantes]] son...
+Los [[Deambulante|Deambulantes]] son... (ver [[Deambulante]])
 
-Si no pueden con un par de [[Deambulante|Deambulantes]], entonces no tienen el potencial que busca el Rey...
+Si no pueden con un par de [[Deambulante|Deambulantes]], entonces no tienen el potencial que busca el Rey... No tienen esperanza con ninguna de [[Las 8 bestias capitales.|Las Bestias]] .
 Si es que lo logran, quizás tengan esperanza...
 
 Deberán cruzar en barco al sur.
