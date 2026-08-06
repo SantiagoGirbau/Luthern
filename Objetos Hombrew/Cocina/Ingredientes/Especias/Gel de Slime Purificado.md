@@ -5,4 +5,4 @@
     
 - **Buffo:** El gel encapsula la magia de la comida. Extiende el tiempo en el que el platillo mantiene sus efectos a **8 horas**.
     
-- **Debuffo:** El gel se vuelve un ácido digestivo inestable. Destruye el alimento.
+- **Debuffo:** El gel se vuelve un ácido digestivo inestable. Destruye el paltillo.
