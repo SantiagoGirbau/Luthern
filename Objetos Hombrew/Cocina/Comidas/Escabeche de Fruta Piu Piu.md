@@ -1,7 +1,13 @@
 ---
 aliases:
   - Escabeche de Fruta Pui Pui
+tags:
+  - Platillo
+  - Hombrew
+  - Cocina
+Estado: Aceptable
 ---
+[[Cocina|Platillo]] especial, vendido por [[José José]].
 Escabeche de Fruta Piu Piu, 3 de plata.
 Puedes usar una acción extra para comerte todo el frasco y obtener uno de los siguientes efectos:
 Tirar un d2

@@ -10,7 +10,8 @@ Dar espacios para sacar a luz las backstories (Vale)
 ---
 
 Al día siguiente. 
-Silas los espera en el salón principal tomando un café![[Silas Corvo.jpg|206]]
+Silas los espera en el salón principal tomando un café
+(Ver: [[Silas Corvo]]) 
 -Tengo una buena y una mala noticia
 
 -La mala es que no tengo ni idea de sus capacidades, por lo que no puedo asignarles una misión acorde de la lista que me brindaron los servidores del rey.

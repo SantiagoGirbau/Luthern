@@ -1,5 +1,9 @@
 ---
 aliases:
+  - Comida
+  - Platillo
+  - Plato
+  - Bebida
 tags:
   - Mecánica
   - Hombrew
