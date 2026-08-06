@@ -36,15 +36,17 @@
             }
           },
           {
-            "id": "5843fd55602953f1",
+            "id": "151155c4f738cff8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "zFotos/Statblock Arpía.png"
+                "file": "Criaturas/Harpía del Mar Dulce.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Statblock Arpía"
+              "icon": "lucide-file",
+              "title": "Harpía del Mar Dulce"
             }
           }
         ],
@@ -201,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zFotos/Statblock Arpía.png"
+                "file": "Criaturas/Harpía del Mar Dulce.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -229,9 +231,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5843fd55602953f1",
+  "active": "151155c4f738cff8",
   "lastOpenFiles": [
-    "Pasted image 20260805163932.png",
+    "zFotos/Alguna Mujer de armadura.png",
+    "Sesiones/Sesión 1.md",
+    "Criaturas/Harpía del Mar Dulce.md",
+    "zFotos/Harpía del Mar Dulce.png",
+    "zFotos/Statblock Harpía.png",
     "zFotos/Silas Corvo.jpg",
     "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
     "Objetos Hombrew/Cocina/Ingredientes/Especias/Gel de Slime Purificado.md",
@@ -250,8 +256,6 @@
     "Objetos Hombrew/Cocina/Ingredientes/Grano de Café Kopi-Lowak.md",
     "Objetos Hombrew/Cocina/Comidas/Café Dolce Marina.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Dolce Marina.md",
-    "zFotos/Statblock Arpía.png",
-    "Sesiones/Sesión 1.md",
     "Pasted image 20260805163914.png",
     "Pasted image 20260805163917.png",
     "ingrediente.md",
@@ -266,7 +270,6 @@
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS",
     "Objetos Hombrew/Cocina",
-    "Party/Pado.md",
     "Party/Cajón",
     "Panteón Menor",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura",
@@ -275,7 +278,6 @@
     "zFotos/Civeta Umbría.png",
     "zFotos/5 Lujuria.png",
     "zFotos/4 Avaricia.png",
-    "zFotos/Fiddle1.png",
     "Sin título.canvas"
   ]
 }

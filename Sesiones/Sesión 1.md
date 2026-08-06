@@ -174,7 +174,7 @@ Hasta aquí llegamos en la [[Sesión 1]]
 Feedback:
 Hacer los escenarios más interactivos.
 Dar espacios para sacar a luz las backstories
-![[Pasted image 20260805163932.png]]
+![[Alguna Mujer de armadura.png]]
 
 ---
 
@@ -201,8 +201,6 @@ Deberán cruzar en barco al sur.
 Ahí les contarán la leyenda de la [[7 Soberbia]].
 
 En el viaje los van a atacar 4 arpías y pelearan sobre el barco.
-
-![[Statblock Arpía.png|700]]
 
 Las arpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugador.
 
