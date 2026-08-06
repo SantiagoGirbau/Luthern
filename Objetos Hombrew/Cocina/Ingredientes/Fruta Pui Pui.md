@@ -8,7 +8,7 @@ tags:
   - Objeto
 ---
 Una fruta que se encuentra en una zona profunda del bosque, sabe muy parecido a granadina con soda.
-Su valor es bastante alto para una fruta. aproximadamente 8 de cobre CADA UNA
+Su costo es bastante alto para una fruta. aproximadamente 8 de cobre CADA UNA
 Son frutas pequeñas así que se necesitan al menos dos para preparar una porción con ella.
 
 Buffo:

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos Hombrew/Cocina/Ingredientes/Especias/Agua del Mar Dulce Destilada.md",
+                "file": "Objetos Hombrew/Cocina/Ingredientes/Especias/Gel de Slime Purificado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agua del Mar Dulce Destilada"
+              "title": "Gel de Slime Purificado"
             }
           }
         ],
@@ -203,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objetos Hombrew/Cocina/Ingredientes/Especias/Agua del Mar Dulce Destilada.md"
+                "file": "Objetos Hombrew/Cocina/Ingredientes/Especias/Gel de Slime Purificado.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -231,20 +231,20 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f0490699a9331264",
+  "active": "5843fd55602953f1",
   "lastOpenFiles": [
+    "Mecánicas y Notas/Cocina.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Tomate Chispa.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Fruta Pui Pui.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Especias/Agua del Mar Dulce Destilada.md",
     "Objetos Hombrew/Cocina/Ingredientes/Especias",
     "Objetos Hombrew/Cocina/Ingredientes/Especias/Gel de Slime Purificado.md",
     "Objetos Hombrew/Cocina/Ingredientes/Hongo Toro.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Tomate Chispa.md",
     "Objetos Hombrew/Cocina/Ingredientes/Ciruela Sombría.md",
     "Objetos Hombrew/Cocina/Ingredientes/Nuez de Hierro.md",
     "Objetos Hombrew/Cocina/Ingredientes/Pimiento Rosado.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Especias/Agua del Mar Dulce Destilada.md",
     "Objetos Hombrew/Cocina/Ingredientes/Batata verde.md",
     "Objetos Hombrew/Cocina/Ingredientes/Ingredientes Especiales.md",
-    "Mecánicas y Notas/Cocina.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Fruta Pui Pui.md",
     "Objetos Hombrew/Cocina/Comidas/Escabeche de Fruta Piu Piu.md",
     "Objetos Hombrew/Cocina/Ingredientes/Grano de Café Kopi-Lowak.md",
     "Objetos Hombrew/Cocina/Comidas/Café Dolce Marina.md",
@@ -273,7 +273,6 @@
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura",
     "zFotos/Silas y Eris.png",
     "Lugares/Tierras sin reclamar/Tribus/Dol'Gara",
-    "Agrupaciones y Gremios/Mentores de Bigss",
     "zFotos/Civeta Umbría.png",
     "zFotos/5 Lujuria.png",
     "zFotos/4 Avaricia.png",
