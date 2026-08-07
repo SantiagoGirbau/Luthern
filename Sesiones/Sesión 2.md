@@ -33,7 +33,10 @@ Deberán cruzar en barco al sur.
 
 Ahí les contarán la leyenda de la [[7 Soberbia]].
 
-En el viaje los van a atacar 4 arpías y pelearan sobre el barco.
+Escribir aquí cómo la contarán los marineros
+---
+
+En el viaje los van a atacar 5 arpías y pelearan sobre el barco.
 
 Las arpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugador.
 
