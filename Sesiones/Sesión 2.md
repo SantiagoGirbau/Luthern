@@ -58,9 +58,9 @@ Yo daré ventaja si alguna me parece creativa o divertida.
 
 El resultado final será un éxito o un fallo dependiendo del resultado promedio del grupo.
 
-Deben sumar al menos 50
+Deben sumar al menos 70 entre todas las tiradas para que se considere un éxito.
 
-Ahí les contarán la leyenda de la [[7 Soberbia]].
+Ahí les contarán la leyenda de la [[7 Soberbia|Soberbia]].
 
 Escribir aquí cómo la contarán los marineros
 ---

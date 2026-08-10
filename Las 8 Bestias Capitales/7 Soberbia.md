@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Sobervia
+  - Soberbia
 tags:
   - Lore
   - NPC
@@ -8,7 +8,7 @@ tags:
   - Criatura
 ---
 **Soberbia** es una de **[[Las 8 bestias capitales.]]**. Adopta la forma de una colosal y majestuosa Hidra-Basilisco marina, encarnando la vanidad absoluta que exige devoción y ciega a quienes la desafían.
-
+![[Soberbia.png|700]]
 ### Comportamiento (La Cosecha de Reflejos)
 
 Viaja por ríos subterráneos y emerge de noche en grandes lagos, bahías o mares navegados. No caza para alimentarse; caza para expandir su colección de espejos. Acecha a los barcos grandes o a poblaciones orilleras prósperas. Ataca bajo el manto de la noche, emergiendo silenciosamente para proyectar el "Castigo del Insolente" antes de que puedan defenderse.
