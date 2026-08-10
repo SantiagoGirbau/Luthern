@@ -35,7 +35,13 @@ Si es que lo logran, quizás tengan esperanza...
 
 Deberán cruzar en barco al sur.
 
-El barco se llama ""
+El barco se llama "[[Marina Cofmak|Marimar]]"
+
+(Si preguntan por el nombre al capitán, les dirá que se llama así ya que así le dice a su Hija.)
+
+Es un barco de transporte de personas principalmente. Suele tener un grupo de aventureros que los acompaña, pero recientemente renunciaron a sus puestos.
+
+El capitán es un hombre Sencillo pero estoico, de características Élficas. Se llama [[Lauren Cofmak ]]
 
 Ahí les contarán la leyenda de la [[7 Soberbia]].
 
