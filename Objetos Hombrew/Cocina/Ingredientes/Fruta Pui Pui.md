@@ -8,8 +8,9 @@ tags:
   - Objeto
 ---
 Una fruta que se encuentra en una zona profunda del bosque, sabe muy parecido a granadina con soda.
-Su costo es bastante alto para una fruta. aproximadamente 8 de cobre CADA UNA
+Su costo es bastante alto para una fruta. aproximadamente 1 de plata CADA UNA
 Son frutas pequeñas así que se necesitan al menos dos para preparar una porción con ella.
+Es un [[Ingredientes Especiales|ingrediente]] muy preciado ya que se encuentra en el corazón del [[El Bosque Frontera|Bosque Umbrío]] y su sabor es considerado único y estimulante.
 
 Buffo:
 Tirar un d2

@@ -6,7 +6,7 @@ tags:
   - Hombrew
 Estado: Pobre
 ---
-Es un poco dulzón, es favorito para hacer escabeches
+Es un [[Ingredientes Especiales|ingrediente]] un poco dulzón, es favorito para hacer escabeches
 Costo: 8 de cobre cada una. (Cada una sirve para guarnir una porción)
 
 Buff:

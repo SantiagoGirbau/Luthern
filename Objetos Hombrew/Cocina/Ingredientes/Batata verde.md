@@ -7,8 +7,8 @@ tags:
   - Ingrediente
 Estado:
 ---
-batata dulce y acida que huele a cuando cortas el pasto
-costo 5 de cobre cu
+Es un [[Ingredientes Especiales|ingrediente]]. Batata dulce y ácida que huele a cuando cortas el pasto
+costo 5 de cobre cada una
 
 Buffo:
 +5 pies de velocidad durante 5 minutos

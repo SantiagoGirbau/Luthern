@@ -6,7 +6,7 @@ tags:
   - Ingrediente
 Estado: Aceptable
 ---
-Un tomate con un sabor umami electrificante.
+Un tomate con un sabor umami electrificante. Es un [[Ingredientes Especiales|ingrediente]].
 
 Costo: 1 plata cada uno
 

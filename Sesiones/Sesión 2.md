@@ -20,9 +20,13 @@ Silas los espera en el salón principal tomando un café
 
 -Esta es su primera misión. Dice tirando un papel sobre la mesa.
 
-- Dar caza una caravana de 4-6 [[Deambulante|Deambulantes]] que se han visto rondando en los límites con la [[Tierras sin reclamar]] 7 puntos
+- Dar caza una caravana de 4-6 [[Deambulante|Deambulantes]] que se han visto rondando en los límites con la [[Tierras sin reclamar]] 7 puntos 
+
+||Es de hecho considerada la misión más peligrosa, otorgando la mayor cantidad de puntos. Ningún otro grupo se atrevió a tomarla ya que puede provocar una catástrofe. Todos consideran que será mejor dejarle este trabajo a los sacerdotes y exorcistas de la [[Seguidores del Sol Eterno|Iglesia del Sol Eterno]]||
   
 -Los puntos son para determinar el potencial latente del grupo. Cuanto más puntos, más les pagan, más renombre para ustedes y su mentor... A mi me da igual la verdad, hagan lo que quieran...
+
+Le larga un chorrazo de licor al café.
 
 Los [[Deambulante|Deambulantes]] son... (ver [[Deambulante]])
 
@@ -30,6 +34,8 @@ Si no pueden con un par de [[Deambulante|Deambulantes]], entonces no tienen el p
 Si es que lo logran, quizás tengan esperanza...
 
 Deberán cruzar en barco al sur.
+
+El barco se llama ""
 
 Ahí les contarán la leyenda de la [[7 Soberbia]].
 
