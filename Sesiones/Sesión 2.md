@@ -58,11 +58,12 @@ Eleandale es un pueblo pequeño ganadero. Tiene muchos campos
 
 
 Otras misiones para luego:
-- Investigar unas Ruinas de la civilización antigua cualquiera y traer de regreso al menos 5 piedras fosforecentes de ahí. (El mapa no se incluye) 5 puntos
+- Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
 - Frenar a una tribu autóctona violenta que ha estado causando estragos en un pueblo en el Sur, ignorando peticiones de alianzas o treguas. Se debe realizar mediante cualquier medio necesario. 3 puntos
-- Ayudar a navegantes a cruzar a salvo una barcaza por el Mar Dulce, se calculan 2 días de viaje de ida y 2 de vuelta.  5 puntos
-- Cazar goblins y trolls en el [[El Bosque Frontera|Bosque Umbrío]] y desarmar un asentamiento 3 puntos.
-- Lidiar con bandidos que han estado robando caravanas provenientes de [[Imperio Teocrático de Umnazia|Umnazia]].
+- Ayudar a navegantes a cruzar a salvo una barcaza con alimento por el Mar Dulce, se calculan 2 días de viaje de ida y 2 de vuelta.  5 puntos
+- Cazar goblins y trolls en el [[El Bosque Frontera|Bosque Umbrío]] y desarmar un asentamiento 2 puntos.
+- Lidiar con bandidos que han estado robando caravanas provenientes de [[Imperio Teocrático de Umnazia|Umnazia]]. 2 puntos.
+- 
 
 
 

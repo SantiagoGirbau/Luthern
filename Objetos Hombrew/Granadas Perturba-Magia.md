@@ -10,7 +10,7 @@ Tipo: Arma de Guerra
 Costo: 50 de oro
 Peso: 1lb
 
-Son granadas fabricadas para contrarrestar hechizos y anular encantamientos.
+Son granadas fabricadas con unos cuantos miligramos de [[Atium]] para contrarrestar hechizos y anular encantamientos.
 
 Como acción, puedes lanzarlo hasta **60 pies**; cada criatura en un radio de **5 pies** debe superar una **CD 14 de Destreza** o cualquier hechizo que haya estado por lanzar es anulado y cualquier hechizo en el que haya estado concentrado finaliza sin efecto final.
 
