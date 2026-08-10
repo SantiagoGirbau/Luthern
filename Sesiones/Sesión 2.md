@@ -30,18 +30,35 @@ Le larga un chorrazo de licor al café.
 
 Los [[Deambulante|Deambulantes]] son... (ver [[Deambulante]])
 
-Si no pueden con un par de [[Deambulante|Deambulantes]], entonces no tienen el potencial que busca el Rey... No tienen esperanza con ninguna de [[Las 8 bestias capitales.|Las Bestias]] .
+Si no pueden con un par de [[Deambulante|Deambulantes]], entonces no tienen el potencial que busca el Rey... No tienen esperanza con ninguna de [[Las 8 bestias capitales.|Las Bestias]] así que deberían rendirse.
 Si es que lo logran, quizás tengan esperanza...
 
-Deberán cruzar en barco al sur.
+-Deberán cruzar en barco al sur me tomé la libertad de conseguirles los pasajes. No hace falta que me agradezcan. Busquen al barco que se llama "[[Marina Cofmak|Marimar]]". Su capitán es [[Lauren Cofmak]].
 
-El barco se llama "[[Marina Cofmak|Marimar]]"
+El barco es bastante agradable a la vista. Es amplio, de color azul claro y se encuentra impecable.
+Sus tripulantes van y vienen, cargando y descargando cajas
 
 (Si preguntan por el nombre al capitán, les dirá que se llama así ya que así le dice a su Hija.)
 
-Es un barco de transporte de personas principalmente. Suele tener un grupo de aventureros que los acompaña, pero recientemente renunciaron a sus puestos.
+Es un barco de transporte de bienes principalmente. Suele tener un grupo de aventureros que los acompaña, pero recientemente renunciaron a sus puestos.
 
-El capitán es un hombre Sencillo pero estoico, de características Élficas. Se llama [[Lauren Cofmak ]]
+El capitán es un hombre Sencillo pero estoico, de características Élficas. Se llama presenta como [[Lauren Cofmak]]. Y les agradece por haber accedido a escoltar el barco gratuitamente.
+
+(Con acento de pirata)
+-Las [[Harpía del Mar Dulce|Harpías del Mar Dulce]] andan más molestas que nunca hoy en día... Así que, que no les sorprenda si nos encontramos con algunas. No son difíciles de eliminar, pero suelen venir en grupos... Pero confío en ustedes! Ese borrachín dijo que son lo suficientemente fuertes como para eliminar una caravana de [[Deambulante|Deambulantes]]! Así que no van a tener problema.
+
+Preparan sus cosas y zarparán.
+
+Se les pedirá ayuda en la navegación.
+
+Cada uno declarará una habilidad con la que planea ayudar durante el viaje.
+Yo voy a determinar un DC para que esa habilidad sea productiva o contraproducente.
+Cada quién hace una tirada, las habilidades no se pueden repetir. 
+Yo daré ventaja si alguna me parece creativa o divertida.
+
+El resultado final será un éxito o un fallo dependiendo del resultado promedio del grupo.
+
+Deben sumar al menos 50
 
 Ahí les contarán la leyenda de la [[7 Soberbia]].
 

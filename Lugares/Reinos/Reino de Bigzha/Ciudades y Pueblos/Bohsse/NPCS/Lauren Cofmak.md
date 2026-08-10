@@ -13,4 +13,4 @@ Hace unos cincuenta años, escuchó de que un hombre llamado [[Biggsa]] se habí
 
 [[Lauren Cofmak]] sobrevivió a 5 naufragios hasta la fecha. Y en cada uno de ellos, todos sus tripulantes sobrevivieron gracias a su rápido pensar.
 
-Hace 21 años, construyó su barco actual al cuál llamó Marimar, en honor a su hija que nació un par de días antes de que éste haya estado terminado. 
+Hace 21 años, construyó su barco actual al cuál llamó Marimar, en honor a su hija que nació un par de días antes de que éste haya estado terminado.

@@ -1,3 +1,11 @@
+---
+aliases:
+  - Harpías del Mar Dulce
+tags:
+  - Criatura
+  - Hombrew
+Estado: Aceptable
+---
 Monstruosidad Mediano, Caótico malvado
 Las arpías son monstruosidades que mezclan atributos de mujer con los de ave de carroña.
 Son capaces de volar con sus emplumadas alas y de cantar de forma tan sublime que atraen
