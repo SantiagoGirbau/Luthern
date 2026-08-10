@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos Hombrew/Poción de Afinidad Mágica.md",
+                "file": "Party/_Party.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poción de Afinidad Mágica"
+              "title": "_Party"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objetos Hombrew/Poción de Afinidad Mágica.md"
+                "file": "Party/_Party.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -220,13 +220,13 @@
   },
   "active": "a0f9b0ebe82ed5ae",
   "lastOpenFiles": [
+    "Objetos Hombrew/Poción de Afinidad Mágica Común.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Bohsse.md",
     "Objetos Hombrew/Mapas de las Ruinas.md",
     "Objetos Hombrew/Materiales/Piedras Fosforescentes.md",
     "Sesiones/Sesión 2.md",
     "Las 8 Bestias Capitales/4 Lujuria.md",
     "Objetos Hombrew/Granadas Perturba-Magia.md",
-    "Objetos Hombrew/Poción de Afinidad Mágica.md",
     "Objetos Hombrew/Materiales/Mithril.md",
     "Objetos Hombrew/Materiales/Atium.md",
     "Objetos Hombrew/Materiales",

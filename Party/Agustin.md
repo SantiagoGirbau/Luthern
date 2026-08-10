@@ -7,7 +7,7 @@ tags:
   - Jugador
 Estado: Terminado
 ---
-Forma parte de la [[1Party]]. 
+Forma parte de la [[_Party]]. 
 
 Hasta no recordaba cómo había llegado al bosque. Su primer recuerdo era el calor del cuerpo de su madre y la suavidad de su pelaje. Había sido abandonado y rescatado por aquella bestia.
 
