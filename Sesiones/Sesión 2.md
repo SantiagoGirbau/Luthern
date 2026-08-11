@@ -53,17 +53,11 @@ Se les pedirá ayuda en la navegación.
 
 -Aye! No pueden quedarse parados haciendo nada... Cada gramo extra en este barco debe cumplir una función en todo momento!. A trabajar!
 
-Cada uno declarará una habilidad con la que planea ayudar durante el viaje.
-Yo voy a determinar un DC para que esa habilidad resulte productiva o contraproducente.
-Cuanto mejor roleen y describan lo que hacen, menor será el DC.
-Cada quién hace una tirada, las habilidades no se pueden repetir. 
-Yo daré ventaja si alguna me parece creativa o divertida.
 
-El resultado final será un éxito o un fallo dependiendo del resultado promedio del grupo.
 
-Deben sumar al menos 70 entre todas las tiradas para que se considere un éxito.
+En caso de ser menor a 14, los atacarán 12 [[Harpía del Mar Dulce]] en lo que el barco golpea con un arrecife haciendo mucho ruido y llamando la atención de un aquelarre. 
 
-En caso de ser menor a 70, los atacarán 10 [[Harpía del Mar Dulce]] en lo que el barco golpea con un arrecife haciendo mucho ruido y llamando la atención de una mana En caso de ser mayor a 70, los atacarán solo 5
+En caso de ser mayor a 14, los atacarán solo 6 en lo que el barco esquiva el arrecife y evita hacer ruido.
 
 Ahí les contarán la leyenda de la [[7 Soberbia|Soberbia]].
 
