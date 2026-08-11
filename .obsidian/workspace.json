@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Las 8 Bestias Capitales/7 Soberbia.md"
+                "file": "Sesiones/Sesión 2.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -248,11 +248,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "6fb4f5fb265286ed",
+  "active": "572cba8d84b06219",
   "lastOpenFiles": [
+    "Las 8 Bestias Capitales/7 Soberbia.md",
     "Soberbia.png",
     "Sesiones/Sesión 2.md",
-    "Las 8 Bestias Capitales/7 Soberbia.md",
     "Criaturas/Harpía del Mar Dulce.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lauren Cofmak.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Marimar.md",
@@ -295,7 +295,6 @@
     "zFotos/Silas y Eris.png",
     "zFotos/Civeta Umbría.png",
     "zFotos/5 Lujuria.png",
-    "zFotos/4 Avaricia.png",
     "Sin título.canvas"
   ]
 }
