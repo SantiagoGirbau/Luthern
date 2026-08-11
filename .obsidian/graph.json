@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Deidad  ",
@@ -61,6 +61,13 @@
       "color": {
         "a": 1,
         "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#Mecánica  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711867
       }
     }
   ],

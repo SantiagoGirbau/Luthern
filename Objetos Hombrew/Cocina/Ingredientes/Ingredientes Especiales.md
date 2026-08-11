@@ -6,6 +6,7 @@ aliases:
 tags:
   - Hombrew
   - Ingrediente
+  - Mecánica
 Estado: Pobre
 ---
 Serán los componentes principales que se usarán para la mecánica de [[Cocina]].

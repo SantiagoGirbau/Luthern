@@ -1,7 +1,10 @@
 ---
 aliases:
+  - Bendición
 tags:
+  - Mecánica
+  - Hombrew
 Estado: Pobre
 ---
-Son bendiciones fijas otorgadas a los habitantes de las tierras de Luthern. Cada bendición otorga algo a su portador, pero también tiene un efecto secundario adverso.No tienen relación
+Son bendiciones fijas otorgadas a los habitantes de las tierras de Luthern. Cada bendición otorga algo a su portador, pero también tiene un efecto secundario adverso. No tienen relación a los dioses del panteón.
 En un futuro debe expandirse esto mejor.

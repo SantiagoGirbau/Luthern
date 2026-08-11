@@ -60,7 +60,7 @@ En caso de ser menor a 14, los atacarán 12 [[Harpía del Mar Dulce]] en lo que 
 
 En caso de ser mayor a 14, los atacarán solo 6 en lo que el barco esquiva el arrecife y evita hacer ruido.
 
-Ahí les contarán la leyenda de la [[7 Soberbia|Soberbia]].
+Esa noche les contarán la leyenda de la [[7 Soberbia|Soberbia]].
 
 Escribir aquí cómo la contarán los marineros
 --
