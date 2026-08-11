@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mecánicas y Notas/Navegación.md"
+                "file": "Sesiones/Sesión 2.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -262,10 +262,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "28050422cd91b39c",
+  "active": "572cba8d84b06219",
   "lastOpenFiles": [
-    "Sesiones/Sesión 2.md",
     "Mecánicas y Notas/Navegación.md",
+    "Sesiones/Sesión 2.md",
     "Las 8 Bestias Capitales/7 Soberbia.md",
     "Soberbia.png",
     "Criaturas/Harpía del Mar Dulce.md",
