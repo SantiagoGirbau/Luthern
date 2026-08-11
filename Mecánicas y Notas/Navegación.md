@@ -6,7 +6,7 @@ tags:
   - Hombrew
 Estado: Aceptable
 ---
-Al iniciar la navegación, por cada día en el barco, cada jugador declarará una habilidad con la que planea ayudar durante el viaje. O puede abstenerse.
+Al iniciar la navegación, por cada día en el barco, cada jugador declarará una habilidad con la que planea ayudar durante el viaje. O puede abstenerse en caso de estar imposibilitados.
 El GM determina un DC para que esa habilidad resulte productiva o contraproducente dependiendo de qué tanto sentido tenga la actividad.
 Aquellos que se abstengan de ayudar, pueden asistir a otros jugadores en sus tareas, dándoles ventaja y en caso de no hacer eso, contarán para los fallos.
 Realizar estas tiradas no previene a los jugadores de realizar otras actividades durante el día y tampoco les impone desventaja.
