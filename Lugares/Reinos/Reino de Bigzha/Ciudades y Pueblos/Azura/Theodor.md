@@ -1,1 +1,7 @@
+---
+aliases:
+  - Theodor
+tags:
+Estado:
+---
 Para mi buena fortuna, la tienda de este hombre era conocida por la zona, ya que no muy lejos de la plaza principal se alzaba una herboristería bastante grande y bien cuidada, repleta de plantas aromáticas y decorativas de todos colores. Tras un tablón de madera que cumplía la función de mostrador se encontraba un hombre grande, muy peludo y con una gran sonrisa, se trataba de ese tal Theodor.

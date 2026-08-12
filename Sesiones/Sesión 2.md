@@ -69,11 +69,16 @@ En el viaje los van a atacar 5 arpías y pelearan sobre el barco.
 
 Las arpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugador.
 
-Luego cruzarán el resto del viaje sin problemas, es un día entero de viaje ya que es un barco rápido y hay buen viento.
+Luego cruzarán el resto de la navegación. Es un día entero de viaje ya que es un barco rápido y hay buen viento.
 
 Llegan a Asura, el pueblo de donde proviene [[Pado|Edric]]. La herboristería de [[Theodor]] se encuentra ahí. Pueden pedirle cosas. Se las dará libre de cargos.
 
-Luego tienen 2 días de viaje en carro (Que deben pagar) hasta la frontera sur de [[Reino de Bigzha|Bigzha]] donde deberán rastrear a esta caravana de [[Deambulante|Deambulantes]].
+Escribir cosas que pueda decir de interesante [[Theodor]] 
+--
+
+Luego tienen 1 día de viaje en carro (Que deben pagar) y 2 de viaje a pie hasta la frontera sur de [[Reino de Bigzha|Bigzha]] donde deberán rastrear a esta caravana de [[Deambulante|Deambulantes]].
+
+Los carreros les pedirán 1 de oro por persona para acercarlos hasta [[Eleandale]] 
 
 Pasan por 2 pueblos, Asura, luego Eleandale y 1 tribu, los Bo-Bore, que son aquellos que hicieron la petición de ayuda.
 

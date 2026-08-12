@@ -11,13 +11,13 @@ tags:
 Estado: Terminado
 ---
 **
-Broc'kuhn = Sangre diluída
+Broc'uhn = Sangre diluída
 ### Leyenda de los [[Dol'Gara]]:
-(Dol=Descendientes )
+(Dol=Descendientes)
 
 En la primera leyenda, antes de que los continentes tuvieran los nombres de hoy, existió un vínculo que desafió el mismísimo orden natural de las cosas, el amor entre un mortal y un dios. Nuestro fundador, Gara, nació en las distantes y mitológicas tierras del gran Sol, tierras prósperas donde la dorada luz del sol acaricia cálidamente a todos sus habitantes. Y entre esos habitantes había una diosa, maestra de los elementos, poseía una prístina piel que rivalizaba al más duro de los aceros, su voz invocaba sismos, portaba unos ojos que eran pozos eternos de radiante energía y su presencia cargaba con el peso de mil montañas. 
 
-Gara la conoció en el más alto de los picos, donde el cielo se terminaba y el viento no se atrevía a aventurarse. La diosa observó al nuevo invitado de las estrellas, y en Gara no vió a una simple bestia, sino a un rey sin corona, a un heroe sin espada, a un bardo sin instrumento. Nuestro fundador no huyó ante la presencia de un dios, en cambio se sentó frente a ella y compartió el silencio que les brindaba el firmamento. En ese silencio donde la fugaz energía de un mortal se encontró con la lenta y antigua vida del inmortal, nació una mutua fascinación. 
+Gara la conoció en el más alto de los picos, donde el cielo se terminaba y el viento no se atrevía a aventurarse. La diosa observó al nuevo invitado de las estrellas, y en Gara no vió a una simple bestia, sino a un rey sin corona, a un héroe sin espada, a un bardo sin instrumento. Nuestro fundador no huyó ante la presencia de un dios, en cambio se sentó frente a ella y compartió el silencio que les brindaba el firmamento. En ese silencio donde la fugaz energía de un mortal se encontró con la lenta y antigua vida del inmortal, nació una mutua fascinación. 
 
 Su amor no se construyó a través de poemas ni simples palabras, pues para comunicarse con la diosa nuestro fundador tuvo que crear un nuevo idioma, inspirandose en los aspectos de la diosa Gara creó las runas, un íntimo lenguaje que nació de la necesidad de comunicarse entre dos almas gemelas. Y para que sus promesas perduraran por el resto de los días la diosa talló en piedra las primeras runas, no eran solo letras o palabras, sino emociones y sentimientos que la diosa le dejaba a nuestro fundador.
 
