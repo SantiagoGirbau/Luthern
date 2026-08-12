@@ -1,3 +1,9 @@
+---
+aliases:
+tags:
+  - Sesión
+Estado:
+---
 Continuando los hechos de la [[Sesión 1]]  
 
 ---
@@ -8,7 +14,7 @@ Dar espacios para sacar a luz las backstories (Vale)
 
 
 ---
-
+## Introducción a la sesión
 Al día siguiente. 
 Silas los espera en el salón principal tomando un café
 (Ver: [[Silas Corvo]]) 
@@ -34,6 +40,15 @@ Si no pueden con un par de [[Deambulante|Deambulantes]], entonces no tienen el p
 Si es que lo logran, quizás tengan esperanza...
 
 -Deberán cruzar en barco al sur me tomé la libertad de conseguirles los pasajes. No hace falta que me agradezcan. Busquen al barco que se llama "[[Marina Cofmak|Marimar]]". Su capitán es [[Lauren Cofmak]].
+
+-Zarpan en... -Mirando un reloj detenido en la pared. -2 horas. Compren comida, agua y lo que puedan necesitar. 
+
+Les da 5 monedas de Oro. Una para cada uno.
+
+---
+## Pequeño espacio de exploración
+
+
 
 El barco es bastante agradable a la vista. Es amplio, de color azul claro y se encuentra impecable.
 Sus tripulantes van y vienen, cargando y descargando cajas
@@ -71,10 +86,16 @@ Las arpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugad
 
 Luego cruzarán el resto de la navegación. Es un día entero de viaje ya que es un barco rápido y hay buen viento.
 
-Llegan a Asura, el pueblo de donde proviene [[Pado|Edric]]. La herboristería de [[Theodor]] se encuentra ahí. Pueden pedirle cosas. Se las dará libre de cargos.
+---
+## Llegan a Asura,
+el pueblo de donde proviene [[Pado|Edric]]. La herboristería de [[Theodor Buroch]] se encuentra ahí. Pueden pedirle cosas. Se las dará libre de cargos.
 
-Escribir cosas que pueda decir de interesante [[Theodor]] 
+Escribir cosas que pueda decir de interesante [[Theodor Buroch]] 
 --
+
+Theodor les hará descuentos ENORMES en pociones que en teoría son muy raras, diciéndoles que básicamente son baratijas.
+
+---
 
 Luego tienen 1 día de viaje en carro (Que deben pagar) y 2 de viaje a pie hasta la frontera sur de [[Reino de Bigzha|Bigzha]] donde deberán rastrear a esta caravana de [[Deambulante|Deambulantes]].
 

@@ -206,7 +206,7 @@ Las arpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugad
 
 Luego cruzarán el resto del viaje sin problemas, es un día entero de viaje ya que es un barco rápido y hay buen viento.
 
-Llegan a Asura, el pueblo de donde proviene [[Pado|Edric]]. La herboristería de [[Theodor]] se encuentra ahí. Pueden pedirle cosas. Se las dará libre de cargos.
+Llegan a Asura, el pueblo de donde proviene [[Pado|Edric]]. La herboristería de [[Theodor Buroch]] se encuentra ahí. Pueden pedirle cosas. Se las dará libre de cargos.
 
 Luego tienen 2 días de viaje en carro (Que deben pagar) hasta la frontera sur de [[Reino de Bigzha|Bigzha]] donde deberán rastrear a esta caravana de [[Deambulante|Deambulantes]].
 

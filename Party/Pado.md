@@ -29,7 +29,7 @@ Hice caso a cada indicación de mi madre, al día siguiente una caravana saldrí
 
 El viaje no tuvo demasiados contratiempos, algún par de criaturas salvajes no demasiado grandes, pero si hambrientas, nos atacaron, Algunos viajeros y yo íbamos armados, así que no fueron demasiado problema.
 
-Llegamos al gran reino de Bigzha, nunca había presenciado un ambiente tan… Tranquilo y vivo, nadie parecía preocuparse por los problemas que traía consigo la guerra. No tuve demasiado tiempo para volverme un turista, debía encontrar a [[Theodor]].
+Llegamos al gran reino de Bigzha, nunca había presenciado un ambiente tan… Tranquilo y vivo, nadie parecía preocuparse por los problemas que traía consigo la guerra. No tuve demasiado tiempo para volverme un turista, debía encontrar a [[Theodor Buroch]].
 
 Para mi buena fortuna, la tienda de este hombre era conocida por la zona, ya que no muy lejos de la plaza principal se alzaba una herboristería bastante grande y bien cuidada, repleta de plantas aromáticas y decorativas de todos colores. Tras un tablón de madera que cumplía la función de mostrador se encontraba un hombre grande, muy peludo y con una gran sonrisa, se trataba de ese tal Theodor.
 
@@ -45,7 +45,7 @@ Mi corazón se detuvo por un segundo, mi madre, quien se había dedicado a mí e
 
 Ha pasado casi un año desde que llegué a Bigzha, un año desde la fecha que yo utilizo como aniversario del fallecimiento de mi madre. Theodor se ha encargado de mi como si fuera el padre que nunca tuve y me ha ayudado a entrenar como lo hacían aquellos acólitos.
 
-Parte de mi nuevo entrenamiento requería que me adentrara algunos kilómetros en el bosque, recolectara hierbas y plantas para [[Theodor]] y regresara. Fue en ese entrenamiento donde todo volvería a cambiar.
+Parte de mi nuevo entrenamiento requería que me adentrara algunos kilómetros en el bosque, recolectara hierbas y plantas para [[Theodor Buroch]] y regresara. Fue en ese entrenamiento donde todo volvería a cambiar.
 
 Un día, no se exactamente el porqué, me adentré aun mas lejos en el bosque, el doble… tal vez el triple de la distancia habitual… ¿Estaba poniéndome a prueba a mi mismo? ¿Algo me llamaba? No estoy del todo seguro. Lo que si se es que lo que vi era trágico.
 
