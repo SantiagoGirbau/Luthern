@@ -56,9 +56,9 @@ Se les pedirá ayuda en la navegación.
 Explicar [[Navegación]] 
 --
 
-En caso de ser menor a 14, los atacarán 12 [[Harpía del Mar Dulce]] en lo que el barco golpea con un arrecife haciendo mucho ruido y llamando la atención de un aquelarre. 
+En caso de ser fallo, los atacarán 12 [[Harpía del Mar Dulce]] en lo que el barco golpea con un arrecife haciendo mucho ruido y llamando la atención de un aquelarre. 
 
-En caso de ser mayor a 14, los atacarán solo 6 en lo que el barco esquiva el arrecife y evita hacer ruido.
+En caso de ser éxito, los atacarán solo 6 en lo que el barco esquiva el arrecife y evita hacer ruido.
 
 Esa noche les contarán la leyenda de la [[7 Soberbia|Soberbia]].
 
