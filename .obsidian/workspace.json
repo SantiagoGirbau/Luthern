@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 2.md",
+                "file": "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 2"
+              "title": "Dol'Gara"
             }
           }
         ],
@@ -231,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sesiones/Sesión 2.md"
+                "file": "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -264,8 +264,11 @@
   },
   "active": "86832ec67cd49e5c",
   "lastOpenFiles": [
-    "Objetos Hombrew/Cocina/Ingredientes/Ingredientes Especiales.md",
+    "Lugares/Tierras sin reclamar/Tribus/Ahl'Broc/Ahl'Broc.md",
+    "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md",
+    "Party/Flawa.md",
     "Sesiones/Sesión 2.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Ingredientes Especiales.md",
     "Mecánicas y Notas/Navegación.md",
     "Mecánicas y Notas/Preguntas.md",
     "Mecánicas y Notas/Cocina.md",
@@ -288,9 +291,6 @@
     "Objetos Hombrew/Cocina/Ingredientes/Tomate Chispa.md",
     "Objetos Hombrew/Poción de Afinidad Mágica Común.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Bohsse.md",
-    "Objetos Hombrew/Mapas de las Ruinas.md",
-    "Objetos Hombrew/Materiales/Piedras Fosforescentes.md",
-    "Las 8 Bestias Capitales/4 Lujuria.md",
     "Objetos Hombrew/Materiales",
     "zFotos/Alguna Mujer de armadura.png",
     "zFotos/Harpía del Mar Dulce.png",
