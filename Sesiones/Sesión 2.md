@@ -39,7 +39,7 @@ Los [[Deambulante|Deambulantes]] son... (ver [[Deambulante]])
 Si no pueden con un par de [[Deambulante|Deambulantes]], entonces no tienen el potencial que busca el Rey... No tienen esperanza con ninguna de [[Las 8 bestias capitales.|Las Bestias]] así que deberían rendirse.
 Si es que lo logran, quizás tengan esperanza...
 
--Deberán cruzar en barco al sur me tomé la libertad de conseguirles los pasajes. No hace falta que me agradezcan. Busquen al barco que se llama "[[Marina Cofmak|Marimar]]". Su capitán es [[Lauren Cofmak]].
+-Deberán cruzar en barco al sur me tomé la libertad de conseguirles los pasajes. No hace falta que me agradezcan. Busquen al barco que se llama "[[Marina Cofmak|Marimar]]". Su capitán es [[Lauren Cofmak]]. Pasarán por el puerto de Asura al Sur del [[Mar Dulce]], Luego tienen un tramo largo hasta [[Eleandale]] y por último llegarán a [[Bo-Bore]] 
 
 -Zarpan en... -Mirando un reloj detenido en la pared. -2 horas. Compren comida, agua y lo que puedan necesitar. 
 
@@ -48,8 +48,10 @@ Les da 5 monedas de Oro. Una para cada uno.
 ---
 ## Pequeño espacio de exploración
 
+Pueden ir a comprar cosas al mercado, aunque les queda medio justo, o pueden ir directo al puerto, donde encontrarán las mismas provisiones un poco más caras.
 
-
+---
+## En el Puerto
 El barco es bastante agradable a la vista. Es amplio, de color azul claro y se encuentra impecable.
 Sus tripulantes van y vienen, cargando y descargando cajas
 
@@ -64,6 +66,9 @@ El capitán es un hombre Sencillo pero estoico, de características Élficas. Se
 
 Preparan sus cosas y zarparán.
 
+---
+## Navegación
+
 Se les pedirá ayuda en la navegación.
 
 -Aye! No pueden quedarse parados haciendo nada... Cada gramo extra en este barco debe cumplir una función en todo momento!. A trabajar!
@@ -75,19 +80,17 @@ En caso de ser fallo, los atacarán 12 [[Harpía del Mar Dulce]] en lo que el ba
 
 En caso de ser éxito, los atacarán solo 6 en lo que el barco esquiva el arrecife y evita hacer ruido.
 
+Las harpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugador.
+
 Esa noche les contarán la leyenda de la [[7 Soberbia|Soberbia]].
 
 Escribir aquí cómo la contarán los marineros
 --
 
-En el viaje los van a atacar 5 arpías y pelearan sobre el barco.
-
-Las arpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugador.
-
 Luego cruzarán el resto de la navegación. Es un día entero de viaje ya que es un barco rápido y hay buen viento.
 
 ---
-## Llegan a Asura,
+## Llegan a Asura
 el pueblo de donde proviene [[Pado|Edric]]. La herboristería de [[Theodor Buroch]] se encuentra ahí. Pueden pedirle cosas. Se las dará libre de cargos.
 
 Escribir cosas que pueda decir de interesante [[Theodor Buroch]] 
@@ -95,13 +98,16 @@ Escribir cosas que pueda decir de interesante [[Theodor Buroch]]
 
 Theodor les hará descuentos ENORMES en pociones que en teoría son muy raras, diciéndoles que básicamente son baratijas.
 
----
-
 Luego tienen 1 día de viaje en carro (Que deben pagar) y 2 de viaje a pie hasta la frontera sur de [[Reino de Bigzha|Bigzha]] donde deberán rastrear a esta caravana de [[Deambulante|Deambulantes]].
 
 Los carreros les pedirán 1 de oro por persona para acercarlos hasta [[Eleandale]] 
 
-Pasan por 2 pueblos, Asura, luego Eleandale y 1 tribu, los Bo-Bore, que son aquellos que hicieron la petición de ayuda.
+---
+## Eleandale 
+
+---
+
+y 1 tribu, los Bo-Bore, que son aquellos que hicieron la petición de ayuda.
 
 Eleandale es un pueblo pequeño ganadero. Tiene muchos campos
 

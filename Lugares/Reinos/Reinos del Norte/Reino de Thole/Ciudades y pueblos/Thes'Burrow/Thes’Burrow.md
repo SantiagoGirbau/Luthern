@@ -1,3 +1,10 @@
+---
+aliases:
+tags:
+  - Lugar
+  - Pueblo
+Estado: Aceptable
+---
 **Pueblo/tribu de donde Fiddle es originario.** Un pueblito pintoresco al sur de [[Reino de Thole|Thole]].
 Anteriormente eran una tribu originaria, pero con el tiempo se fue modernizando y ahora es considerada un pueblo de Thole.
  

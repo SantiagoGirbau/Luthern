@@ -1,1 +1,8 @@
+---
+aliases:
+tags:
+  - Ciudad
+  - Lugar
+Estado: Pobre
+---
 Ciudad pobre monasterial al Norte de [[Reino de Thole|Thole]]. La mayoría de sus habitantes viven en voto de pobreza. Aunque no haya muchas posibilidades de ganar dinero ahí.
