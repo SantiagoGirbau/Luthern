@@ -51,8 +51,7 @@
               "title": "_Party"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Sesiones/Sesión 2.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
             }
@@ -236,11 +233,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "572cba8d84b06219",
+  "active": "dc146d9564418fda",
   "lastOpenFiles": [
     "Party/_Party.md",
-    "Lugares/Luthern.md",
     "Sesiones/Sesión 2.md",
+    "Lugares/Luthern.md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Las 8 Bestias Capitales/1 Pereza.md",
     "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
