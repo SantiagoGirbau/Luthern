@@ -82,7 +82,7 @@ En caso de ser éxito, los atacarán solo 6 en lo que el barco esquiva el arreci
 
 Las harpías van a pelear a matar. Probablemente bajen a uno, aunque no sea jugador.
 
-Esa noche les contarán la leyenda de la [[7 Soberbia|Soberbia]].
+Esa noche les contarán la leyenda de la [[Soberbia|Soberbia]].
 
 Escribir aquí cómo la contarán los marineros
 --

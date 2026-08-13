@@ -18,8 +18,8 @@ A estos que salen, se los llaman "[[Deambulante|Deambulantes]]" y suelen rondar 
 Las condiciones exactas para que una criatura sea considerada por envidia como posible anfitrión aún se consideran un misterio. Pero se sospecha que tiene que ver con la felicidad del sujeto.
 Es conocimiento general que la contingencia en caso de un brote de envidia es la evacuación total del sector infectado y la eliminación metódica y organizada de los infectados.
 Eliminar un [[Deambulante]] suele ser relativamente sencillo, pero se recomienda encarecidamente que la misma sea realizada por un grupo experimentado y con al menos un experto exterminador para evitar nuevos brotes de Envidia. 
-La mayoría de pueblos infectados de [[5 Envidia|Envidia]] se conocen, pero existen muchos que no se han descubierto y se extiende más día a día.
-[[5 Envidia|Envidia]] también organiza caravanas de [[Deambulante|Deambulantes]] para trasladar infectados de una colmena a otra, moviendo comida, medicamentos, armas, etc...
+La mayoría de pueblos infectados de [[Envidia|Envidia]] se conocen, pero existen muchos que no se han descubierto y se extiende más día a día.
+[[Envidia|Envidia]] también organiza caravanas de [[Deambulante|Deambulantes]] para trasladar infectados de una colmena a otra, moviendo comida, medicamentos, armas, etc...
 
-||Se cree que existe una reina en cada colmena y además una reina general de toda [[5 Envidia|Envidia]], que sirve de cuerpo principal de la bestia.||
+||Se cree que existe una reina en cada colmena y además una reina general de toda [[Envidia|Envidia]], que sirve de cuerpo principal de la bestia.||
 

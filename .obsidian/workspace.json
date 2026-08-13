@@ -50,8 +50,23 @@
               "icon": "lucide-file",
               "title": "_Party"
             }
+          },
+          {
+            "id": "1875c64b671ca4cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/Azura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azura"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,7 +85,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "custom",
                 "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,7 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/Azura.md"
+              },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
             }
@@ -225,31 +242,32 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "iconic:Abrir libro de reglas": false,
-      "custom-sort:Toggle custom sorting": false,
       "ttrpg-soundboard:Open soundboard": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "dc146d9564418fda",
+  "active": "f0490699a9331264",
   "lastOpenFiles": [
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS/Theodor Buroch.md",
+    "Las 8 Bestias Capitales/8 Bestia sin nombre.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS",
+    "Las 8 Bestias Capitales/Soberbia.md",
+    "Las 8 Bestias Capitales/Ira.md",
+    "Las 8 Bestias Capitales/Envidia.md",
+    "Las 8 Bestias Capitales/Lujuria.md",
+    "Las 8 Bestias Capitales/Avaricia.md",
+    "Las 8 Bestias Capitales/Pereza.md",
+    "Las 8 Bestias Capitales/Gula.md",
     "Party/_Party.md",
     "Sesiones/Sesión 2.md",
     "Lugares/Luthern.md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
-    "Las 8 Bestias Capitales/1 Pereza.md",
     "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
-    "Las 8 Bestias Capitales/8 Bestia sin nombre.md",
-    "Las 8 Bestias Capitales/7 Soberbia.md",
-    "Las 8 Bestias Capitales/6 Ira.md",
-    "Las 8 Bestias Capitales/5 Envidia.md",
-    "Las 8 Bestias Capitales/4 Lujuria.md",
-    "Las 8 Bestias Capitales/3 Avaricia.md",
-    "Las 8 Bestias Capitales/2 Gula.md",
     "Sesiones/Sesión 1.md",
-    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Bucker Tropp.md",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS/Bucker Tropp.md",
     "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "Civilización Antigua/Civilización antigua.md",
     "Criaturas/Civeta umbría.md",
@@ -259,9 +277,7 @@
     "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
     "Agrupaciones y Gremios/Guardia de Bigzha.md",
     "Criaturas/Deambulante.md",
-    "Criaturas/Gorila Umbrío.md",
-    "Criaturas/Harpía del Mar Dulce.md",
-    "Lugares/Reinos/Reino de Bigzha/Bo-Bore",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bo-Bore",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Eleandale/NPCs",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Eleandale",
     "Soberbia.png",
@@ -277,7 +293,6 @@
     "Objetos Hombrew/Cocina/Ingredientes",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS",
-    "Objetos Hombrew/Cocina",
     "zFotos/Silas y Eris.png",
     "zFotos/Civeta Umbría.png",
     "zFotos/5 Lujuria.png",

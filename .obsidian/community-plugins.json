@@ -3,7 +3,6 @@
   "various-complements",
   "inline-spoilers",
   "extended-markdown-syntax",
-  "obsidian-excalidraw-plugin",
   "obsidian-minimal-settings",
   "obsidian-icon-folder",
   "editing-toolbar",
@@ -19,5 +18,6 @@
   "extended-graph",
   "ttrpg-soundboard",
   "obsidian-5e-statblocks",
-  "fantasy-content-generator"
+  "fantasy-content-generator",
+  "manual-sorting"
 ]

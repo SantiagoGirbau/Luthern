@@ -272,7 +272,7 @@ Pregunta: ¿De dónde provienes?
 Respuesta: Del [[El Bosque Frontera|Bosque Frontera]]
 
 Pregunta: ¿Cuál es tu objetivo actual?
-Respuesta: Mi objetivo actual es averiguar mas sobre el pecado de la [[6 Ira|Ira]], sobre mi estoque y las pesadillas que tengo.
+Respuesta: Mi objetivo actual es averiguar mas sobre el pecado de la [[Ira|Ira]], sobre mi estoque y las pesadillas que tengo.
 
 Pregunta: ¿Crees en algún Dios? Si es así, ¿cuál?
 Respuesta: Creo en el Dragon Ancestral

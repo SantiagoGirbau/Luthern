@@ -198,7 +198,7 @@ Si es que lo logran, quizás tengan esperanza...
 
 Deberán cruzar en barco al sur.
 
-Ahí les contarán la leyenda de la [[7 Soberbia]].
+Ahí les contarán la leyenda de la [[Soberbia]].
 
 En el viaje los van a atacar 4 arpías y pelearan sobre el barco.
 

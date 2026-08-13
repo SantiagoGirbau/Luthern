@@ -91,11 +91,11 @@ Todo lo malo que podía pasar…pasó.
 
 Quien estaba guiando al grupo se confundio y tomaron el caino equivocado. Jamas llegaron a las ruinas, y terminaron perdiendose por el Boque Frontera. 
 
-Y esa maldita noche, cuando decidieron acampar para juntar fuerzas y seguir adelante, [[3 Avaricia|Avaricia]] los atacó.
+Y esa maldita noche, cuando decidieron acampar para juntar fuerzas y seguir adelante, [[Avaricia|Avaricia]] los atacó.
 
 Fiddle había luchado contra alguna que otra bestias antes, en sus desventuras con Bucker. Ninguna se parecía a la Bestia de esa noche. 
 
-Los hombres comenzaron a caer como moscas, algunos sin tener momento para reaccionar. Otros se levantaron a los gritos con sus armas para luchar contra el [[3 Avaricia|Terror Volador]] 
+Los hombres comenzaron a caer como moscas, algunos sin tener momento para reaccionar. Otros se levantaron a los gritos con sus armas para luchar contra el [[Avaricia|Terror Volador]] 
 
 Los gritos comenzaron a llenar el bosque, los hombres continuaban cayendo sin vida al piso.
 
@@ -115,7 +115,7 @@ El miedo siempre a consumido a Fiddle. Desde que tiene memoria.
 
 Y esa noche habia descubierto un miedo nuevo. 
 
-¿[[3 Avaricia|Avaricia]]? no, no era solo esa bestia lo que le aterraba.
+¿[[Avaricia|Avaricia]]? no, no era solo esa bestia lo que le aterraba.
 
   
 
@@ -155,7 +155,7 @@ Actualmente Fiddle vaga solo por la región cercana a Bigzha (luego de salir por
 
 Se volvió seriamente adicto al café. A toda costa Fiddle busca reemplazar su sueño. 
 
-Primero, porque [[3 Avaricia|Avaricia]] apareció de noche, y si está despierto, la Bestia no puede alcanzarlo.
+Primero, porque [[Avaricia|Avaricia]] apareció de noche, y si está despierto, la Bestia no puede alcanzarlo.
 
 Pero también porque le es imposible dormir tranquilo. Desde ese evento, cada vez que él cierra sus ojos, escucha los gritos de esa noche. 
 
@@ -207,7 +207,7 @@ Respuesta: Soy un conejo. ¡NO UNA LIEBRE! pequeña aclaracion.
 Pregunta: ¿Cuál es tu opinión respecto a las 8 bestias?
 Respuesta: Las odio, me causan terror. Si las demás bestias son tan letales como los rumores dicen ser, ojala nunca cruzar camino con otra. 
 
-Especialmente odio a [[3 Avaricia|Avaricia]]. Dios, Avaricia. [[3 Avaricia|El terror del cielo]]. El solo pensar en esa bestia hace que se me ericen los pelos. 
+Especialmente odio a [[Avaricia|Avaricia]]. Dios, Avaricia. [[Avaricia|El terror del cielo]]. El solo pensar en esa bestia hace que se me ericen los pelos. 
 
 Quizás en el fondo me gustaría acabar con Avaricia. La voz de Bucker y Primrose dicen en mi interior que debería detener a esa Bestia. Pero soy solo un conejo. 
 
