@@ -4,6 +4,7 @@ tags:
   - Lugar
 aliases:
   - Northan
+Estado: Pobre
 ---
 Reino Nórdico perteneciente a los [[Reinos del Norte]], Es una gran fuerza de [[El Frente Unido]] en la [[Guerra del Norte]], 
 

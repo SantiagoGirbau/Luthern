@@ -2,6 +2,10 @@
 aliases:
   - Marina
   - Marimar
+tags:
+  - NPC
+  - Tienda
+Estado: Terminado
 ---
 Es una mujer de cabello cobrizo, semielfo joven de unos 22 años que atiende el [[Dolce Marina]] 
 
@@ -23,7 +27,7 @@ Pregunta: Si fueras un animal, ¿Cuál serías?
 Respuesta: Probablemente una [[Civeta umbría]]... Estos animales seleccionan naturalmente las cerezas de café más maduras y las digieren parcialmente; las enzimas de su tracto gastrointestinal descomponen las proteínas de los granos, lo que se afirma que reduce la acidez y mejora el sabor para un café delicioso. 
 
 Pregunta: ¿Cuál es tu opinión respecto a las 8 bestias?
-Respuesta: Las detesto. Arrasan las plantaciones y producen escacéz de café. Además son el motivo por el cuál no se puede vivir tranquilo en este continente. 
+Respuesta: Las detesto. Arrasan las plantaciones y producen escasez de café. Además son el motivo por el cuál no se puede vivir tranquilo en este continente. 
 
 Pregunta: Descríbete con 3 palabras
 Respuesta: Café, Barista y Crítica

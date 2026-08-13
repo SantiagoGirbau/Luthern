@@ -11,7 +11,7 @@ tags:
 Estado: Terminado
 ---
 **
-Broc'uhn = Sangre diluída
+Broc'kuhn = Sangre diluída
 ### Leyenda de los [[Dol'Gara]]:
 (Dol=Descendientes)
 
