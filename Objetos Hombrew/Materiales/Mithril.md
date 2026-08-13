@@ -7,6 +7,7 @@ tags:
   - Material
   - Objeto
   - Hombrew
+Estado: Aceptable
 ---
 El [[Mithril]] es un metal precioso descubierto en el [[Luthern|Continente Nuevo]]. Principalmente en la [[Cordillera de Sangre]], donde se mina desde su descubrimiento.
 

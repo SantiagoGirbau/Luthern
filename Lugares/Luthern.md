@@ -6,6 +6,7 @@ aliases:
   - Continente Nuevo
   - Continente Grande
   - Luh'Terna
+Estado: Aceptable
 ---
 Este continente ha sido recientemente colonizado. (Léase [[Colonización de Luthern]] para más detalle) en un principio por [[República de Sinias|Sinias]] luego llegó al mismo para asentarse [[Reino de Northan|Northan]] y por último [[Imperio Teocrático de Umnazia|Umnazia]]. Los primeros dos llevan 112 años en guerra por la supremacía del sector norte del continente. Durante este tiempo se formaron otros tres dominios.
 

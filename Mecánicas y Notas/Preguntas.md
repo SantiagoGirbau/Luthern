@@ -1,3 +1,9 @@
+---
+aliases:
+Estado: Terminado
+tags:
+  - Mecánica
+---
 Te encuentras bajo el efecto de un domo de la verdad.
 Responde las siguientes preguntas: 
 - ¿Quién eres?

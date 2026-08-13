@@ -4,7 +4,7 @@ aliases:
 tags:
   - Mecánica
   - Hombrew
-Estado: Aceptable
+Estado: Terminado
 ---
 Al iniciar la navegación, por cada día en el barco, cada jugador declarará una habilidad con la que planea ayudar durante el viaje. O puede abstenerse en caso de estar imposibilitados.
 El GM determina un DC para que esa habilidad resulte productiva o contraproducente dependiendo de qué tanto sentido tenga la actividad.

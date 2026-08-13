@@ -4,7 +4,8 @@ aliases:
 tags:
   - Ingrediente
   - Hombrew
-Estado: Pobre
+  - Objeto
+Estado: Aceptable
 ---
 Es agua del [[Mar Dulce]] que fue destilada para usarse en cocina.
 No cuenta en el conteo final de [[Ingredientes Especiales]] 

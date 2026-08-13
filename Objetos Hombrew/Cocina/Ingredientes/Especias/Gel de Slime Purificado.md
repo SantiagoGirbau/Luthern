@@ -1,3 +1,17 @@
+---
+aliases:
+  - Slime
+  - Gel
+  - Gel Conservante
+  - Conservante
+  - Slime Conservante
+  - Slime Purificado
+tags:
+  - Ingrediente
+  - Hombrew
+  - Objeto
+Estado: Aceptable
+---
  _Una sustancia gelatinosa y translúcida extraída de slimes básicos. No tiene mucho sabor, pero espesa los caldos y le da un brillo extraño a la comida._
  No cuenta en el conteo final de [[Ingredientes Especiales]] 
 

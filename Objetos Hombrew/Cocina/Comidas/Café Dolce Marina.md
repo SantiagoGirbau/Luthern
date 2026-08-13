@@ -7,7 +7,8 @@ tags:
   - Platillo
   - Hombrew
   - Cocina
-Estado: Aceptable
+Estado: Terminado
 ---
 [[Cocina|Bebida]] Especial
 Otorga +2 a las tiradas de percepción por 4 horas.
+Se puede llevar y mantiene sus propiedades hasta por 8 horas.

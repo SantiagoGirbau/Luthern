@@ -6,5 +6,6 @@ tags:
   - Objeto
   - Material
   - Hombrew
+Estado: Pobre
 ---
 Objeto valioso comúnmente encontrado en [[Ruinas Antiguas]]. Aún no tengo pensado qué se hará con ellas.

@@ -3,6 +3,7 @@ aliases:
 tags:
   - Ingrediente
   - Hombrew
+  - Objeto
 Estado: Aceptable
 ---
  _Costo: 5 de plata cada una_

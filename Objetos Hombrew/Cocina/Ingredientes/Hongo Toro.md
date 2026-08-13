@@ -4,6 +4,7 @@ tags:
   - Vegetación
   - Hombrew
   - Ingrediente
+  - Objeto
 Estado: Aceptable
 ---
  _Costo: 1 de plata cada uno_

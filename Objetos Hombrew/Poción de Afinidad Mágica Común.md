@@ -6,7 +6,7 @@ tags:
   - Objeto
   - Poción
   - Hombrew
-Estado: Pobre
+Estado: Aceptable
 ---
 Objeto, Raro, Costo: 30 de Oro. Tamaño intermedio.
 

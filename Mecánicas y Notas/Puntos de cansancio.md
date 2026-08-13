@@ -1,3 +1,10 @@
+---
+aliases:
+tags:
+  - Mecánica
+  - Hombrew
+Estado: Terminado
+---
 Al no completar un descanso largo o no alimentarse o hidratarse adecuadamente durante de 24 horas, una criatura obtiene uno o medio punto de cansancio.
 Si la criatura tomó al menos la mitad de un descanso largo, ésta obtiene medio punto de cansancio. De lo contrario obtiene uno entero. Si la criatura tiene más de 1 punto de cansancio, y a la misma le correspondiese obtener medio punto de cansancio, obtiene uno entero.
 

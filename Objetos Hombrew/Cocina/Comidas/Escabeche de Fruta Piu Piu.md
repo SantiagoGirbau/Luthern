@@ -5,7 +5,7 @@ tags:
   - Platillo
   - Hombrew
   - Cocina
-Estado: Aceptable
+Estado: Terminado
 ---
 [[Cocina|Platillo]] especial, vendido por [[José José]].
 Escabeche de Fruta Piu Piu, 3 de plata.

@@ -1,3 +1,11 @@
+---
+aliases:
+  - Café Caca
+Estado:
+tags:
+  - Ingrediente
+  - Objeto
+---
 Proviene de la caca de la [[Civeta umbría]]. Se lava, se tuesta y se usa para preparar el [[Café Dolce Marina]]. Es un [[Ingredientes Especiales|ingrediente]].
 
 Costo: 5cp como para una taza
