@@ -5,6 +5,7 @@ aliases:
   - Minas de Atium
 tags:
   - Estructura
+Estado: Pobre
 ---
 Mina de [[Atium]] 
 

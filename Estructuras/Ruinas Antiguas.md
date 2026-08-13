@@ -7,6 +7,7 @@ aliases:
   - Ruinas
   - Las Ruinas
   - Ruinas de Los Antiguos
+Estado: Aceptable
 ---
 Son ruinas de una [[Civilización antigua]] Las mismas se encuentran en su mayoría en [[El Bosque Frontera|Bosque Frontera]]pero existen algunas en otros lugares. 
 Son exploradas por aventureros para obtener materiales valiosos y muy útiles que se usan ahora al rededor de todo el mundo, como por ejemplo los [[Exploradores de Ruinas]].

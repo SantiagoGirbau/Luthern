@@ -4,6 +4,7 @@ aliases:
 tags:
   - Criatura
   - Lore
+Estado: Aceptable
 ---
 Son criaturas infectadas con [[5 Envidia|Envidia]] que salen de sus colmenas con el objetivo de esparcir la infección.
 Suelen ser sencillas de matar, debido a que si se elimina el anfitrión, Envidia desaparece. Pero no existe cura conocida que permita eliminar envidia sin asesinar al anfitrión.

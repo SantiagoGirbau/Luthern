@@ -6,6 +6,7 @@ aliases:
   - Llamado de Bigssa
 tags:
   - Lore
+Estado: Terminado
 ---
 Biggsa el Justo, el venerado Rey de Bigzha, ha emitido un llamado abierto a todo el continente. Se buscan guerreros, aventureros y mercenarios; no importa su bandera, su pasado ni la magnitud de su poder. Solo se requiere la capacidad y voluntad de crecer.
 El edicto real no especifica a qué amenaza se enfrentarán o cuál es el propósito de la convocatoria. Lo único certero es la promesa del Rey: fama, fortuna y poder incalculable para aquellos que respondan al llamado.

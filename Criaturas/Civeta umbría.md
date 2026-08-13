@@ -4,6 +4,7 @@ aliases:
 tags:
   - Criatura
   - Animal
+Estado: Pobre
 ---
 Es un mamífero felino pequeño, principalmente nocturno, nativo del [[El Bosque Frontera|Bosque Umbrío]]. 
 Come los granos de café de la mejor calidad y luego de digerirlos, defeca la semilla. Luego de una _**meticulosa**_ limpieza, se pueden tostar, moler y hacer en un café excelente.
