@@ -51,7 +51,8 @@
               "title": "_Party"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,12 +110,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.33591842651367
+    "width": 244.16926193237305
   },
   "right": {
     "id": "d8b077610cfb0538",
@@ -204,7 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Sesiones/Sesión 2.md"
+              },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
             }
@@ -234,12 +236,26 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "dc146d9564418fda",
+  "active": "572cba8d84b06219",
   "lastOpenFiles": [
     "Party/_Party.md",
+    "Lugares/Luthern.md",
+    "Sesiones/Sesión 2.md",
+    "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
+    "Las 8 Bestias Capitales/1 Pereza.md",
+    "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
+    "Las 8 Bestias Capitales/8 Bestia sin nombre.md",
+    "Las 8 Bestias Capitales/7 Soberbia.md",
+    "Las 8 Bestias Capitales/6 Ira.md",
+    "Las 8 Bestias Capitales/5 Envidia.md",
+    "Las 8 Bestias Capitales/4 Lujuria.md",
+    "Las 8 Bestias Capitales/3 Avaricia.md",
+    "Las 8 Bestias Capitales/2 Gula.md",
+    "Sesiones/Sesión 1.md",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Bucker Tropp.md",
+    "Lugares/Reinos/Reino de Bigzha/Reino de Bigzha.md",
     "Civilización Antigua/Civilización antigua.md",
     "Criaturas/Civeta umbría.md",
-    "Las 8 Bestias Capitales/Las 8 bestias capitales..md",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
     "Agrupaciones y Gremios/Exploradores de Ruinas.md",
@@ -248,20 +264,6 @@
     "Criaturas/Deambulante.md",
     "Criaturas/Gorila Umbrío.md",
     "Criaturas/Harpía del Mar Dulce.md",
-    "Estructuras/Colmenas.md",
-    "Estructuras/Ojo de Magia.md",
-    "Estructuras/Ruinas Antiguas.md",
-    "Eventos Históricos/Colonización de Luthern.md",
-    "Eventos Históricos/Edicto Real.md",
-    "Eventos Históricos/Guerra del Norte.md",
-    "Eventos Históricos/La Gran Helada.md",
-    "Las 8 Bestias Capitales/8 Bestia sin nombre.md",
-    "Las 8 Bestias Capitales/7 Soberbia.md",
-    "Las 8 Bestias Capitales/6 Ira.md",
-    "Las 8 Bestias Capitales/5 Envidia.md",
-    "Las 8 Bestias Capitales/4 Lujuria.md",
-    "Las 8 Bestias Capitales/3 Avaricia.md",
-    "Las 8 Bestias Capitales/2 Gula.md",
     "Lugares/Reinos/Reino de Bigzha/Bo-Bore",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Eleandale/NPCs",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Eleandale",
