@@ -8,6 +8,7 @@ tags:
   - NPC
   - BestiaCapital
   - Criatura
+Estado: Terminado
 ---
 Es una de las [[Las 8 bestias capitales.|Bestias capitales]]. Es muy impredecible ya que se aloja en el cuerpo de una criatura hasta su muerte. Suele tomar los cuerpos de criaturas humanoides que le "gusten" y se adentra a las ciudades causando caos. Envenenando el agua, marchitando cosechas y esparciéndose como un virus u hongo.
 Envidia se ve atraída a la felicidad, suele adentrarse en lugares donde la población esté satisfecha, ya sean pueblos, tribus o manadas.

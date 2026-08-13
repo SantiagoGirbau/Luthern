@@ -7,6 +7,7 @@ tags:
   - NPC
   - BestiaCapital
   - Criatura
+Estado: Terminado
 ---
 **Lujuria** es, posiblemente, la más poderosa y enigmática de **[[Las 8 bestias capitales.]]**. Es la única de la que se tiene registro que posee intelecto humanoide y capacidad de habla. No destruye ciudades ni devora ejércitos; su cacería es un pacto voluntario impulsado por la obsesión y el deseo insaciable de sus víctimas.
 ### Aspecto
@@ -19,4 +20,4 @@ Lujuria aparece ante aquellos que están consumidos por un deseo abrumador (revi
 
 ### La Consecuencia (El Olvido Absoluto)
 
-El castigo por perder contra Lujuria es peor que la muerte. La Bestia no te asesina; **borra tu existencia del tejido de la realidad**. Devora tu ser y, con él, extrae absolutamente todas las memorias de cualquier persona que te haya conocido, así como cualquier registro de tu paso por el mundo. Nadie sabe cuántas personas han perdido contra Lujuria, porque para el mundo, esas personas jamás existieron.
+El castigo por perder contra Lujuria es peor que la muerte. La Bestia no te asesina; **borra tu existencia del tejido de la realidad**. Devora tu ser y, con él, extrae absolutamente todas las memorias de cualquier persona que te haya conocido, así como cualquier registro de tu paso por el mundo y nadie puede volverte a ver. Nadie sabe cuántas personas han perdido contra Lujuria, porque para el mundo, esas personas jamás existieron. 

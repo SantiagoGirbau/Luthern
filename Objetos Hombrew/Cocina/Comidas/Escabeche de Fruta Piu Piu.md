@@ -7,7 +7,7 @@ tags:
   - Cocina
 Estado: Terminado
 ---
-[[Cocina|Platillo]] especial, vendido por [[José José]].
+[[Cocina|Platillo]] especial, vendido por [[José Jose]].
 Escabeche de Fruta Piu Piu, 3 de plata.
 Puedes usar una acción extra para comerte todo el frasco y obtener uno de los siguientes efectos:
 Tirar un d2

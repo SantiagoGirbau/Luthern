@@ -6,6 +6,7 @@ tags:
   - NPC
   - BestiaCapital
   - Criatura
+Estado: Terminado
 ---
 **Soberbia** es una de **[[Las 8 bestias capitales.]]**. Adopta la forma de una colosal y majestuosa Hidra-Basilisco marina, encarnando la vanidad absoluta que exige devoción y ciega a quienes la desafían.
 ![[Soberbia.png|700]]

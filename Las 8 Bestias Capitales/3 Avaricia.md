@@ -10,6 +10,7 @@ tags:
   - Lore
   - BestiaCapital
   - Criatura
+Estado: Terminado
 ---
 **Avaricia** es una de las **[[Las 8 bestias capitales.]]**. Es un dragón menos antiguo y poderoso que lo que fue [[El Dragón]]. Su ser fue corrompido, transformando su instinto natural en una obsesión antinatural por acaparar espíritus. 
 Sobrevuela zonas de conflicto o grandes urbes. No devora carne ni le interesan los tesoros físicos; su única motivación es succionar las almas de los vivos y los muertos recientes para guardarlas en su interior. Las víctimas que pierden su alma quedan como "Cáscaras" vivas pero vacías y catatónicas.

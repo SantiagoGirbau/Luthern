@@ -7,6 +7,7 @@ aliases:
   - Imperio
   - El Imperio
   - El Imperio de Umnazia
+Estado: Pobre
 ---
 El imperio más grande de todo [[Luthern]] y además es una potencia en el [[Erión|Continente Viejo]]
 Se destaca debido a que se aceptan todas las religiones existentes y el imperio subsidia la creación de religiones nuevas. 

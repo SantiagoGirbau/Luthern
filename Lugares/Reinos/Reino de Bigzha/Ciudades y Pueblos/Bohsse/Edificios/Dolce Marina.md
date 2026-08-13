@@ -3,6 +3,8 @@ aliases:
   - Cafetería Dolce Marina
 tags:
   - Lugar
+  - Tienda
+Estado: Terminado
 ---
 
 Cafetería pintoresca con delicioso aroma a café, queda en un callejón en el Este de [[Bohsse]].

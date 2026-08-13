@@ -3,7 +3,7 @@ aliases:
   - Capitán Cofmak
 tags:
   - NPC
-Estado: Pobre
+Estado: Aceptable
 ---
 Es el capitán del barco Marimar. Y es el padre de [[Marina Cofmak]]. 
 
