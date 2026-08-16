@@ -90,6 +90,10 @@ Esa noche les contarán la leyenda de la [[Soberbia|Soberbia]].
 
 Escribir aquí cómo la contarán los marineros
 --
+<font color="#9bbb59">Marinero viejo: Pedro Mongal, habla como viejo</font>
+<font color="#c0504d">Marinero jóven 1: Luca Berna, Habla con una voz rasposa</font>
+<font color="#4f81bd">Marinero jóven 2: Neno Berna, Habla con voz grave</font>
+<font color="#e36c09">Marinera tuerta: Bona Taure, habla como mujer</font>
 
 <font color="#4f81bd">-Escuchan murmullos de los marineros...</font>
 
@@ -107,15 +111,31 @@ Escribir aquí cómo la contarán los marineros
 
 Ahí van a notar al grupo que escucha o el grupo puede preguntarles directamente...
 
--Bueno, tarde o temprano se iban a enterar...
+<font color="#c0504d">-Bueno, tarde o temprano se iban a enterar...</font>
 
-Dicen por ahí, que el capitán, [[Lauren Cofmak]], ha sobrevivido a 3 encuentros con Avaricia, la cuarta bestia capital...
+<font color="#4f81bd">-Dicen por ahí, que el capitán, [[Lauren Cofmak]], ha sobrevivido a 3 encuentros con Avaricia, la cuarta bestia capital...</font>
 
--No oyeron la leyenda de avaricia?
+<font color="#9bbb59">-No oyeron la leyenda de avaricia?</font>
 
--Si alguna vez estás en un barco, navegando en algún cuerpo de agua de [[Luthern]], ningún marino en su sano juicio mira al horizonte negro... Porque dicen que si miras lo suficientemente atentamente, verás tu reflejo en las escamas de avaricia a la distancia...
+<font color="#9bbb59">-Avaricia es una bestia que causa terror en los marineros. Tan grande como una flota de navíos de guerra, tan feroz como una tormenta, y tan cruel...</font>
 
--Avaricia es una bestia que causa terror. Tan grande como una flota de navíos de guerra, tan feroz como una tormenta
+<font color="#4f81bd">-Dicen que cualquiera que encuentra a avaricia está marcado de por vida, que será perseguido hasta que Avaricia pueda poseerlo...</font>
+
+<font color="#c0504d">-La mirada de la bestia posee una maldición que convierte a la gente en acero...</font>
+
+<font color="#c0504d">-Se dice que la maldita hasta disfruta de verse en el reflejo de la gente convertida...</font>
+
+<font color="#9bbb59">-Se dice que avaricia solo ataca en cuerpos de agua grandes...</font>
+
+<font color="#9bbb59">-Dice la leyenda que si alguna vez estás en un barco, navegando en algún cuerpo de agua de [[Luthern]], NUNCA debes mirar al horizonte negro... Porque si miras atentamente por un rato largo, verás tu reflejo en las escamas de avaricia a la distancia... Y quedarás marcado.</font>
+
+Tiran percepción... Ven algo en la oscuridad desde la proa.
+
+A lo lejos el que mejor tire, ve su reflejo...
+
+Se cagan de miedo.
+
+<font color="#e36c09">-JAJAJAJA se acerca un marinero con un espejo muy grande.... Tranquilos, es solo una broma... Además en este barco no creemos en esas supersticiones....</font>
 
 Luego cruzarán el resto de la navegación. Es un día entero de viaje ya que es un barco rápido y hay buen viento.
 
@@ -131,6 +151,8 @@ Theodor les hará descuentos ENORMES en pociones que en teoría son muy raras, d
 Luego tienen 1 día de viaje en carro (Que deben pagar) y 2 de viaje a pie hasta la frontera sur de [[Reino de Bigzha|Bigzha]] donde deberán rastrear a esta caravana de [[Deambulante|Deambulantes]].
 
 Los carreros les pedirán 1 de oro por persona para acercarlos hasta [[Eleandale]] 
+
+Si le piden dinero a Theodor, él cubrirá el viaje en carro. Pero a cambio les pide que traigan 5 botellas de agua de la laguna de Eleandale.
 
 ---
 ## Eleandale 
