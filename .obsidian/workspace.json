@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Party/_Party.md"
+                "file": "Sesiones/Sesión 2.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -234,8 +234,9 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f0490699a9331264",
+  "active": "572cba8d84b06219",
   "lastOpenFiles": [
+    "Party/_Party.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/Azura.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS/Theodor Buroch.md",
@@ -248,7 +249,6 @@
     "Las 8 Bestias Capitales/Avaricia.md",
     "Las 8 Bestias Capitales/Pereza.md",
     "Las 8 Bestias Capitales/Gula.md",
-    "Party/_Party.md",
     "Sesiones/Sesión 2.md",
     "Lugares/Luthern.md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
