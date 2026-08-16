@@ -157,7 +157,37 @@ Si le piden dinero a Theodor, él cubrirá el viaje en carro. Pero a cambio les 
 ---
 ## Eleandale 
 
+En este pueblo no hay mucha gente, las casas son ámplias pero esparcidas. A la distancia se ve un bosque antinaturalmente verde.
+
+En el borde del bosque vive [[Thorius Magnus]], el gobernador del pueblo y aparte un alquimista famoso. Cuando le pidan ir a la laguna por agua mágica, se negará y dirá que es muy peligroso darles simplemente el agua, que no puede saber sus intenciones.
+
+Les pedirá un favor para corroborar su valía.
+
+-Hace un par de días, en el bosque, se perdió una niña llamada Nina. Hija del leñador del pueblo, Azlot.
+
+-Yo estoy muy viejo ya para buscarla y nadie tiene las fuerzas como para adentrarse en el bosque... Azlot es muy pobre, no podría permitirse hacer un pedido formal en el gremio de héroes o al reino...
+
+-Búsquenla, no puede estar muy lejos. Tomen. Ella reconocerá estos 
+
+Y les dará una bufanda tejida.
+
+Tendrán que hacer salvaciones de supervivencia hasta encontrar un rastro, luego llegarán a Nina, que se encuentra jugando con un hada Fey.
+
+Nina está perfectamente bien, pero cuando la party se intenta acercar, el Hada ataca.
+
+Si matan al Hada, la misma como última voluntad, matará a Nina no irá con ellos a pesar de que le muestren la bufanda.
+
+Si logran convencer al hada y a Nina de que tiene que volver, será un éxito la misión.
+
+Cuando regresen con Nina, viva o muerta. [[Thorius Magnus|Thorius]] les dará acceso a la laguna que se encuentra en su fondo.
+
+Luego pueden seguir con la misión.
+
 ---
+
+## Bo-Bore
+
+Es una tribu muy tranquila, están bastante más desarrollados que el resto, ya que adoptaron la tecnología del mundo civili
 
 y 1 tribu, los Bo-Bore, que son aquellos que hicieron la petición de ayuda.
 
