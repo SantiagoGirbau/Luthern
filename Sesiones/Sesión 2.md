@@ -52,14 +52,18 @@ Pueden ir a comprar cosas al mercado, aunque les queda medio justo, o pueden ir 
 
 ---
 ## En el Puerto
-El barco es bastante agradable a la vista. Es amplio, de color azul claro y se encuentra impecable.
+El [[Marina Cofmak|Marimar]] es bastante agradable a la vista. Es amplio, de color azul claro y se encuentra impecable.
 Sus tripulantes van y vienen, cargando y descargando cajas
 
 (Si preguntan por el nombre al capitán, les dirá que se llama así ya que así le dice a su Hija.)
 
 Es un barco de transporte de bienes principalmente. Suele tener un grupo de aventureros que los acompaña, pero recientemente renunciaron a sus puestos.
 
-El capitán es un hombre Sencillo pero estoico, de características Élficas. Se llama presenta como [[Lauren Cofmak]]. Y les agradece por haber accedido a escoltar el barco gratuitamente.
+El capitán es un hombre Sencillo pero estoico, de características Élficas. Se llama presenta como [[Lauren Cofmak]]. 
+
+-Muchas gracias por voluntariar para escoltar el barco! Con tan poco tiempo de anticipación, pensé que tendríamos que cancelar el viaje!.
+
+||La party que normalmente los escolta "Renunció" luego de que se haya dicho que [[Lauren Cofmak]] se ha encontrado 3 veces ya con Avaricia.||
 
 (Con acento de pirata)
 -Las [[Harpía del Mar Dulce|Harpías del Mar Dulce]] andan más molestas que nunca hoy en día... Así que, que no les sorprenda si nos encontramos con algunas. No son difíciles de eliminar, pero suelen venir en grupos... Pero confío en ustedes! Ese borrachín dijo que son lo suficientemente fuertes como para eliminar una caravana de [[Deambulante|Deambulantes]]! Así que no van a tener problema.
@@ -86,6 +90,32 @@ Esa noche les contarán la leyenda de la [[Soberbia|Soberbia]].
 
 Escribir aquí cómo la contarán los marineros
 --
+
+<font color="#4f81bd">-Escuchan murmullos de los marineros...</font>
+
+<font color="#c0504d">-Escuchaste lo que dijeron??</font>
+
+<font color="#4f81bd">-No. Que?</font>
+
+<font color="#c0504d">-Dicen que el motivo por el que estamos con estos novatos de escolta es porque Aguja Veloz renunció luego de enterarse del secreto del capi...</font>
+
+<font color="#4f81bd">-JA</font> -Ríe fuerte, retumba un poco en la cubierta. 
+
+<font color="#c0504d">-SHHHHHHHH</font>
+
+<font color="#4f81bd">-Entonces no deben haber sido grán cosa</font>
+
+Ahí van a notar al grupo que escucha o el grupo puede preguntarles directamente...
+
+-Bueno, tarde o temprano se iban a enterar...
+
+Dicen por ahí, que el capitán, [[Lauren Cofmak]], ha sobrevivido a 3 encuentros con Avaricia, la cuarta bestia capital...
+
+-No oyeron la leyenda de avaricia?
+
+-Si alguna vez estás en un barco, navegando en algún cuerpo de agua de [[Luthern]], ningún marino en su sano juicio mira al horizonte negro... Porque dicen que si miras lo suficientemente atentamente, verás tu reflejo en las escamas de avaricia a la distancia...
+
+-Avaricia es una bestia que causa terror. Tan grande como una flota de navíos de guerra, tan feroz como una tormenta
 
 Luego cruzarán el resto de la navegación. Es un día entero de viaje ya que es un barco rápido y hay buen viento.
 
