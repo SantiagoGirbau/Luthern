@@ -154,6 +154,8 @@ Los carreros les pedirán 1 de oro por persona para acercarlos hasta [[Eleandale
 
 Si le piden dinero a Theodor, él cubrirá el viaje en carro. Pero a cambio les pide que traigan 5 botellas de agua de la laguna de Eleandale.
 
+
+
 ---
 ## Eleandale 
 
