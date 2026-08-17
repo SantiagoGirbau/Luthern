@@ -7,6 +7,7 @@ tags:
   - Ingrediente
   - Objeto
   - Vegetación
+  - Cocina
 Estado:
 ---
 Es un [[Ingredientes Especiales|ingrediente]]. Batata dulce y ácida que huele a cuando cortas el pasto

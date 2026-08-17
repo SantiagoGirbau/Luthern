@@ -7,6 +7,7 @@ tags:
   - Hombrew
   - Ingrediente
   - Mecánica
+  - Cocina
 Estado: Pobre
 ---
 Serán los componentes principales que se usarán para la mecánica de [[Cocina]].

@@ -10,6 +10,7 @@ tags:
   - Ingrediente
   - Hombrew
   - Objeto
+  - Cocina
 Estado: Aceptable
 ---
  _Una sustancia gelatinosa y translúcida extraída de slimes básicos. No tiene mucho sabor, pero espesa los caldos y le da un brillo extraño a la comida._

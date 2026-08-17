@@ -5,6 +5,7 @@ tags:
   - Ingrediente
   - Hombrew
   - Objeto
+  - Cocina
 Estado: Pobre
 ---
 Es un [[Ingredientes Especiales|ingrediente]] un poco dulzón, es favorito para hacer escabeches

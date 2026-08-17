@@ -4,6 +4,7 @@ tags:
   - Ingrediente
   - Hombrew
   - Objeto
+  - Cocina
 Estado: Aceptable
 ---
  _Costo: 5 de plata cada una_

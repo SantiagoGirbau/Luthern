@@ -5,6 +5,7 @@ tags:
   - Hombrew
   - Vegetación
   - Objeto
+  - Cocina
 Estado: Aceptable
 ---
  _Costo: 1 de plata cada una_

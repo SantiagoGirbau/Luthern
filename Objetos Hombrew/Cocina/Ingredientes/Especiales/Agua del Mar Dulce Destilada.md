@@ -5,6 +5,7 @@ tags:
   - Ingrediente
   - Hombrew
   - Objeto
+  - Cocina
 Estado: Aceptable
 ---
 Es agua del [[Mar Dulce]] que fue destilada para usarse en cocina.

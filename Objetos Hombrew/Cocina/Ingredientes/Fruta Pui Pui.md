@@ -7,6 +7,7 @@ tags:
   - Vegetación
   - Objeto
   - Ingrediente
+  - Cocina
 ---
 Una fruta que se encuentra en una zona profunda del bosque, sabe muy parecido a granadina con soda.
 Su costo es bastante alto para una fruta. aproximadamente 1 de plata CADA UNA

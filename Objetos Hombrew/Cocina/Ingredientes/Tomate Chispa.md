@@ -5,6 +5,7 @@ tags:
   - Vegetación
   - Ingrediente
   - Objeto
+  - Cocina
 Estado: Aceptable
 ---
 Un tomate con un sabor umami electrificante. Es un [[Ingredientes Especiales|ingrediente]].

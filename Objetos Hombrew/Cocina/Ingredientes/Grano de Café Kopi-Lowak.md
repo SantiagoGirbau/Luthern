@@ -5,6 +5,7 @@ Estado:
 tags:
   - Ingrediente
   - Objeto
+  - Cocina
 ---
 Proviene de la caca de la [[Civeta umbría]]. Se lava, se tuesta y se usa para preparar el [[Café Dolce Marina]]. Es un [[Ingredientes Especiales|ingrediente]].
 
