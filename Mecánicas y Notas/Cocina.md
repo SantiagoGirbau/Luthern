@@ -9,7 +9,7 @@ tags:
   - Hombrew
 Estado: Aceptable
 ---
-La idea es hacer varios [[Ingredientes Especiales]] que entre sí vayan dando mini-buffos. Que al combinarlos en un platillo que tenga sentido, los efectos de cada ingrediente se irán sumando al plato final, siempre que se cocine de manera adecuada. En caso de cocinarlo mal, los mini-buffos, se transformarán en mini-debuffos.
+En Luthern, existen varios [[Ingredientes Especiales]], Usar estos ingredientes darán mini-buffos al platillo a preparar, siempre que al combinarlos en un platillo que tenga sentido, los efectos de cada ingrediente se irán sumando al plato final, siempre que se cocine de manera adecuada. En caso de cocinarlo mal, los mini-buffos, se transformarán en mini-debuffos.
 
 Por cada ingrediente especial que se agregué, se deberá hacer una tirada de "Cocina" y dependiendo del resultado de la misma, ese [[Ingredientes Especiales|ingrediente]] aportará su buffo o su debuffo.
 El cómo está preparado cada uno de los ingredientes no afecta directamente al sabor del platillo y no afecta su capacidad de alimentar.

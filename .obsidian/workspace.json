@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos Hombrew/Cocina/Ingredientes/Especiales/Agua de Laguna Mágica.md",
+                "file": "Mecánicas y Notas/Cocina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agua de Laguna Mágica"
+              "title": "Cocina"
             }
           }
         ],
@@ -247,7 +247,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objetos Hombrew/Cocina/Ingredientes/Especiales/Agua de Laguna Mágica.md"
+                "file": "Mecánicas y Notas/Cocina.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -278,8 +278,8 @@
   },
   "active": "a46e5ea7d827d9b2",
   "lastOpenFiles": [
-    "Objetos Hombrew/Cocina/Ingredientes/Especiales/Agua del Mar Dulce Destilada.md",
     "Objetos Hombrew/Cocina/Ingredientes/Especiales/Agua de Laguna Mágica.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Especiales/Agua del Mar Dulce Destilada.md",
     "Objetos Hombrew/Cocina/Comidas/Escabeche de Fruta Piu Piu.md",
     "Objetos Hombrew/Cocina/Comidas/Café Dolce Marina.md",
     "Objetos Hombrew/Cocina/Ingredientes/Tomate Chispa.md",
