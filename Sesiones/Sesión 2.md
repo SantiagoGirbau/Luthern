@@ -187,7 +187,7 @@ Luego pueden seguir con la misión.
 
 ## Bo-Bore
 
-Es una tribu muy tranquila, están bastante más desarrollados que el resto, ya que adoptaron la tecnología del mundo civili
+Es una tribu muy tranquila, están bastante más desarrollados que el resto, ya que adoptaron la tecnología del mundo civilizado, pero aún viven en chozas sencillas, pero ahora con ventanas modernas y chimeneas, Es una tribu bastante rica. El río les da muchos ingresos, ya que en el mismo se puede pescar y batear oro.
 
 y 1 tribu, los Bo-Bore, que son aquellos que hicieron la petición de ayuda.
 
