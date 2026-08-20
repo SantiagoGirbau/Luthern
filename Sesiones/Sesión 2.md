@@ -195,12 +195,9 @@ y 1 tribu, los Bo-Bore, que son aquellos que hicieron la petición de ayuda.
 
 Eleandale es un pueblo pequeño ganadero. Tiene muchos campos
 
+---
 
-
-
-
-
-
+Hicieron todo lo que había planeado D: ahora toca escribir más.
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos

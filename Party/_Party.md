@@ -11,4 +11,4 @@ Ahora se están quedando en las barracas menores del Oeste, éste edificio es un
 Nota para self: El alma de [[Bucker Tropp]] se encuentra dentro de [[Pado|Edric]] ahora mismo, Bucker no resiente de ninguna manera a [[Vale|Fiddle]], de hecho, su espíritu desea protegerlo hasta poder demostrarle que nada de lo sucedido es su culpa. 
 
 
-Theodor les cubrió la mitad del viaje a [[Eleandale]] y ahora deben llevarle 5-6 botellas de agua mágica del
+Theodor les cubrió la mitad del viaje a [[Eleandale]] y ahora deben llevarle 5-6 botellas de agua mágica de la laguna de [[Eleandale]] 

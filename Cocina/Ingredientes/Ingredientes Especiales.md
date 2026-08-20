@@ -3,6 +3,7 @@ aliases:
   - Ingrediente
   - ingrediente
   - Ingredientes Especiales
+  - Ingredientes
 tags:
   - Hombrew
   - Ingrediente
