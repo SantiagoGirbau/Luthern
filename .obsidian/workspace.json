@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,7 +233,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Cocina/Ingredientes/Ingredientes únicos/Ingredientes únicos.md"
+                "file": "Sesiones/Sesión 3.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -262,13 +262,13 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "7b71e049bcf57048",
+  "active": "c1ad49213b72dc73",
   "lastOpenFiles": [
-    "Cocina/Ingredientes/Ingredientes Especiales.md",
-    "Cocina/Ingredientes/Ingredientes únicos/Ingredientes únicos.md",
-    "Party/_Party.md",
-    "Sesiones/Sesión 3.md",
     "Sesiones/Sesión 2.md",
+    "Sesiones/Sesión 3.md",
+    "Cocina/Ingredientes/Ingredientes únicos/Ingredientes únicos.md",
+    "Cocina/Ingredientes/Ingredientes Especiales.md",
+    "Party/_Party.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Eleandale/Eleandale.md",
     "Cocina/Ingredientes/Ingredientes únicos/Agua de Laguna Mágica.md",
     "Cocina",
