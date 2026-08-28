@@ -29,8 +29,8 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - **Velocidad:** 30 pies
 - **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
 - Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
-- **Zarpazo:** +5 al ataque, alcance 5 pies. _Golpe:_ (1d6 + 2) de daño cortante.
-- **Mordisco:** +1 al ataque, alcance 5 pies. Golpe:  1d6 de daño perforante y la criatura debe tirar un d100. En un 15 o menos, queda infectada de envidia. Debe lanzar un d100 cada una hora, en un 15 o menos es un fallo. Luego de 5 fallos la criatura es tomada por envidia. Un clérigo puede curar este estado con restauración mayor, pero no hay vuelta atrás si la criatura es tomada.
+	- **Zarpazo:** +5 al ataque, alcance 5 pies. _Golpe:_ (1d6 + 2) de daño cortante.
+	- **Mordisco:** +1 al ataque, alcance 5 pies. _Golpe:_  1d6 de daño perforante y la criatura debe tirar un d100. En un 15 o menos, queda infectada de envidia. Debe lanzar un d100 cada una hora, en un 15 o menos es un fallo. Luego de 5 fallos la criatura es tomada por envidia. Un clérigo puede curar este estado con restauración mayor, pero no hay vuelta atrás si la criatura es tomada.
 
 ### Jefe 1, Paladín:
 
@@ -38,6 +38,9 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - **PG:** 52
 - **Velocidad:** 30 pies
 - **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
+- Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
+	- Espada Podrida: +6 al ataque, alcance 5 pies. Esta espada Lanza automáticamente un mini-smite sobre la criatura. (Apesta bastante) _Golpe:_ 7 (1d8 + 3) daño cortante + 4 (1d8) de daño necrótico (Mini-smite de putrefacción).
+	- 
 
 
 Otras misiones para luego:
