@@ -22,14 +22,22 @@ Hicieron todo lo que había planeado D: ahora toca escribir más.
 Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se comunican de otras maneras.
 ## Comienza el combate:
 
-**Cascarón Envidioso (Son 4 - Infectados genéricos)** _Odian el éxito. Son débiles solos, pero se ensañan con quien destaque._
+### Deambulante común (Son 4)
 
 - **CA:** 12 (Armadura natural)
-- **PG:** 16 (3d8 + 3)
+- **PG:** 24
 - **Velocidad:** 30 pies
-- **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un 
-- **Acción - Zarpazo Desesperado:** +4 al ataque, alcance 5 pies. _Golpe:_ 5 (1d6 + 2) de daño cortante. Si impacta, el objetivo pierde 5 pies de velocidad en su próximo turno (el Cascarón se los "roba" temporalmente).
+- **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
+- Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
+- **Zarpazo:** +5 al ataque, alcance 5 pies. _Golpe:_ (1d6 + 2) de daño cortante.
+- **Mordisco:** +1 al ataque, alcance 5 pies. Golpe:  1d6 de daño perforante y la criatura debe tirar un d100. En un 15 o menos, queda infectada de envidia. Debe lanzar un d100 cada una hora, en un 15 o menos es un fallo. Luego de 5 fallos la criatura es tomada por envidia. Un clérigo puede curar este estado con restauración mayor, pero no hay vuelta atrás si la criatura es tomada.
 
+### Jefe 1, Paladín:
+
+- **CA:** 18 (Armadura pesada)
+- **PG:** 52
+- **Velocidad:** 30 pies
+- **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
 
 
 Otras misiones para luego:
