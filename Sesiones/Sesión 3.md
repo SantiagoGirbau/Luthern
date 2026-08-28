@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - Sesión
 Estado:
 ---
 ## Bo-Bore
@@ -14,6 +15,22 @@ Eleandale es un pueblo pequeño ganadero. Tiene muchos campos
 ---
 
 Hicieron todo lo que había planeado D: ahora toca escribir más.
+
+---
+-Quedaría encargarnos de los fisgones que hay sobre el monte...
+
+Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se comunican de otras maneras.
+## Comienza el combate:
+
+**Cascarón Envidioso (Son 4 - Infectados genéricos)** _Odian el éxito. Son débiles solos, pero se ensañan con quien destaque._
+
+- **CA:** 12 (Armadura natural)
+- **PG:** 16 (3d8 + 3)
+- **Velocidad:** 30 pies
+- **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un 
+- **Acción - Zarpazo Desesperado:** +4 al ataque, alcance 5 pies. _Golpe:_ 5 (1d6 + 2) de daño cortante. Si impacta, el objetivo pierde 5 pies de velocidad en su próximo turno (el Cascarón se los "roba" temporalmente).
+
+
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
