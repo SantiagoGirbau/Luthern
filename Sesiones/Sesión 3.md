@@ -39,7 +39,7 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - **Velocidad:** 30 pies
 - **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
 - Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
-	- Espada Podrida: +6 al ataque, alcance 5 pies. Esta espada Lanza automáticamente un mini-smite sobre la criatura. (Apesta bastante) _Golpe:_ 7 (1d8 + 3) daño cortante + 4 (1d8) de daño necrótico (Mini-smite de putrefacción).
+	- Espada Podrida: +6 al ataque, alcance 5 pies. Esta espada Lanza automáticamente un mini-smite sobre la criatura. (Apesta bastante) _Golpe:_ 7 (1d8 + 3) daño cortante + 2 (1d4) de daño necrótico (Mini-smite de putrefacción).
 	- 
 
 
