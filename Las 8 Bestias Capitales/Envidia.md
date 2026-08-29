@@ -3,6 +3,7 @@ aliases:
   - La colmena
   - Envidia
   - La peste
+  - X̴̛̠y̸̨͝'̸̭͠z̷̟̅a̵̻͑ȑ̶͇a̶̤̚t̵͛͜h̸̞̍
 tags:
   - Lore
   - NPC
