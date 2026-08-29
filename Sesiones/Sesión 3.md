@@ -40,7 +40,7 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
 - Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
 	- Espada Podrida: +6 al ataque, alcance 5 pies. Esta espada Lanza automáticamente un mini-smite sobre la criatura. (Apesta bastante) _Golpe:_ 7 (1d8 + 3) daño cortante + 2 (1d4) de daño necrótico (Mini-smite de putrefacción).
-	- 
+	- Vómito infeccioso: alcance 30 pies. El Paladín Podrido puede vomitar pus infeccioso en un espacio de 20 pies de diámetro que pueda ver, toda criatura que se encuentre dentro de el área deberá hacer una salvación de destreza
 
 
 Otras misiones para luego:
