@@ -6,7 +6,7 @@ tags:
   - Lore
 Estado: Aceptable
 ---
-Son criaturas infectadas con [[Envidia|Envidia]] que salen de sus colmenas con el objetivo de esparcir la infección.
+Son criaturas infectadas con [[Envidia|Envidia]], una de [[Las 8 bestias capitales.|Las bestias Capitales]]. Estas criaturas normalmente se rezagan en colmenas, pero a aquellas que salen de sus colmenas con el objetivo de esparcir la infección, se les llama [[Deambulante]].
 Suelen ser sencillas de matar, debido a que si se elimina el anfitrión, Envidia desaparece. Pero no existe cura conocida que permita eliminar envidia sin asesinar al anfitrión.
 De todas formas se trata con mucha precaución a la eliminación de Deambulantes debido a que un solo paso en falso y podría desatar una pandemia.
 Algunos [[Deambulante|Deambulantes]] pueden ser muy fuertes debido a que el anfitrión lo fue en vida.
