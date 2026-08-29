@@ -50,20 +50,6 @@
               "icon": "lucide-file",
               "title": "Sesión 3"
             }
-          },
-          {
-            "id": "7a2dbfc72a7c04c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mecánicas y Notas/Notas/Chistes para hacer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chistes para hacer"
-            }
           }
         ],
         "currentTab": 2
@@ -250,11 +236,11 @@
   },
   "active": "7b71e049bcf57048",
   "lastOpenFiles": [
-    "Mecánicas y Notas/Notas/Chistes para hacer.md",
-    "Objetos Hombrew/Objetos Mágicos/Armas/Arco de Carroña.md",
-    "Mecánicas y Notas/Notas",
-    "Sesiones/Sesión 3.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
+    "Objetos Hombrew/Objetos Mágicos/Armas/Arco de Carroña.md",
+    "Sesiones/Sesión 3.md",
+    "Mecánicas y Notas/Notas/Chistes para hacer.md",
+    "Mecánicas y Notas/Notas",
     "Sesiones/Sesión 2.md",
     "Party/_Party.md",
     "Criaturas/Deambulante.md",
