@@ -52,7 +52,7 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - Pasiva: Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
 - Puede esquivar y correr como acción extra.
 - Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
-	- Arco de Carroña: +5 al ataque, alcance 90 pies. Este arco hecho de huesos y tendones
+	- Arco de Carroña: +5 al ataque, alcance 90 pies. Este arco hecho de tendones y huesos ha sido diseñado para disparar flechas hechas con los huesos de animales. 
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
