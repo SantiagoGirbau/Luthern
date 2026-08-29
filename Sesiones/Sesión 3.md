@@ -22,6 +22,7 @@ Hicieron todo lo que había planeado D: ahora toca escribir más.
 Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se comunican de otras maneras.
 ## Comienza el combate:
 
+En la segunda Ronda, [[Ari|Jengibre]] podrá sumarse.
 ### Deambulante común (Son 4)
 
 - **CA:** 12 (Armadura natural)
@@ -53,7 +54,7 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - Puede esquivar y correr como acción extra.
 - Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
 	- Arco de Carroña: +5 al ataque, alcance 90 pies. Este arco hecho de tendones y huesos ha sido diseñado para disparar flechas hechas con los huesos de animales. Las flechas de este arco viajan a velocidades extremas y atraviesan el primer objetivo que se encuentre. impactando en a cualquiera que se encuentre detrás, siempre que la tirada de ataque original -3 aún supere su AC
-	- Mordida mortal: +5 al ataque, alcance 5 pies. El Cazador Degradado abre su mandibula completa (Como campera) y engulle a una criatura a 5 pies de distancia. Esta criatura debe hacer una salvación de acrobacia o atletismo para evitar ser engullida. En caso de fallar, la misma recibe 6d4 de daño perforante y queda inmovilizada. Cazador Degradado también queda inmovilizado hasta que suelte a la criatura o la misma logre zafarse.
+	- Mordida mortal: +3 al ataque, alcance 5 pies. El Cazador Degradado abre su mandibula completa (Como campera) y engulle a una criatura a 5 pies de distancia. Esta criatura debe hacer una salvación de acrobacia o atletismo para evitar ser engullida. En caso de fallar, la misma recibe 6d4 de daño perforante y queda inmovilizada. Cazador Degradado también queda inmovilizado hasta que suelte a la criatura o la misma logre zafarse.
 
 
 Una vez termine el combate. 
