@@ -5,5 +5,3 @@ _La hoja de la espada está picada por un deterioro similar al óxido, sin embar
 
 **Castigo Putrefacto.** Cuando impactas a una criatura con esta espada, la hoja desata automáticamente un mini-castigo de podredumbre (apesta bastante). El objetivo recibe 1d4 de daño necrótico adicional. Si el objetivo es una criatura viva, debe superar una tirada de salvación de Constitución CD 13 o su velocidad se reducirá en 10 pies hasta el inicio de tu próximo turno, mientras la descomposición se apodera de sus extremidades.
 
-**Formato para el Bloque de Estadísticas (Acción del Jefe)** **Espada Podrida (Cuerpo a cuerpo):** +6 al ataque, alcance 5 pies, un objetivo. _Golpe:_ 7 (1d8 + 3) de daño cortante + 2 (1d4) de daño necrótico. Si el objetivo es una criatura viva, debe realizar la tirada de salvación de Constitución CD 13 de _Castigo Putrefacto_ o perder 10 pies de velocidad.
-

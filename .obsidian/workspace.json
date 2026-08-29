@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,7 +219,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md"
+                "file": "Sesiones/Sesión 3.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -248,13 +248,13 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "d6e5fd5db4013eab",
+  "active": "7b71e049bcf57048",
   "lastOpenFiles": [
+    "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
     "Sesiones/Sesión 3.md",
     "Sesiones/Sesión 2.md",
     "Party/_Party.md",
     "Criaturas/Deambulante.md",
-    "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
     "Objetos Hombrew/Objetos Mágicos/Objeto Mágico.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Sin nombre",
     "Objetos Hombrew/Objetos Mágicos/Consumibles",
