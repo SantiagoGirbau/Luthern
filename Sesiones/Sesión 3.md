@@ -29,8 +29,8 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - **Velocidad:** 30 pies
 - **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
 - Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
-	- **Zarpazo:** +4 al ataque, alcance 5 pies. _Golpe:_ (1d6 + 2) de daño cortante.
-	- **Mordisco:** +1 al ataque, alcance 5 pies. _Golpe:_  1d6 de daño perforante y la criatura debe tirar un d100. En un 15 o menos, queda infectada de envidia. Debe lanzar un d100 cada una hora, en un 15 o menos es un fallo. Luego de 5 fallos la criatura es tomada por envidia. Un clérigo puede curar este estado con restauración mayor, pero no hay vuelta atrás si la criatura es tomada.
+	- **Zarpazo:** +4 al ataque, alcance 5 pies. _Golpe:_ (1d10+1) de daño cortante.
+	- **Mordisco:** +1 al ataque, alcance 5 pies. _Golpe:_  2d4 de daño perforante y la criatura debe tirar un d100. En un 15 o menos, queda infectada de envidia. Debe lanzar un d100 cada una hora, en un 15 o menos es un fallo. Luego de 5 fallos la criatura es tomada por envidia. Un clérigo puede curar este estado con restauración mayor, pero no hay vuelta atrás si la criatura es tomada.
 
 ### Jefe 1, Paladín Putrefacto:
 
@@ -52,7 +52,8 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - Pasiva: Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
 - Puede esquivar y correr como acción extra.
 - Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
-	- Arco de Carroña: +5 al ataque, alcance 90 pies. Este arco hecho de tendones y huesos ha sido diseñado para disparar flechas hechas con los huesos de animales. 
+	- Arco de Carroña: +5 al ataque, alcance 90 pies. Este arco hecho de tendones y huesos ha sido diseñado para disparar flechas hechas con los huesos de animales. Las flechas de este arco viajan a velocidades extremas y atraviesan el primer objetivo que se encuentre. impactando en a cualquiera que se encuentre detrás, siempre que la tirada de ataque original -3 aún supere su AC
+	- Mordida mortal: +5 al ataque, alcance 5 pies. El Cazador Degradado abre su mandibula completa (Como campera) y engulle a una criatura a 5 pies de distancia. Esta criatura debe hacer una salvación de acrobacia o atletismo para evitar ser engullida. En caso de fallar, la misma recibe 5d4 de daño perforante 
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
