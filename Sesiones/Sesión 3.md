@@ -29,7 +29,7 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - **Velocidad:** 30 pies
 - **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
 - Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
-	- **Zarpazo:** +5 al ataque, alcance 5 pies. _Golpe:_ (1d6 + 2) de daño cortante.
+	- **Zarpazo:** +4 al ataque, alcance 5 pies. _Golpe:_ (1d6 + 2) de daño cortante.
 	- **Mordisco:** +1 al ataque, alcance 5 pies. _Golpe:_  1d6 de daño perforante y la criatura debe tirar un d100. En un 15 o menos, queda infectada de envidia. Debe lanzar un d100 cada una hora, en un 15 o menos es un fallo. Luego de 5 fallos la criatura es tomada por envidia. Un clérigo puede curar este estado con restauración mayor, pero no hay vuelta atrás si la criatura es tomada.
 
 ### Jefe 1, Paladín Putrefacto:
@@ -38,13 +38,21 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - **PG:** 52
 - **Velocidad:** 30 pies
 - **Pasiva:** Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
+
 - Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
-	- Espada Podrida: +6 al ataque, alcance 5 pies. Esta espada Lanza automáticamente un mini-smite sobre la criatura. (Apesta bastante) _Golpe:_ 7 (1d8 + 3) daño cortante + 2 (1d4) de daño necrótico (Mini-smite de putrefacción).
+	- Espada Podrida: +5 al ataque, alcance 5 pies. Esta espada Lanza automáticamente un mini-smite sobre la criatura. (Apesta bastante) _Golpe:_ 7 (1d8 + 3) daño cortante + 2 (1d4) de daño necrótico (Mini-smite de putrefacción).
 	- Vómito infeccioso: Enfriamiento: 2 turnos. Alcance 30 pies. El Paladín Podrido puede vomitar pus infeccioso en un espacio de 20 pies de diámetro que pueda ver, toda criatura que se encuentre dentro de el área deberá hacer una salvación de constitución DC 14 o recibir 3d8 de daño de ácido o la mitad en caso de salvarla.
-	- Kamikaze. 
+	- Kamikaze.
+	
 
-### Jefe 2, Paladín :
-
+### Jefe 2, Cazador Degradado:
+- **CA:** 15 (Armadura Ligera)
+- PG: 30
+- Velocidad 45 pies
+- Pasiva: Tienen ventaja en sus tiradas de ataque contra cualquier criatura siempre que haya un Deambulante a 5 pies de distancia de ella.
+- Puede esquivar y correr como acción extra.
+- Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
+	- Arco de Carroña: +5 al ataque, alcance 90 pies. Este arco hecho de huesos y tendones
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
