@@ -56,6 +56,7 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 	- Mordida mortal: +5 al ataque, alcance 5 pies. El Cazador Degradado abre su mandibula completa (Como campera) y engulle a una criatura a 5 pies de distancia. Esta criatura debe hacer una salvación de acrobacia o atletismo para evitar ser engullida. En caso de fallar, la misma recibe 6d4 de daño perforante y queda inmovilizada. Cazador Degradado también queda inmovilizado hasta que suelte a la criatura o la misma logre zafarse.
 
 
+Una vez termine el combat
 
 
 
