@@ -14,3 +14,5 @@ _Este macabro arco, tensado con tendones resecos y fabricado a partir de huesos,
 
 **Formato para el Bloque de Estadísticas (Acción del Jefe o Enemigo)** **Arco de Carroña (A distancia):** +5 al ataque, alcance 90 pies, un objetivo. _Golpe:_ 6 (1d8 + 2) de daño perforante. 
 _Efecto especial:_ La flecha atraviesa a la criatura impactada. Compara la tirada de ataque original -3 contra la CA de un objetivo ubicado directamente detrás y dentro del rango efectivo del arco. Si la supera, esa segunda criatura recibe el mismo daño.
+
+||Pasiva

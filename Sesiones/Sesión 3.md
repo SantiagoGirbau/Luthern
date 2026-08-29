@@ -53,7 +53,12 @@ Hay dos [[Deambulante]] capaz del habla, los demás son mas zombiecitos y se com
 - Puede esquivar y correr como acción extra.
 - Puede realizar 2 iguales o cualquier combinación de las siguientes acciones al atacar:
 	- Arco de Carroña: +5 al ataque, alcance 90 pies. Este arco hecho de tendones y huesos ha sido diseñado para disparar flechas hechas con los huesos de animales. Las flechas de este arco viajan a velocidades extremas y atraviesan el primer objetivo que se encuentre. impactando en a cualquiera que se encuentre detrás, siempre que la tirada de ataque original -3 aún supere su AC
-	- Mordida mortal: +5 al ataque, alcance 5 pies. El Cazador Degradado abre su mandibula completa (Como campera) y engulle a una criatura a 5 pies de distancia. Esta criatura debe hacer una salvación de acrobacia o atletismo para evitar ser engullida. En caso de fallar, la misma recibe 5d4 de daño perforante 
+	- Mordida mortal: +5 al ataque, alcance 5 pies. El Cazador Degradado abre su mandibula completa (Como campera) y engulle a una criatura a 5 pies de distancia. Esta criatura debe hacer una salvación de acrobacia o atletismo para evitar ser engullida. En caso de fallar, la misma recibe 6d4 de daño perforante y queda inmovilizada. Cazador Degradado también queda inmovilizado hasta que suelte a la criatura o la misma logre zafarse.
+
+
+
+
+
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
