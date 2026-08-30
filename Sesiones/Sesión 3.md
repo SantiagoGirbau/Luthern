@@ -72,6 +72,8 @@ Dice:
 
 No pueden leer esta carta a menos que tengan alguna habilidad para hacerlo.
 
+
+
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
 - Frenar a una tribu autóctona violenta que ha estado causando estragos en un pueblo en el Sur, ignorando peticiones de alianzas o treguas. Se debe realizar mediante cualquier medio necesario. 3 puntos
