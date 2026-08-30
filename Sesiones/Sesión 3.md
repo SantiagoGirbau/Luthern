@@ -72,7 +72,41 @@ Dice:
 
 No pueden leer esta carta a menos que tengan alguna habilidad para hacerlo.
 
+Al regresar a Bo-Boré la gente los mira con extrañeza. Como si estuvieran presenciando un mito hecho realidad. Nadie Combate de esa manera con [[Deambulante|Deambulantes]]. Nunca de frente. Siempre emboscadas de 20 o 30 personas o grupos muy poderosos.
 
+La gente los mira con respeto y a la vez con recelo murmurando
+
+-Han de estar infectados...
+-Seguro están sucumbiendo a la peste...
+etc...
+
+El Alcalde un poco de lejitos les agradece.
+
+Muchas gracias por ayudar a la tribu... Su recompensa se les pagará al regresar a [[Bohsse]]...
+Em... Suerte en su viaje!
+
+Básicamente corriendolos.
+
+Salen de viaje. En el primer tramo del viaje, no tienen problemas.
+
+Una tormenta los alcanza, parte del camino queda tapado de barro y árboles caídos. Pierden un día.
+
+Llegan tarde a [[Eleandale]] y los espera una sola carroza para devolverlos a Asura.
+
+El chófer se llama Jóse Posé.
+-Partamos cuanto antes así me pagan cuanto antes... Voz carrasposa algo españolezca
+
+El hombre les da charla sobre su vida, sobre su familia y etc...
+
+La carroza se detiene, escuchan ruidos en el exterior. Si abren la puerta para ver qué hay
+
+Tienen que hacer 2 salvaciones de destreza con desventaja y comerse 2 bolas de fuego.
+
+Luego les tiran Sleep y los secuestran a todos.
+
+Despiertan en una tribu, atados en una jaula en el medio de lo que parece una plaza.
+
+Escuchan voces en un idioma extraño. Los que tengan gra
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
