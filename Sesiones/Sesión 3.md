@@ -106,7 +106,23 @@ Luego les tiran Sleep y los secuestran a todos.
 
 Despiertan en una tribu, atados en una jaula en el medio de lo que parece una plaza.
 
-Escuchan voces en un idioma extraño. Los que tengan gra
+Escuchan voces en un idioma extraño. Los que tengan trato con los Aborígenes, pueden entender un poquito si hacen una tirada de Historia.
+
+-Estos parecen buenos... Tendrán chance?
+
+-No lo creo... Buhr-Bokre es imbatible hahaha...
+
+La cabeza de Jóse Posé se encuentra clavada en una pica un poco más allá de la jaula.
+
+Estos aborígenes son canívales.
+
+Entra un aborigen a la jaula. Un poco más refinado que los otros.
+
+-Tienen cita con Buhr-Bokre, nuestro campeón. Tiene hambre...
+
+Estos encuentros pueden resolverse hablando y negociando. Si ofrecen el polvo de Hada a cambio de su libertad, los aborígenes lo aceptarán. También lo pueden usar para drogar al campamento.
+
+Buhr-Bokre los viola si los agarra.
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
