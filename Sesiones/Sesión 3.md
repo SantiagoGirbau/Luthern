@@ -120,9 +120,23 @@ Entra un aborigen a la jaula. Un poco más refinado que los otros.
 
 -Tienen cita con Buhr-Bokre, nuestro campeón. Tiene hambre...
 
+Buhr-Bokre es enorme, un tipo de 3,5 metros, 500 kg Orco-Gigante
+
+-ME LIMPIARRRE LOSS DIENTESS CONN SUSSS HUESOSSS 
+
 Estos encuentros pueden resolverse hablando y negociando. Si ofrecen el polvo de Hada a cambio de su libertad, los aborígenes lo aceptarán. También lo pueden usar para drogar al campamento.
 
-Buhr-Bokre los viola si los agarra.
+Si llegan a tener que combatir:
+
+El combate será bastante cortito. Buhr-Bokre les dirá: 
+
+-Golpéenme con todo lo que tengan encima... Pero solo tendrán esa oportunidad...
+
+Tienen un turno para tirarle lo que fucking sea a Buhr-Bokre. Él la para de pecho.
+
+Buhr-Bokre: 300 de vida, 15 de AC (Reducido porque no usa su destreza),  falla automáticamente cualquier salvación de destreza.
+
+Si le hacen más de 200 de daño, Buhr-Bokre retrocede un paso del impacto. Agarra al que sea que tiene en frente de la cabeza con una mano y lo rebolea contra los otros y suelta una carcajada.
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
