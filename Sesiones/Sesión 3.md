@@ -138,6 +138,18 @@ Buhr-Bokre: 300 de vida, 15 de AC (Reducido porque no usa su destreza),  falla a
 
 Si le hacen más de 200 de daño, Buhr-Bokre retrocede un paso del impacto. Agarra al que sea que tiene en frente de la cabeza con una mano y lo rebolea contra los otros y suelta una carcajada.
 
+-HAHAHAHA... Sssson mejorrresss dee lo que penssssé
+
+La gente de la tribu que los mira desde afuera del "Coliseo" Les tirá monedas de cobre
+
+-Mahn-makor! Vennnn... Essstos coloniadosss prometen para el collllisssseo.
+
+Aparece un viejo un poco más versado en el común.
+
+-Hola Coloniados. Les tenemos una propuesta. 
+
+-Los dejamos irse con sus vidas y sus cosas a cambio de el Hama'du que tienen ahí.
+
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
 - Frenar a una tribu autóctona violenta que ha estado causando estragos en un pueblo en el Sur, ignorando peticiones de alianzas o treguas. Se debe realizar mediante cualquier medio necesario. 3 puntos
