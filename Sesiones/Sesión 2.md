@@ -39,6 +39,8 @@ Los [[Deambulante|Deambulantes]] son... (ver [[Deambulante]])
 Si no pueden con un par de [[Deambulante|Deambulantes]], entonces no tienen el potencial que busca el Rey... No tienen esperanza con ninguna de [[Las 8 bestias capitales.|Las Bestias]] así que deberían rendirse.
 Si es que lo logran, quizás tengan esperanza...
 
+AMARANTA NO VA.
+
 -Deberán cruzar en barco al sur me tomé la libertad de conseguirles los pasajes. No hace falta que me agradezcan. Busquen al barco que se llama "[[Marina Cofmak|Marimar]]". Su capitán es [[Lauren Cofmak]]. Pasarán por el puerto de Asura al Sur del [[Mar Dulce]], Luego tienen un tramo largo hasta [[Eleandale]] y por último llegarán a [[Bo-Bore]] 
 
 -Zarpan en... -Mirando un reloj detenido en la pared. -2 horas. Compren comida, agua y lo que puedan necesitar. 
@@ -197,6 +199,26 @@ Eleandale es un pueblo pequeño ganadero. Tiene muchos campos
 
 ---
 
+## Desventuras de [[Ari|Jengibre]]:
+
+Cuando escuchaste acerca de los Deambulantes, dijiste NOPE yo ahí no me meto
+Pero luego te sentiste culpable al quedarte en la casa sola
+Así que fuiste detrás del grupo en otro barco y luego en una caravana hasta Bo-Boré
+Llegaste antes que ellos, porque ellos el último tramo lo hicieron a pie
+Todo este viaje (En la caravana), lo pagó un viejito buena onda bien fumeta
+Que se llama Theodore
+Te vió renegando porque no te querían dejar subir gratis y necesitabas ir si o si, y se ofreció a pagarte el viaje con la condición de que le traigas algo del borde.
+Una especia que fabrica alguien que conoce en Bo-Boré que se llama "Polvo de Hada"
+Estuviste un día entero en Bo-Boré buscando a la persona que la hace y le diste lo que te dió Theodore
+Y te dió el paquetito
+pesa aproximadamente 3kg
+Y es bien compacto
+Te dijo que no te tiene que ver con eso la guardia y te cerró la puerta en la cara
+Y luego viste pasar al grupo hacia el Río Grande
+Y los seguiste sneaky
+Los viste espiando a un grupo de aventureros por encima de una montaña
+
+---
 Hicieron todo lo que había planeado D: ahora toca escribir más.
 
 Otras misiones para luego:

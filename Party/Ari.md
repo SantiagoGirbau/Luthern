@@ -1,6 +1,7 @@
 ---
 aliases:
   - Jengibre
+  - Amaranta
 tags:
   - Jugador
 ---

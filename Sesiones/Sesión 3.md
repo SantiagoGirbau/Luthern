@@ -106,6 +106,8 @@ Luego les tiran Sleep y los secuestran a todos.
 
 Despiertan en una tribu, atados en una jaula en el medio de lo que parece una plaza.
 
+Todos están atados de manos, de pies, y con piedras entre las dos manos que tienen atadas juntas con unas esposas de cuero y cadenas.
+
 Escuchan voces en un idioma extraño. Los que tengan trato con los Aborígenes, pueden entender un poquito si hacen una tirada de Historia.
 
 -Estos parecen buenos... Tendrán chance?
@@ -119,6 +121,8 @@ Estos aborígenes son canívales.
 Entra un aborigen a la jaula. Un poco más refinado que los otros.
 
 -Tienen cita con Buhr-Bokre, nuestro campeón. Tiene hambre...
+
+Los arrastran y los tiran a todos en un coliseo. Luego les tiran encima una montaña de armas al azar.
 
 Buhr-Bokre es enorme, un tipo de 3,5 metros, 500 kg Orco-Gigante
 
@@ -148,7 +152,11 @@ Aparece un viejo un poco más versado en el común.
 
 -Hola Coloniados. Les tenemos una propuesta. 
 
--Los dejamos irse con sus vidas y sus cosas a cambio de el Hama'du que tienen ahí.
+-Los dejamos irse con sus vidas y sus cosas a cambio de el Hama'duek (Polvo de hadas) que tienen ahí....
+
+Me imagino que aceptan.
+
+
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
