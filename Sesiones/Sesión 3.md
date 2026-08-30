@@ -106,6 +106,8 @@ Luego les tiran Sleep y los secuestran a todos.
 
 Despiertan en una tribu, atados en una jaula en el medio de lo que parece una plaza.
 
+Estan en [[Dok-momor]].
+
 Todos están atados de manos, de pies, y con piedras entre las dos manos que tienen atadas juntas con unas esposas de cuero y cadenas.
 
 Escuchan voces en un idioma extraño. Los que tengan trato con los Aborígenes, pueden entender un poquito si hacen una tirada de Historia.
@@ -116,7 +118,7 @@ Escuchan voces en un idioma extraño. Los que tengan trato con los Aborígenes, 
 
 La cabeza de Jóse Posé se encuentra clavada en una pica un poco más allá de la jaula.
 
-Estos aborígenes son canívales.
+Estos aborígenes son caníbales.
 
 Entra un aborigen a la jaula. Un poco más refinado que los otros.
 
@@ -156,7 +158,7 @@ Aparece un viejo un poco más versado en el común.
 
 Me imagino que aceptan.
 
-
+-Aquí en Dok-momor, tenemos tradiciones... Les explica
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos

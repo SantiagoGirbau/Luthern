@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,7 +219,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lugares/Tierras sin reclamar/Tribus/Dok-momor/Dok-momor.md"
+                "file": "Sesiones/Sesión 3.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -248,10 +248,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "ff68597c0b29ffc0",
+  "active": "7b71e049bcf57048",
   "lastOpenFiles": [
-    "Sesiones/Sesión 3.md",
     "Lugares/Tierras sin reclamar/Tribus/Dok-momor/Dok-momor.md",
+    "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
+    "Sesiones/Sesión 3.md",
     "Lugares/Tierras sin reclamar/Tribus/Dok-momor",
     "Sesiones/Sesión 2.md",
     "Party/Ari.md",
@@ -283,7 +284,6 @@
     "Cocina/Ingredientes/Pimiento Rosado.md",
     "Cocina/Ingredientes/Nuez de Hierro.md",
     "Cocina/Ingredientes/Grano de Café Kopi-Lowak.md",
-    "Cocina/Ingredientes/Hongo Toro.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bo-Bore",

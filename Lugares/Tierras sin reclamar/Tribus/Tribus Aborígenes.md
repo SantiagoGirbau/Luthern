@@ -3,7 +3,7 @@ aliases:
   - Tribus
   - Tribu
   - Aborígenes
-  - Aborígen
+  - Aborigen
 Estado: Aceptable
 ---
 Estas tribus llegaron a [[Luthern]] (O [[Luthern|Luh'Terna]] en el dialecto aborigen) aproximadamente 200 años antes de la [[Colonización de Luthern]]. Originalmente estaban buscando cazar a [[El Dragón]] , que había sido herido luego de una erupción, cruzaron el océano congelado durante "[[La Gran Helada]]" y llegaron al [[Luthern|Continente Nuevo]]. Luego lo cazaron en [[El Bosque Frontera]] y bebieron su sangre para "obtener sus fuerzas" y se instalaron en el continente.
