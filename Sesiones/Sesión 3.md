@@ -158,7 +158,22 @@ Aparece un viejo un poco más versado en el común.
 
 Me imagino que aceptan.
 
--Aquí en Dok-momor, tenemos tradiciones... Les explica
+-Aquí en Dok-momor, tenemos tradiciones... Les explica el viejo.
+
+-Devorar al rival es una muestra de respeto en los combates a muerte...
+
+-Hacemos los mismo con las bestias... No comemos criaturas débiles o que no hayan dado un combate digno, pues eres lo que comes. 
+
+-Como podrán ver, tenemos buenas tácticas para atrapar criaturas con vida. Pero matarlas de una emboscada y sin un duelo digno, va en contra de nuestras creencias, por lo que para eso tenemos el coliseo.
+
+-Ustedes tienen madera de gladiadores... Combatan en el coliseo... Pueden hacer mucho de esas piecitas metálicas que tanto les gusta a ustedes coloniales... Algunos grupos vienen aquí y se van siendo ricos...
+
+
+leer [[Dok-momor]].
+
+Pueden pelear en el coliseo o volverse a la ciudad de [[Bohsse]]. Tienen que cruzar el Río Essix. No es tan sencillo como parece. Tendrán que empeñar o fabricar una balsa. No es un río rapidísimo. pero es HONDO y ANCHO.
+
+Pueden pelear en el coliseo para comprar una. 
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
