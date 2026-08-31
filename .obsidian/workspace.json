@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,7 +247,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objetos Hombrew/Objetos Mágicos/Armas/Arco de Carroña.md"
+                "file": "Sesiones/Sesión 3.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -276,10 +276,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "42948eb399d267a8",
+  "active": "7b71e049bcf57048",
   "lastOpenFiles": [
-    "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Arco de Carroña.md",
+    "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
     "Sesiones/Sesión 3.md",
     "Lugares/Tierras sin reclamar/Tribus/Dok-momor/Dok-momor.md",
     "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
