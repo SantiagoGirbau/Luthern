@@ -108,49 +108,21 @@
             }
           },
           {
-            "id": "94aa33fd074e793e",
+            "id": "d1c8c302e08be2c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos Hombrew/Objetos Mágicos/Armas/Arco de Carroña.md",
+                "file": "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arco de Carroña"
-            }
-          },
-          {
-            "id": "42948eb399d267a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objetos Hombrew/Objetos Mágicos/Armas/Arco de Carroña.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arco de Carroña"
-            }
-          },
-          {
-            "id": "fcf69638d69892eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesion 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesion 4"
+              "title": "Espada Podrida"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -303,7 +275,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sesiones/Sesion 4.md"
+                "file": "Sesiones/Sesión 3.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -333,10 +305,13 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "fcf69638d69892eb",
+  "active": "d1c8c302e08be2c9",
   "lastOpenFiles": [
-    "Objetos Hombrew/Cocina/Ingredientes/Batata Verde.md",
+    "Objetos Hombrew/Objetos Mágicos/Armas/Tendón.md",
+    "Objetos Hombrew/Objetos Mágicos/Armas/Fémur.md",
+    "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
     "Sesiones/Sesión 3.md",
+    "Objetos Hombrew/Cocina/Ingredientes/Batata Verde.md",
     "Lugares/Tierras sin reclamar/Tribus/Napi.md",
     "Objetos Hombrew/Cocina/Ingredientes/Cucaracha Lenteja.md",
     "Mecánicas y Notas/Cocina.md",
@@ -344,9 +319,7 @@
     "Lugares/Tierras sin reclamar/Tribus/Ahl'Broc/Ahl'Broc.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bo-Bore/Bo-Bore.md",
     "Sesiones/Sesión 2.md",
-    "Objetos Hombrew/Objetos Mágicos/Armas/Arco de Carroña.md",
     "Lugares/Tierras sin reclamar/Tribus/Dok-momor/Dok-momor.md",
-    "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
     "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
     "Lugares/Tierras sin reclamar/Tribus/Dok-momor",
     "Party/Ari.md",
@@ -368,7 +341,6 @@
     "Cocina/Ingredientes/Ingredientes únicos/Agua de Laguna Mágica.md",
     "Cocina",
     "Cocina/Ingredientes/Ingredientes únicos/Agua del Mar Dulce Destilada.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Especiales/Sin título.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bo-Bore",

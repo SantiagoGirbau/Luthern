@@ -1,6 +1,7 @@
 ---
 aliases:
   - Tendón
+  - Arco de Carroña
 tags:
   - Arma
   - Objeto
