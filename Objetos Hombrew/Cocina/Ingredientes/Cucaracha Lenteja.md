@@ -1,0 +1,1 @@
++1 a tiradas de supervivecia por 4 horas

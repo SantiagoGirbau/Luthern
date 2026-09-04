@@ -1,5 +1,6 @@
 ---
 aliases:
+  - El Podrido
 tags:
   - Arma
   - Hombrew

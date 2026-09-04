@@ -8,4 +8,4 @@ tags:
 
 Últimamente dicen que han avistado una caravana de [[Deambulante|Deambulantes]] rondando la zona. Han hecho un llamado de auxilio.
 
-En Bo-Bore hay un miembro de los [[Ahl'Broc]], sobreviviente al ataque de Ira. Puede reconocer a [[Flawa|Aslan]] 
+En Bo-Bore hay un miembro de los [[Ahl'Broc]], sobreviviente al ataque de Ira. Puede reconocer a [[Flawa|Aslan]]. Moet-nozak

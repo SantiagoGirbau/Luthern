@@ -94,6 +94,7 @@ Una tormenta los alcanza, parte del camino queda tapado de barro y árboles caí
 Llegan tarde a [[Eleandale]] y los espera una sola carroza para devolverlos a Asura.
 
 El chófer se llama Jóse Posé.
+Tiene una hija que se llama Lorena y trabaja en el SIBISO
 -Partamos cuanto antes así me pagan cuanto antes... Voz carrasposa algo españolezca
 
 El hombre les da charla sobre su vida, sobre su familia y etc...
@@ -162,7 +163,7 @@ Me imagino que aceptan.
 
 -Devorar al rival es una muestra de respeto en los combates a muerte...
 
--Hacemos los mismo con las bestias... No comemos criaturas débiles o que no hayan dado un combate digno, pues eres lo que comes. 
+-Hacemos los mismo con las bestias... No comemos criaturas débiles o que no hayan dado un combate digno, pues eres lo que comes. Deo-Nas
 
 -Como podrán ver, tenemos buenas tácticas para atrapar criaturas con vida. Pero matarlas de una emboscada y sin un duelo digno, va en contra de nuestras creencias, por lo que para eso tenemos el coliseo.
 
@@ -172,6 +173,8 @@ Me imagino que aceptan.
 leer [[Dok-momor]].
 
 Pueden pelear en el coliseo o volverse a la ciudad de [[Bohsse]]. Tienen que cruzar el Río Essix. No es tan sencillo como parece. Tendrán que empeñar o fabricar una balsa. No es un río rapidísimo. pero es HONDO y ANCHO.
+
+Nedo, pueblo al borde del rio
 
 Pueden pelear en el coliseo para comprar una. 
 

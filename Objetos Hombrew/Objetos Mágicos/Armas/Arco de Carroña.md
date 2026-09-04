@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Tendón
 tags:
   - Arma
   - Objeto
