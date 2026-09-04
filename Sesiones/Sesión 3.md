@@ -178,6 +178,13 @@ Nedo, pueblo al borde del rio
 
 Pueden pelear en el coliseo para comprar una. 
 
+
+## Esta sesión salió como el orto.
+
+Llegaron a [[Bohsse]] y Silas les pagó demasiado oro. Veamos en qué lo usan.
+
+Una clérigo se llevó las armas mágicas. Escondieron la droga con una plantita. Silas les dijo que necesita hablar con ellos, se sorprendió para bien con el grupo y volvió a sonreír.
+
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
 - Frenar a una tribu autóctona violenta que ha estado causando estragos en un pueblo en el Sur, ignorando peticiones de alianzas o treguas. Se debe realizar mediante cualquier medio necesario. 3 puntos
