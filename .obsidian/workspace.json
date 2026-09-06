@@ -111,14 +111,12 @@
             "id": "d1c8c302e08be2c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
-                "mode": "source",
-                "source": false
+                "file": "Soberbia.png"
               },
-              "icon": "lucide-file",
-              "title": "Espada Podrida"
+              "icon": "lucide-image",
+              "title": "Soberbia"
             }
           }
         ],
@@ -307,9 +305,11 @@
   },
   "active": "d1c8c302e08be2c9",
   "lastOpenFiles": [
+    "Pasted image 20260802040252.png",
+    "Soberbia.png",
+    "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Tendón.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Fémur.md",
-    "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
     "Sesiones/Sesión 3.md",
     "Objetos Hombrew/Cocina/Ingredientes/Batata Verde.md",
     "Lugares/Tierras sin reclamar/Tribus/Napi.md",
@@ -340,7 +340,6 @@
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Eleandale/Eleandale.md",
     "Cocina/Ingredientes/Ingredientes únicos/Agua de Laguna Mágica.md",
     "Cocina",
-    "Cocina/Ingredientes/Ingredientes únicos/Agua del Mar Dulce Destilada.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bo-Bore",
@@ -353,7 +352,6 @@
     "Pasted image 20260805163917.png",
     "zFotos/Silas y Eris.png",
     "zFotos/Civeta Umbría.png",
-    "zFotos/5 Lujuria.png",
     "Sin título.canvas"
   ]
 }

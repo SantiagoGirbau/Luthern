@@ -1,1 +1,0 @@
-Es un poco dulzón, es favorito para hacer escaveches
