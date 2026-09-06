@@ -106,21 +106,9 @@
               "icon": "lucide-file",
               "title": "Batata Verde"
             }
-          },
-          {
-            "id": "d1c8c302e08be2c9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Soberbia.png"
-              },
-              "icon": "lucide-image",
-              "title": "Soberbia"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -303,10 +291,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "d1c8c302e08be2c9",
+  "active": "8c68431e146d966d",
   "lastOpenFiles": [
-    "Pasted image 20260802040252.png",
     "Soberbia.png",
+    "Pasted image 20260802040252.png",
     "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Tendón.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Fémur.md",
