@@ -35,8 +35,15 @@ Silas espera un segundo antes de pararse de golpe y decir en voz alta:
 
 -El Hijo del rey, [[Malthus]]. Se enfrentó a Avaricia hace un tiempo, no solo vivió, si no que le arrebató un ojo!
 
+-Además, hemos logrado descifrar que las [[Piedras Fosforescentes]] que se encuentran en las ruinas pueden utilizarse para aminorar los síntomas de después de un ataque de [[Ira]]. Eso no puede ser una coincidencia.
 
--Y hay más. En un esfuerzo conjunto, hemos logrado descifrar que las [[Piedras Fosforescentes]] que se encuentran en las ruinas o
+-Pereza le teme al fuego, [[Soberbia]] Evita aguas que no son cristalinas... Tenemos tanta información obtenida con el tiempo alrededor de todo Luthern. Y nadie se ocupa de hacer nada al respecto.
+
+-Existen agrupaciones que se dedican a estudiar a las bestias y sus comportamientos, pero cada reino se guarda la información para ellos mismos... Hace falta algo que los una. Algo como ustedes. Nosotros.
+
+-Un grupo que pueda detener a al menos una bestia, ya unirá a Luthern, o al menos el Sur.
+
+
 
 Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "[[Stanley's Thermical Bottle]]" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
 
