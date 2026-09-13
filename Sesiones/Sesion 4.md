@@ -33,8 +33,10 @@ Silas espera un segundo antes de pararse de golpe y decir en voz alta:
 
 -ENTONCES HAY UNA REINA! Y SI HAY UNA REINA, HAY UN PUNTO DÉBIL.
 
-Si
+-El Hijo del rey, [[Malthus]]. Se enfrentó a Avaricia hace un tiempo, no solo vivió, si no que le arrebató un ojo!
 
+
+-Y hay más. En un esfuerzo conjunto, hemos logrado descifrar que las [[Piedras Fosforescentes]] que se encuentran en las ruinas o
 
 Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "[[Stanley's Thermical Bottle]]" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
 
