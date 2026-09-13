@@ -43,7 +43,7 @@ Silas espera un segundo antes de pararse de golpe y decir en voz alta:
 
 -Un grupo que pueda detener a al menos una bestia, ya unirá a Luthern, o al menos el Sur.
 
-
+Yo... Lo intenté en su momento... Pensé que podría... Estas bestias me quitaron tanto como a cualquier otro en este condenado continente
 
 Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "[[Stanley's Thermical Bottle]]" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
 
