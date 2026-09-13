@@ -56,12 +56,25 @@ Yo... Lo intenté en su momento... Pensé que podría... Estas bestias me quitar
 -Mi hija y mi esposa... Sonaron las trompetas en el cielo... En ese momento, no sabía lo que significaba... Nadie se tomó el trabajo de hacer pública esa información...
 Corrí hacia ellas, tan rápido como pude, no pueden haber pasado más de 40 segundos... Quise levantarlas y correr hacia el bosque, pero en lugar de hacer eso, cuando llegué a ellas les rebané la garganta con mi espada... Mi hija menor estaba en la escuela, quise tratar de encontrarla, maté a tanta gente... Tantos... inocentes. [[Ira]] es la culpable, si no fuese por [[Reino de Bigzha|Bigzha]] que pasaba por mi pueblo natal luego de una cruzada, habría asesinado a mi otra hija... Pero él puso un escudo mágico sobre la escuela, salvó a todos los niños... Le debo... Mi todo... Dice tocándose la cara áspera de la barba descuidada...
 
-
-
 Tienen el día libre. Tengo cosas que hacer. Mañana tomaremos otra misión, esta vez lo discutiremos entre todos.
 
 Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "[[Stanley's Thermical Bottle]]" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
 
+La gente de vez en cuando los reconoce, habla en voz baja:
+
+Esos son... El grupo de Corvo? 
+No puedo creer que acabaran con deambulantes en tan poco tiempo...  
+Dicen que solo fueron ellos 5 quienes 
+Seguramente contrataron mercenarios para usar de carnada!
+
+
+
+Otras misiones para luego:
+- Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
+- Frenar a una tribu autóctona violenta que ha estado causando estragos en un pueblo en el Sur, ignorando peticiones de alianzas o treguas. Se debe realizar mediante cualquier medio necesario. 3 puntos
+- Ayudar a navegantes a cruzar a salvo una barcaza con alimento por el Mar Dulce, se calculan 2 días de viaje de ida y 2 de vuelta.  5 puntos
+- Cazar goblins y trolls en el [[El Bosque Frontera|Bosque Umbrío]] y desarmar un asentamiento 2 puntos.
+- Lidiar con bandidos que han estado robando caravanas provenientes de [[Imperio Teocrático de Umnazia|Umnazia]]. 2 puntos.
 
 
 
