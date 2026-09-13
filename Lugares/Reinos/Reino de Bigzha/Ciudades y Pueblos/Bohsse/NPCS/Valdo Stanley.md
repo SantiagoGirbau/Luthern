@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Valdo
 tags:
   - NPC
   - Tienda

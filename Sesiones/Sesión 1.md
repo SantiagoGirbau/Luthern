@@ -160,7 +160,7 @@ Les dará muy vagas instrucciones y se irá
 
 Se van a perder por huevos.
 
-Compraron comida para 7 días para los 5, hicieron copias a las llaves (Aún no las buscaron del herrero [[Valdo Boreas]])
+Compraron comida para 7 días para los 5, hicieron copias a las llaves (Aún no las buscaron del herrero [[Valdo Stanley]])
 
 Aslan fue a buscar cosas de su guarnición. [[Flawa|Aslan]] Formaba parte de la división Oeste.
 

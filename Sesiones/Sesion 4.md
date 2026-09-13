@@ -8,4 +8,11 @@ Una clérigo se llevó las armas mágicas. Escondieron la droga con una plantita
 
 Resúmen grupal.
 
-Luego de la problemática misión a la que se enfrentó el grupo debido a la inconsciencia de su mentor. El grupo, luego de repetidos desvíos, Ha logrado llegar a Bohsse. Con una enorme cantidad de Polvo de Hada.
+Luego de la problemática misión a la que se enfrentó el grupo debido a la inconsciencia de su mentor. El grupo, luego de repetidos desvíos, Ha logrado llegar a Bohsse. Con una enorme cantidad de Polvo de Hada y Agua mágica para [[Theodor]], el cuidador de [[Pado|Edric]]
+
+Para entregar esos productos y para repagar su deuda con [[Theodor]], deben de cruzar el Mar Dulce o conseguir a alguien de confianza que no vaya a abrir el paquete que le puedan encargar que lo envíe.
+
+Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "Stanley's Thermical Bottle" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
+
+Este objeto cuesta 30 de oro y mantiene la temperatura de 1,5 Litros (6 tazas) de cualquier líquido en su temperatura y condiciones originales.
+
