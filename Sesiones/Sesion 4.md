@@ -14,7 +14,13 @@ Para entregar esos productos y para repagar su deuda con [[Theodor]], deben de c
 
 Silas les dijo: Les voy a contar un poco de lo que sé.
 
-Las 8 [[Las 8 bestias capitales.|Bestias capitales]] son una fuerza de la naturaleza, como ya sabe todo el mundo... Se dicen Imposibles de predecir, de combatir, de detener y de matar...
+Primero me presento, saca su espada oxidada de su cintura y la pone sobre la mesa, algunas partes aún brillan a pesar de lo descuidada que está.
+
+Mi nombre es [[Silas Corvo]], y antes solían llamarme la Hoja Infinita. Ese apodo me acompañó mucho tiempo, pero ahora es cosa del pasado. De todas formas, es un placer conocerlos y espero que de ahora en más pueda serles de utilidad y que eventualmente me consideren un Mentor apropiado.
+
+Ahora... A lo importante...
+
+-Las 8 [[Las 8 bestias capitales.|Bestias capitales]] son una fuerza de la naturaleza, como ya sabe todo el mundo... Se dicen Imposibles de predecir, de combatir, de detener y de matar...
 Bueno, hay algunas verdades dentro de todo eso, pero, definitivamente no son imposibles de matar.
 
 Saca un papel doblado de su bolsillo.
@@ -45,10 +51,14 @@ Silas espera un segundo antes de pararse de golpe y decir en voz alta:
 
 Yo... Lo intenté en su momento... Pensé que podría... Estas bestias me quitaron tanto como a cualquier otro en este condenado continente...
 
+-Seguro cada uno de ustedes ha perdido algo o conoce a alguien que lo haya sufrido por culpa de estas malditas bestias. No hay nadie en este continente que pueda decir que no es así... Y no entiendo, por qué nadie hace nada!
+
 -Mi hija y mi esposa... Sonaron las trompetas en el cielo... En ese momento, no sabía lo que significaba... Nadie se tomó el trabajo de hacer pública esa información...
 Corrí hacia ellas, tan rápido como pude, no pueden haber pasado más de 40 segundos... Quise levantarlas y correr hacia el bosque, pero en lugar de hacer eso, cuando llegué a ellas les rebané la garganta con mi espada... Mi hija menor estaba en la escuela, quise tratar de encontrarla, maté a tanta gente... Tantos... inocentes. [[Ira]] es la culpable, si no fuese por [[Reino de Bigzha|Bigzha]] que pasaba por mi pueblo natal luego de una cruzada, habría asesinado a mi otra hija... Pero él puso un escudo mágico sobre la escuela, salvó a todos los niños... Le debo... Mi todo... Dice tocándose la cara áspera de la barba descuidada...
 
-Tienen el día libre. Tengo cosas que hacer. Mañana tomaremos otra misión, esta vez lo discutiremos todos.
+
+
+Tienen el día libre. Tengo cosas que hacer. Mañana tomaremos otra misión, esta vez lo discutiremos entre todos.
 
 Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "[[Stanley's Thermical Bottle]]" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
 
