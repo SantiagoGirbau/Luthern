@@ -12,7 +12,15 @@ Luego de la problemática misión a la que se enfrentó el grupo debido a la inc
 
 Para entregar esos productos y para repagar su deuda con [[Theodor]], deben de cruzar el Mar Dulce o conseguir a alguien de confianza que no vaya a abrir el paquete que le puedan encargar que lo envíe.
 
-Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "Stanley's Thermical Bottle" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
+Silas les dijo: Les voy a contar un poco de lo que sé.
 
-Este objeto cuesta 30 de oro y mantiene la temperatura de 1,5 Litros (6 tazas) de cualquier líquido en su temperatura y condiciones originales.
+Las 8 [[Las 8 bestias capitales.|Bestias capitales]] son una fuerza de la naturaleza, como ya sabe todo el mundo... Se dicen Imposibles de predecir, de combatir, de detener y de matar...
+Bueno, hay algunas verdades dentro de todo eso, pero, definitivamente no son imposibles de matar.
+
+
+
+Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "[[Stanley's Thermical Bottle]]" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
+
+
+
 
