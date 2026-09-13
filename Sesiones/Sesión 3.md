@@ -66,9 +66,7 @@ Y el Paladín posee un pergamino en un idioma que no pueden comprender.
 
 Dice:
 
-> [!NOTE] Para los capitanes:
-> La reina [[Envidia|X̴̛̠y̸̨͝'̸̭͠z̷̟̅a̵̻͑ȑ̶͇a̶̤̚t̵͛͜h̸̞̍]]  ordena a todas los exploradores a ejercer presión mayor en las zonas sur del Nuevo Reino Pagano. Ella ofrece personalmente una recompensa a aquellos que logren esparcir la cura más allá de sus bordes.
-> _-Ella nos curará y ella nos brindará salvación_
+
 
 No pueden leer esta carta a menos que tengan alguna habilidad para hacerlo.
 
