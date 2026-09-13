@@ -43,7 +43,12 @@ Silas espera un segundo antes de pararse de golpe y decir en voz alta:
 
 -Un grupo que pueda detener a al menos una bestia, ya unirá a Luthern, o al menos el Sur.
 
-Yo... Lo intenté en su momento... Pensé que podría... Estas bestias me quitaron tanto como a cualquier otro en este condenado continente
+Yo... Lo intenté en su momento... Pensé que podría... Estas bestias me quitaron tanto como a cualquier otro en este condenado continente...
+
+-Mi hija y mi esposa... Sonaron las trompetas en el cielo... En ese momento, no sabía lo que significaba... Nadie se tomó el trabajo de hacer pública esa información...
+Corrí hacia ellas, tan rápido como pude, no pueden haber pasado más de 40 segundos... Quise levantarlas y correr hacia el bosque, pero en lugar de hacer eso, cuando llegué a ellas les rebané la garganta con mi espada... Mi hija menor estaba en la escuela, quise tratar de encontrarla, maté a tanta gente... Tantos... inocentes. [[Ira]] es la culpable, si no fuese por [[Reino de Bigzha|Bigzha]] que pasaba por mi pueblo natal luego de una cruzada, habría asesinado a mi otra hija... Pero él puso un escudo mágico sobre la escuela, salvó a todos los niños... Le debo... Mi todo... Dice tocándose la cara áspera de la barba descuidada...
+
+Tienen el día libre. Tengo cosas que hacer. Mañana tomaremos otra misión, esta vez lo discutiremos todos.
 
 Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "[[Stanley's Thermical Bottle]]" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
 
