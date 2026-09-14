@@ -78,9 +78,79 @@
               "icon": "lucide-file",
               "title": "Silas Corvo"
             }
+          },
+          {
+            "id": "15348f6c1a83dfb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gremio de Cartógrafos"
+            }
+          },
+          {
+            "id": "90250707a2e12e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mentores de Bigss"
+            }
+          },
+          {
+            "id": "313c4080364ec7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Bohsse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bohsse"
+            }
+          },
+          {
+            "id": "4a8b11da6663153f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Silas Corvo"
+            }
+          },
+          {
+            "id": "436d14d81ea2638d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS/Bucker Tropp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bucker Tropp"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -263,38 +333,38 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "25498e39e3ae7729",
+  "active": "436d14d81ea2638d",
   "lastOpenFiles": [
-    "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
-    "Sesiones/Sesión 3.md",
+    "Lugares/Erión.md",
+    "Lugares/Tierras sin reclamar/Tribus/Tribus Aborígenes.md",
+    "Lugares/Tierras sin reclamar/Tribus/Ahl'Broc/Ahl'Broc.md",
+    "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md",
     "Sesiones/Sesion 4.md",
-    "Party/Ari.md",
     "Party/1Party.md",
+    "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
+    "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
+    "Mecánicas y Notas/Cocina.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Bohsse.md",
+    "Objetos Hombrew/Objetos Mágicos/Otros/Stanley's Thermical Bottle.md",
+    "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
+    "Agrupaciones y Gremios/Exploradores de Ruinas.md",
+    "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
+    "Sesiones/Sesión 3.md",
+    "Party/Ari.md",
     "Party/_Party.md",
     "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS/Bucker Tropp.md",
     "Party/Vale.md",
     "Las 8 Bestias Capitales/Avaricia.md",
     "Lugares/Reinos/Reino de Bigzha/Realeza/Biggsa.md",
     "Lugares/Reinos/Reino de Bigzha/Realeza/Malthus.md",
-    "Objetos Hombrew/Objetos Mágicos/Otros/Stanley's Thermical Bottle.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Valdo Stanley.md",
     "Objetos Hombrew/Objetos Mágicos/Otros",
     "Party/Pado.md",
     "Party/Flawa.md",
     "Party/Agustin.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Especias/Polvo de Hadas.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Especias/Gel de Slime Purificado.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Especias/Agua del Mar Dulce Destilada.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Batata Verde.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Nedo/Nedo.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Nedo",
-    "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
-    "Objetos Hombrew/Cocina/Ingredientes/Cucaracha Lenteja.md",
-    "Lugares/Tierras sin reclamar/Tribus/Napi.md",
     "Soberbia.png",
     "Pasted image 20260802040252.png",
-    "Objetos Hombrew/Objetos Mágicos/Armas/Tendón.md",
-    "Objetos Hombrew/Objetos Mágicos/Armas/Fémur.md",
     "Lugares/Tierras sin reclamar/Tribus/Dok-momor",
     "Mecánicas y Notas/Notas",
     "Objetos Hombrew/Objetos Mágicos/Armas/Sin nombre",

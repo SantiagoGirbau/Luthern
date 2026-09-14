@@ -176,7 +176,6 @@ Nedo, pueblo al borde del rio
 
 Pueden pelear en el coliseo para comprar una. 
 
-
 ## Esta sesión salió como el orto.
 
 Llegaron a [[Bohsse]] y Silas les pagó demasiado oro. Veamos en qué lo usan.
