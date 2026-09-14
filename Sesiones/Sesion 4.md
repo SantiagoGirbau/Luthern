@@ -53,6 +53,8 @@ Yo... Lo intenté en su momento... Pensé que podría... Estas bestias me quitar
 
 -Seguro cada uno de ustedes ha perdido algo o conoce a alguien que lo haya sufrido por culpa de estas malditas bestias. No hay nadie en este continente que pueda decir que no es así... Y no entiendo, por qué nadie hace nada!
 
+Silas les dio a cada [[Flawa|Aslan]] y [[Agustin|Hasta]]  una [[Piedras Fosforescentes|Piedra Fosforescente]] para alivianar sus síntomas de su encuentro con [[Ira]]  
+
 Tienen el día libre. Tengo cosas que hacer. Mañana tomaremos otra misión, esta vez lo discutiremos entre todos.
 
 Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "[[Stanley's Thermical Bottle]]" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
@@ -65,8 +67,6 @@ Dicen que solo fueron ellos 5 quienes enfrentaron a los [[Deambulante|Deambulant
 Seguramente contrataron mercenarios para usar de carnada!
 Quizás tenían acceso a algún arma mágica o alguna bendición como el príncipe...
 Los otros grupos deberán de apresurarse en mejorar si quieren alcanzarlos...
-
-Silasle
 
 Al día siguiente les darán la lista de misiones para elegir:
 
@@ -137,4 +137,4 @@ El Escondrijo RestoBar, ahi se juntan gente del llamado y la guardia
 
 - Tienen que tomar la difícil decisión de cuántas piedras arriesgarse a desconectar. Necesitan al menos 5 para la misión, pero quitar la quinta piedra inicia un colapso en ese sector de la ruina, amenazando con liberar una gran explosión de energía inestable (la misma que llevó a la destrucción de los antiguos).
     
-- Durante el escape, un derrumbe o un guardián bloquea la salida, creando el escenario perfecto para que Fiddle tenga su momento de redención: usar su creatividad o un hechizo clave para salvar al grupo en lugar
+- Durante el escape, un derrumbe o un guardián bloquea la salida, creando el escenario perfecto para que Fiddle tenga su momento de redención: usar su creatividad o un hechizo clave para salvar al grupo en lugar de huir.
