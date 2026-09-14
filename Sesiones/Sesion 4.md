@@ -88,6 +88,9 @@ Discutieron sobre qué misión aceptar
 
 Hasta debe dibujar runas, debo pasarle foto de las mismas
 
+"Siempre podemos correr!" Palabras que resonaron en la cabeza de Fiddle como recuerdos de sus amigos
+Y Palabras que resonaron en la cabeza de Edric, como recuerdos de un amigo, familiar pero desconocido.
+
 El Escondrijo RestoBar, ahi se juntan gente del llamado y la guardia
 
 
