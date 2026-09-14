@@ -66,9 +66,21 @@
               "icon": "lucide-file",
               "title": "Sesión 5"
             }
+          },
+          {
+            "id": "ca627503e5a3131e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Trina Corvo.png"
+              },
+              "icon": "lucide-image",
+              "title": "Trina Corvo"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -251,16 +263,19 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f38143897f806520",
+  "active": "f0490699a9331264",
   "lastOpenFiles": [
+    "Pasted image 20260802040252.png",
+    "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
+    "Trina Corvo.png",
+    "Sesiones/Sesión 1.md",
+    "Sesiones/Sesión 5.md",
     "Party/_Party.md",
     "Party/1Party.md",
     "Sesiones/Sesion 4.md",
-    "Sesiones/Sesión 5.md",
     "Objetos Hombrew/Objetos Mágicos/Consumibles/Mapas de las Ruinas.md",
     "Objetos Hombrew/Materiales/Piedras Fosforescentes.md",
     "Objetos Hombrew/Objetos Mágicos/Consumibles/Piedra de Calma.md",
-    "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
     "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
     "Las 8 Bestias Capitales/Soberbia.md",
@@ -277,12 +292,9 @@
     "Lugares/Tierras sin reclamar/Tribus/Dol'Gara/Dol'Gara.md",
     "Lugares/Reinos/Imperio Teocrático de Umnazia/Imperio Teocrático de Umnazia.md",
     "Mecánicas y Notas/Cocina.md",
-    "Objetos Hombrew/Objetos Mágicos/Otros/Stanley's Thermical Bottle.md",
-    "Agrupaciones y Gremios/Exploradores de Ruinas.md",
     "Objetos Hombrew/Objetos Mágicos/Otros",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Nedo",
     "Soberbia.png",
-    "Pasted image 20260802040252.png",
     "Lugares/Tierras sin reclamar/Tribus/Dok-momor",
     "Mecánicas y Notas/Notas",
     "Objetos Hombrew/Objetos Mágicos/Armas/Sin nombre",
@@ -299,7 +311,6 @@
     "zFotos/Silas Corvo.jpg",
     "Pasted image 20260805163914.png",
     "Pasted image 20260805163917.png",
-    "zFotos/Silas y Eris.png",
     "Sin título.canvas"
   ]
 }

@@ -22,3 +22,4 @@ Sigue teniendo problemas con el Alcohol.
 
 ![[Silas Corvo.jpg|352]]
 		Silas hoy, luego de arrglarse
+	
