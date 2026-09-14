@@ -1,1 +1,0 @@
-Otorga +1 a las tiradas de percepción por 4 horas.

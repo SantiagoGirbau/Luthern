@@ -64,10 +64,12 @@ La gente de vez en cuando los reconoce, habla en voz baja:
 
 Esos son... El grupo de Corvo? 
 No puedo creer que acabaran con deambulantes en tan poco tiempo...  
-Dicen que solo fueron ellos 5 quienes 
+Dicen que solo fueron ellos 5 quienes enfrentaron a los [[Deambulante|Deambulantes]] 
 Seguramente contrataron mercenarios para usar de carnada!
+Quizás tenían acceso a algún arma mágica o alguna bendición como el príncipe...
+Los otros grupos deberán de apresurarse en mejorar si quieren alcanzarlos...
 
-
+Al día siguiente les darán la lista de misiones para elegir:
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
@@ -77,4 +79,51 @@ Otras misiones para luego:
 - Lidiar con bandidos que han estado robando caravanas provenientes de [[Imperio Teocrático de Umnazia|Umnazia]]. 2 puntos.
 
 
+Eligen seguro la de investigar la Ruina.
 
+
+Shit de la IA
+
+### Boceto de Sesión: Ecos de la Civilización Olvidada
+
+**1. El Viaje y la Paranoia (Foco en Fiddle y Jengibre)**
+
+- La expedición debe adentrarse en el Bosque Frontera, donde se encuentran principalmente los restos de esta antigua civilización.
+    
+- **La carga del mapa:** Fiddle debe guiar al grupo con extremo cuidado, ya que los mapas hacia las ruinas no se pueden copiar y se ponen en blanco si tienen tinta o papel cerca. Su adicción al café lo tendrá con los nervios de punta, especialmente al notar que el terreno se le hace familiar.
+    
+- **Territorio Napi:** Al entrar al bosque, Jengibre reconoce marcas territoriales de su tribu o señales de los invasores que los obligaron a retroceder hasta allí. Esto establece una tensión inmediata: están invadiendo el refugio de su gente.
+    
+- **El fantasma del pasado:** A mitad de camino, Fiddle encuentra restos de su antigua expedición a Thes’Burrow (quizás una flecha o un objeto inconfundible de su mejor amigo, Bucker). El grupo debe decidir si acampar cerca de donde atacó Avaricia, obligando a Fiddle a lidiar con el terror de quedarse dormido.
+    
+
+**2. La Llegada y la Verdadera Naturaleza de las Ruinas (Foco en la Tecnomagia)**
+
+- Al llegar a la ubicación exacta, el mapa de Fiddle reacciona a la energía del lugar y desaparece como un scroll consumido.
+    
+- La entrada no es una cueva de piedra común. Revela que la Civilización Olvidada había logrado integrar la magia a circuitos tecnológicos. Las paredes zumban suavemente.
+    
+- **Las Piedras Fosforescentes:** El grupo descubre que estas piedras no son simples rocas, sino fuentes de energía casi infinitas desarrolladas por los antiguos. Están integradas en la maquinaria de las ruinas como baterías o núcleos de contención.
+    
+
+**3. El Eco de la Ira (Foco en Hasta y Kae'lan)**
+
+- Para extraer las 5 piedras solicitadas, deben desconectar ciertos circuitos. Al quitar la primera piedra, un proyector holográfico o un cristal de memoria se enciende, mostrando registros de los antiguos.
+    
+- Los registros detallan experimentos con la radiación de las piedras para suprimir los efectos de las Bestias Capitales. En la grabación, se ve claramente la silueta de un hombre encorvado, hecho de piedra, irradiando dolor puro.
+    
+- **El trauma compartido:** Esta es exactamente la misma figura petrificada que apareció antes de la masacre en la tribu Dol'Gara de Kae'lan y la misma figura que partió el árbol central en la tribu de Hasta. La sola imagen de la proyección provoca un zumbido agudo y ecos de los susurros ("el fuego quema...") que Kae'lan escuchó ese día. Ambos jugadores se dan cuenta de que están frente a la imagen del Pecado de la Ira.
+    
+
+**4. El Despertar de los Guardianes (Foco en Edric)**
+
+- Extraer más piedras desestabiliza la instalación. Los mecanismos de defensa se activan: autómatas o quimeras tecnológicas que funcionan con energía nigromántica (quizás un remanente del poder de la Reina Xy'zarat).
+    
+- **La conexión de Kord'ac:** Al iniciar el combate, Edric siente una reacción visceral. El espíritu de Kord'ac reconoce esta magia, similar a la energía de muerte del dragón esquelético que revivió a los cadáveres en el bosque. Los brazos rojos y tatuados de Kord'ac se manifiestan, incitando a Edric a destruir la maquinaria que profana el ciclo de la vida.
+    
+
+**5. El Clímax: Extracción y Escape**
+
+- Tienen que tomar la difícil decisión de cuántas piedras arriesgarse a desconectar. Necesitan al menos 5 para la misión, pero quitar la quinta piedra inicia un colapso en ese sector de la ruina, amenazando con liberar una gran explosión de energía inestable (la misma que llevó a la destrucción de los antiguos).
+    
+- Durante el escape, un derrumbe o un guardián bloquea la salida, creando el escenario perfecto para que Fiddle tenga su momento de redención: usar su creatividad o un hechizo clave para salvar al grupo en lugar de huir.
