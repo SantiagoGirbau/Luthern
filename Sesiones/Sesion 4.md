@@ -53,9 +53,6 @@ Yo... Lo intenté en su momento... Pensé que podría... Estas bestias me quitar
 
 -Seguro cada uno de ustedes ha perdido algo o conoce a alguien que lo haya sufrido por culpa de estas malditas bestias. No hay nadie en este continente que pueda decir que no es así... Y no entiendo, por qué nadie hace nada!
 
--Mi hija y mi esposa... Sonaron las trompetas en el cielo... En ese momento, no sabía lo que significaba... Nadie se tomó el trabajo de hacer pública esa información...
-Corrí hacia ellas, tan rápido como pude, no pueden haber pasado más de 40 segundos... Quise levantarlas y correr hacia el bosque, pero en lugar de hacer eso, cuando llegué a ellas les rebané la garganta con mi espada... Mi hija menor estaba en la escuela, quise tratar de encontrarla, maté a tanta gente... Tantos... inocentes. [[Ira]] es la culpable, si no fuese por [[Reino de Bigzha|Bigzha]] que pasaba por mi pueblo natal luego de una cruzada, habría asesinado a mi otra hija... Pero él puso un escudo mágico sobre la escuela, salvó a todos los niños... Le debo... Mi todo... Dice tocándose la cara áspera de la barba descuidada...
-
 Tienen el día libre. Tengo cosas que hacer. Mañana tomaremos otra misión, esta vez lo discutiremos entre todos.
 
 Marina ha seguido el consejo de Fiddle, ahora vende un objeto mágico llamado "[[Stanley's Thermical Bottle]]" Debido a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
@@ -69,13 +66,9 @@ Seguramente contrataron mercenarios para usar de carnada!
 Quizás tenían acceso a algún arma mágica o alguna bendición como el príncipe...
 Los otros grupos deberán de apresurarse en mejorar si quieren alcanzarlos...
 
+Silasle
+
 Al día siguiente les darán la lista de misiones para elegir:
-
-Van a un herrero, llegan a Noria al norte de [[Bohsse]] y se encuentran con ella, tienen 3 hijos, 2 varones 1 ninña ella es una raza rara como alfoide pero de pelo blanco y ojos blancos, el parece humano pero no es. sus hijos se prenden a ellos como abrojos
-
-Silas les presentó a su hija Trina, 
-
-Hasta debe dibujar runas, debo pasarle foto de las mismas
 
 Otras misiones para luego:
 - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos
@@ -84,10 +77,21 @@ Otras misiones para luego:
 - Cazar goblins y trolls en el [[El Bosque Frontera|Bosque Umbrío]] y desarmar un asentamiento 2 puntos.
 - Lidiar con bandidos que han estado robando caravanas provenientes de [[Imperio Teocrático de Umnazia|Umnazia]]. 2 puntos.
 
-
 Eligen seguro la de investigar la Ruina.
 
+Van a al herrero, llegan a Noria (Herrera) bajo recomendación de Silas al norte de [[Bohsse]] y se encuentran con ella, tienen 3 hijos, 2 varones 1 niña ella es una raza rara como efloide pero de pelo blanco y ojos blancos, el parece humano pero no es. sus hijos se prenden a ellos como abrojos
+
+Silas les presentó a su hija Trina, Ahora arreglado y con el equipo en buen estado.
+
+
+Discutieron sobre qué misión aceptar
+
+Hasta debe dibujar runas, debo pasarle foto de las mismas
+
 El Escondrijo RestoBar, ahi se juntan gente del llamado y la guardia
+
+
+
 
 ||Shit de la IA||
 
@@ -133,4 +137,4 @@ El Escondrijo RestoBar, ahi se juntan gente del llamado y la guardia
 
 - Tienen que tomar la difícil decisión de cuántas piedras arriesgarse a desconectar. Necesitan al menos 5 para la misión, pero quitar la quinta piedra inicia un colapso en ese sector de la ruina, amenazando con liberar una gran explosión de energía inestable (la misma que llevó a la destrucción de los antiguos).
     
-- Durante el escape, un derrumbe o un guardián bloquea la salida, creando el escenario perfecto para que Fiddle tenga su momento de redención: usar su creatividad o un hechizo clave para salvar al grupo en lugar de huir.
+- Durante el escape, un derrumbe o un guardián bloquea la salida, creando el escenario perfecto para que Fiddle tenga su momento de redención: usar su creatividad o un hechizo clave para salvar al grupo en lugar
