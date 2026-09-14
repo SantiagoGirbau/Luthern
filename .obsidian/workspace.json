@@ -68,15 +68,17 @@
             }
           },
           {
-            "id": "ca627503e5a3131e",
+            "id": "be6f169ab9453a95",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Trina Corvo.png"
+                "file": "Sesiones/Sesión 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Trina Corvo"
+              "icon": "lucide-file",
+              "title": "Sesión 1"
             }
           }
         ],
@@ -265,14 +267,15 @@
   },
   "active": "f0490699a9331264",
   "lastOpenFiles": [
-    "Pasted image 20260802040252.png",
-    "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
-    "Trina Corvo.png",
-    "Sesiones/Sesión 1.md",
-    "Sesiones/Sesión 5.md",
-    "Party/_Party.md",
-    "Party/1Party.md",
     "Sesiones/Sesion 4.md",
+    "Party/_Party.md",
+    "Sesiones/Sesión 5.md",
+    "Agrupaciones y Gremios/Mentores de Bigss/Silas Corvo.md",
+    "zFotos/Trina Corvo.png",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo",
+    "Pasted image 20260802040252.png",
+    "Sesiones/Sesión 1.md",
+    "Party/1Party.md",
     "Objetos Hombrew/Objetos Mágicos/Consumibles/Mapas de las Ruinas.md",
     "Objetos Hombrew/Materiales/Piedras Fosforescentes.md",
     "Objetos Hombrew/Objetos Mágicos/Consumibles/Piedra de Calma.md",
@@ -303,7 +306,6 @@
     "Objetos Hombrew/Objetos Mágicos/Armas",
     "Objetos Hombrew/Objetos Mágicos",
     "Cocina",
-    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS",
     "zFotos/Soberbia.png",
     "zFotos/Alguna Mujer de armadura.png",
     "zFotos/Harpía del Mar Dulce.png",

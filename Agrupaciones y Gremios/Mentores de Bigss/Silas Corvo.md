@@ -22,4 +22,6 @@ Sigue teniendo problemas con el Alcohol.
 
 ![[Silas Corvo.jpg|352]]
 		Silas hoy, luego de arrglarse
-	
+
+![[Trina Corvo.png]]
+						Trina Corvo Hoy en Día.
