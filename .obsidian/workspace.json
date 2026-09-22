@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Panteón Menor/El Sabio del Bosque.md",
+                "file": "Panteón Menor/Goradel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El Sabio del Bosque"
+              "title": "Goradel"
             }
           }
         ],
@@ -267,8 +267,8 @@
   },
   "active": "ccbe545c12f4f4da",
   "lastOpenFiles": [
-    "Party/Agustin.md",
     "Panteón Menor/El Sabio del Bosque.md",
+    "Party/Agustin.md",
     "Party/Ari.md",
     "Sesiones/Sesion 4.md",
     "Sesiones/Sesión 5.md",
