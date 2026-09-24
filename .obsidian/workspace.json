@@ -240,14 +240,57 @@
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
             }
+          },
+          {
+            "id": "3d400aab78642bbd",
+            "type": "leaf",
+            "state": {
+              "type": "ttrpg-soundboard-view",
+              "state": {
+                "activeSlot": "A"
+              },
+              "icon": "music",
+              "title": "Soundboard"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
+      },
+      {
+        "id": "185b8c91ed82ef52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b3af74e2eaa6a2a",
+            "type": "leaf",
+            "state": {
+              "type": "ttrpg-soundboard-nowplaying",
+              "state": {},
+              "icon": "music-2",
+              "title": "Now playing"
+            }
+          }
+        ]
+      },
+      {
+        "id": "07e961c21ab4d583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2213d1320e63f7ad",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
