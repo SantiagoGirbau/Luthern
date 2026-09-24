@@ -11,8 +11,8 @@ tags:
 Estado: Terminado
 ---
 **
-Broc'kuhn = Sangre diluída
-### Leyenda de los [[Dol'Gara]]:
+Broc-kuhn = Sangre diluída
+### Leyenda de los [[Dol-Gara]]:
 (Dol=Descendientes)
 
 En la primera leyenda, antes de que los continentes tuvieran los nombres de hoy, existió un vínculo que desafió el mismísimo orden natural de las cosas, el amor entre un mortal y un dios. Nuestro fundador, Gara, nació en las distantes y mitológicas tierras del gran Sol, tierras prósperas donde la dorada luz del sol acaricia cálidamente a todos sus habitantes. Y entre esos habitantes había una diosa, maestra de los elementos, poseía una prístina piel que rivalizaba al más duro de los aceros, su voz invocaba sismos, portaba unos ojos que eran pozos eternos de radiante energía y su presencia cargaba con el peso de mil montañas. 
@@ -32,4 +32,7 @@ A aquellos que portaban el poder de las runas y de los dragones se les apodó co
 Eso fue lo que me contó el abuelo Aren’Ka el día que nació mi hermana…
 
   
-**
+...
+
+
+Hoy en día los [[Dol-Gara]] aún prospera, [[Ahl-Broc]] y [[Dol-Gara]]. Recientemente [[Ahl-Broc]] fue devastada por Gula. Ahora los pocos sobrevivientes de ambas tribus. (Gente que estaba de viaje o cazando durante los ataques) reconstruyen la ciudad a ritmo constante y muy bien.

@@ -20,7 +20,7 @@ Planea formar parte de una [[Tribus Aborígenes|Tribu]]
 
 ### Kae’lan
 
-Durante sus primeros seis años, el nombre Kae’lan resonaba como un cántico de esperanza entre los miembros de los [[Dol'Gara]] . El era el orgullo de su padre El’Kar, el jefe de la tribu, y un prodigio cuya luz prometía convertirse en el futuro de su pueblo. 
+Durante sus primeros seis años, el nombre Kae’lan resonaba como un cántico de esperanza entre los miembros de los [[Dol-Gara]] . El era el orgullo de su padre El’Kar, el jefe de la tribu, y un prodigio cuya luz prometía convertirse en el futuro de su pueblo. 
 
 Pero el destino es un escritor implacable con hambre de historias interesantes. En su séptimo cumpleaños, el nacimiento de su hermana menor fracturó la realidad de Kae’lan.
 

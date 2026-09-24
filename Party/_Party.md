@@ -13,4 +13,4 @@ Nota para self: El alma de [[Bucker Tropp]] se encuentra dentro de [[Pado|Edric]
 Theodor les cubrió la mitad del viaje a [[Eleandale]] y ahora deben llevarle 5-6 botellas de agua mágica de la laguna de [[Eleandale]] 
 
 La familia de [[Flawa|Aslan]] Está toda muerta, su hermana la enterró en un claro cerca de donde era la tribu.
-Su tribu ahora 
+Ver [[Dol-Gara]] 
