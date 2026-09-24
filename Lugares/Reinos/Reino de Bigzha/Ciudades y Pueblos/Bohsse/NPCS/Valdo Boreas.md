@@ -3,6 +3,7 @@ aliases:
 tags:
   - NPC
   - Tienda
+  - Lugar
 Estado: Terminado
 ---
 Herrero al lado del [[Dolce Marina]], se especializa en cosas chiquitas, goliath gigante con monóculo.
