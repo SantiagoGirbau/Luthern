@@ -66,35 +66,9 @@
               "icon": "lucide-file",
               "title": "Sesión 5"
             }
-          },
-          {
-            "id": "91d6bbbb4b3b379c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zFotos/Valdo Stanley.png"
-              },
-              "icon": "lucide-image",
-              "title": "Valdo Stanley"
-            }
-          },
-          {
-            "id": "64786141eba20699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aries de Corvo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aries de Corvo"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -277,9 +251,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "64786141eba20699",
+  "active": "f38143897f806520",
   "lastOpenFiles": [
     "zFotos/Valdo Stanley.png",
+    "Las 8 Bestias Capitales/Lujuria.md",
+    "Pasted image 20260924200218.png",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aries de Corvo.md",
     "zFotos/Marina Cofmak.png",
     "Pasted image 20260924194605.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Marina Cofmak.md",
@@ -299,7 +276,6 @@
     "Lugares/Tierras sin reclamar/Tribus/Napi.md",
     "Lugares/Tierras sin reclamar/Tribus/Dol-Gara/Dol-Gara.md",
     "Lugares/Tierras sin reclamar/Tribus/Ahl-Broc/Ahl-Broc.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aries de Corvo.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Noria de Crolly.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Silas Corvo.md",
     "zFotos/Aries de Corvo.jpg",
@@ -307,13 +283,11 @@
     "Party/Vale.md",
     "zFotos/Silas Corvo.jpg",
     "zFotos/Silas y Eris.png",
-    "zFotos/Statblock Harpía.png",
     "Panteón Menor/Goradel.md",
     "Panteón Menor/El Sabio del Bosque.md",
     "Party/Agustin.md",
     "Party/Ari.md",
     "Sesiones/Sesión 2.md",
-    "Sesiones/Sesión 3.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo",
     "Objetos Hombrew/Objetos Mágicos/Otros",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Nedo",
