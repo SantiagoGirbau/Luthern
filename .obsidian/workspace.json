@@ -73,30 +73,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Flawa.md",
+                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Valdo Stanley.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flawa"
-            }
-          },
-          {
-            "id": "dab9331038d655dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lyra Torie"
+              "title": "Valdo Stanley"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -279,14 +265,17 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "dab9331038d655dd",
+  "active": "2f4fabb81ed31aa9",
   "lastOpenFiles": [
-    "zFotos/Lyra Torie.png",
+    "Party/Flawa.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Marina Cofmak.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Valdo.md",
+    "Sesiones/Sesión 5.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Valdo Stanley.md",
+    "zFotos/Lyra Torie.png",
     "Pasted image 20260924184311.png",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
-    "Sesiones/Sesión 5.md",
-    "Party/Flawa.md",
     "Panteón/Targos.md",
     "Sesiones/Sesion 4.md",
     "Party/_Party.md",
@@ -295,7 +284,6 @@
     "Lugares/Tierras sin reclamar/Tribus/Ahl-Broc/Ahl-Broc.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aries de Corvo.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Noria de Crolly.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Valdo Boreas.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Silas Corvo.md",
     "zFotos/Aries de Corvo.jpg",
     "zFotos/Pasted image 20260802040252.png",
@@ -316,7 +304,6 @@
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo",
     "Party/1Party.md",
     "Objetos Hombrew/Objetos Mágicos/Consumibles/Mapas de las Ruinas.md",
-    "Objetos Hombrew/Materiales/Piedras Fosforescentes.md",
     "Objetos Hombrew/Objetos Mágicos/Otros",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Nedo",
     "Lugares/Tierras sin reclamar/Tribus/Dok-momor",
