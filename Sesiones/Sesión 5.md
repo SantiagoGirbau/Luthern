@@ -9,3 +9,8 @@ Discutieron sobre qué misión aceptar
 Hasta debe dibujar runas, debo pasarle foto de las mismas
 
 El Escondrijo RestoBar, ahi se juntan gente del llamado y la guardia
+
+El puntaje de los grupos que atienden al llamado se publica en un boletín todos los días
+
+---
+
