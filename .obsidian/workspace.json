@@ -73,16 +73,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aries de Corvo.md",
+                "file": "Party/Flawa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aries de Corvo"
+              "title": "Flawa"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,10 +265,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "2f4fabb81ed31aa9",
+  "active": "86832ec67cd49e5c",
   "lastOpenFiles": [
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Noria de Crolly.md",
+    "Party/Flawa.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aries de Corvo.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Noria de Crolly.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Valdo Boreas.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Silas Corvo.md",
     "Sesiones/Sesion 4.md",
@@ -284,7 +285,6 @@
     "zFotos/Fiddle1.png",
     "zFotos/Familia Dirtypaws.png",
     "zFotos/1 Soberbia.png",
-    "Party/Flawa.md",
     "Panteón Menor/Goradel.md",
     "Panteón Menor/El Sabio del Bosque.md",
     "Party/Agustin.md",
