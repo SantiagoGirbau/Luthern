@@ -39,8 +39,4 @@ Estos son los generales y mentores que [[Biggsa|Biggsa el Grande]] convocó para
 - **Backstory:** Thorne fue criado en las sombras, entrenado desde niño en el arte del asesinato y el espionaje. Su lealtad no es a un rey o a una religión, sino a su propio código de honor y a quien pueda pagar sus servicios. Bigssa lo contrató no por su moralidad, sino por su eficiencia letal. Thorne cree que la victoria contra las Bestias no se logrará con honor o fe, sino con astucia, engaño y un golpe certero en la oscuridad. Entrena a sus pupilos en las artes de la infiltración, el sabotaje y el asesinato.
     
 
-**6. Lyra su grupo se llama "Susurro del Mar" (Mujer)** - Clerigo que descursea armas y lider de un grupo con 2 puntos
-
-- **Descripción:** Una mujer de aspecto desaliñado pero intrigante, con ropa holgada y desgastada por la salitre, como si acabara de bajar de un barco que lleva meses en alta mar. Su cabello oscuro y rizado siempre parece húmedo, y sus ojos, de un profundo azul marino, están llenos de un cansancio crónico, pero también de una chispa de picardía. Lleva un tridente ornamentado y un cinturón lleno de extrañas pociones y frascos.
-    
-- **Backstory:** Lyra fue alguna vez una prometedora estudiosa de los misterios del Mar Dulce, fascinada por sus profundidades y las criaturas que lo habitan. Sin embargo, su obsesión la llevó a experimentar con fuerzas que no comprendía del todo, resultando en un desastre que le costó su posición en la academia y casi su cordura. Poco después encontró la salvación en la fé. La iglesia
+**6. [[Lyra Torie]] (Susurro del Mar) su grupo se llama "Susurro del Mar" en honor a ella (Mujer)** 
