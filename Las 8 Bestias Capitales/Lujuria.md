@@ -14,7 +14,8 @@ Estado: Terminado
 
 Lujuria adopta una forma marcadamente femenina, de una belleza hipnótica y profundamente sugerente. Su presencia exuda un aura inherentemente sexual y magnética, encarnando el deseo en su estado más puro. Viste con una elegancia seductora, utilizando su atractivo físico para cautivar a quienes la buscan, aunque su mirada posee una quietud calculadora y vacía que delata su naturaleza inhumana.
 
-![[Pasted image 20260924200218.png]]
+![[Pasted image 20260924212550.png]]
+
 ### Comportamiento y El Juego
 
 Lujuria aparece ante aquellos que están consumidos por un deseo abrumador (revivir a un ser amado, obtener poder infinito, ganar una guerra). Se presenta de forma educada y ofrece un trato: un juego de azar o de intelecto (cartas, dados, ajedrez), donde la dificultad es directamente proporcional a la magnitud del milagro solicitado. Si el retador es considerado "digno" y gana, Lujuria concede el deseo sin trucos ni engaños.
