@@ -59,8 +59,17 @@ Deben discutir qué misión aceptarán
 Escribir indicaciones del mapa.
 
 El mapa dice;
-- Entrar al Bosque.
+- Entrar al Bosque. Por la puerta de Bohsee
 - Caminar hacia el Norte.
+- En la encrucijada de la montaña Ternoma tomar la derecha
+- Encontrar la piedra con forma de perro.
+- Subirse a la piedra con forma de perro.
+- Localizar desde la cima de la piedra, al Árbol Mayor más cercano.
+- Dirigirse al Árbol Mayor.
+- En el Árbol Mayor, buscar las picas de escalada que dejó el gremio.
+- Trepar al Árbol Mayor
+- Desde la cima del Árbol Mayor, se puede ver las ruinas.
+- Sin mirar atrás en ningún momento
 
 
 ||Shit de la IA||
