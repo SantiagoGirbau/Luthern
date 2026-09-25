@@ -71,14 +71,12 @@
             "id": "e987bd3c92ec8806",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aries de Corvo.md",
-                "mode": "source",
-                "source": false
+                "file": "zFotos/Aries de Corvo2.png"
               },
-              "icon": "lucide-file",
-              "title": "Aries de Corvo"
+              "icon": "lucide-image",
+              "title": "Aries de Corvo2"
             }
           }
         ],
@@ -116,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lira",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,8 +138,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -309,11 +306,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "e987bd3c92ec8806",
+  "active": "f0490699a9331264",
   "lastOpenFiles": [
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aries de Corvo.md",
+    "zFotos/Aries de Corvo2.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Silas Corvo.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Trina Corvo.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aries de Corvo.md",
     "Sesiones/Sesión 5.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
@@ -334,7 +332,6 @@
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/José Jose.md",
     "biggsa.png",
     "Lugares/Reinos/Reino de Bigzha/Realeza/Biggsa.md",
-    "zFotos/4 Avaricia.png",
     "Las 8 Bestias Capitales/Avaricia.md",
     "Las 8 Bestias Capitales/Pereza.md",
     "Panteón Menor/El Sabio del Bosque.md",
@@ -348,7 +345,6 @@
     "Las 8 Bestias Capitales/Lujuria.md",
     "Mecánicas y Notas/Cocina.md",
     "Mecánicas y Notas/Títulos de nivel.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Marina Cofmak.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo",
     "Objetos Hombrew/Objetos Mágicos/Otros",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Nedo",

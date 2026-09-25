@@ -11,3 +11,6 @@ Esposa De [[Silas Corvo]]. Fue asesinada durante el Ataque de Ira al pueblo de S
 ![[Aries de Corvo.jpg]]
 			 Aries antes del ataque
 ||Aries sigue con vida y forma parte de una agrupación que se dedica a estorbar a las Bestias, evacuar gente de ataques de Ira y estudiar el comportamiento de cada bestia. No ha vuelto a buscar a Silas porque piensa que ha muerto junto con todo el resto de su familia. Siempre viste casco debido a una marca (Secuela de Ira) que le quedó del ataque.||
+
+![[Aries de Corvo2.png]]
+							Aries Hoy.
