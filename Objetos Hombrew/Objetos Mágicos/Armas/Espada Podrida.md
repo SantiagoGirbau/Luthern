@@ -8,9 +8,13 @@ tags:
 Estado: Terminado
 ---
 [[Objeto Mágico]] 
-_Arma (espada larga), poco común_
+_Arma (espada larga), Raro_
 Bonificador de +1 al ataque.
-Daño: 1d8 Cortante +1d4 Necrótico 
+Daño: 1d8 Cortante
+
+Esta espada posee 5 cargas que se recargan a medianoche. Puedes gastar estas cargas para:
+- Al realizar un ataque, antes de saber el resultado del mismo, puedes gastar una carga como acción gratis, para sumar 1d4 de daño necrótico al ataque.
+- Puedes usar una acción extra para gastar 3 cargas y mutar por 2 turnos la carne podrida del arma, convirtiéndola en una Greatsword con la característica de Light (Puede ser usada con una mano). Modificando así su daño a 2d6.
 
 _La hoja de la espada está picada por un deterioro similar al óxido, sin embargo, el acero subyacente brilla con un temple extrañamente vivaz. Un tenue resplandor verdoso emana a lo largo del filo, y un olor persistente, dulzón 
 

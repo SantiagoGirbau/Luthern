@@ -73,20 +73,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Vale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vale"
-            }
-          },
-          {
-            "id": "20b834b38a405f1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Objetos Hombrew/Objetos Mágicos/Armas/Fémur.md",
                 "mode": "source",
                 "source": false
@@ -94,23 +80,9 @@
               "icon": "lucide-file",
               "title": "Fémur"
             }
-          },
-          {
-            "id": "6326dc1b0fe9e3b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objetos Hombrew/Objetos Mágicos/Armas/Tendón.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tendón"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -336,12 +308,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "20b834b38a405f1e",
+  "active": "f0490699a9331264",
   "lastOpenFiles": [
-    "Objetos Hombrew/Objetos Mágicos/Armas/Tendón.md",
-    "Objetos Hombrew/Objetos Mágicos/Armas/Fémur.md",
     "Party/Vale.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
+    "Objetos Hombrew/Objetos Mágicos/Armas/Tendón.md",
+    "Objetos Hombrew/Objetos Mágicos/Armas/Fémur.md",
     "Sesiones/Sesión 5.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Arco de Carroña.md",
     "Objetos Hombrew/Objetos Mágicos/Otros/Stanley's Thermical Bottle.md",
