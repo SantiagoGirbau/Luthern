@@ -8,6 +8,7 @@ tags:
   - Cocina
 Estado: Pobre
 ---
+[[Objetos Hombrew/Cocina/Ingredientes/Ingredientes Especiales|Ingrediente]] 
 **Buffo:** 
 Detiene permanentemente el deterioro de la comida. 
 **Debuffo:**

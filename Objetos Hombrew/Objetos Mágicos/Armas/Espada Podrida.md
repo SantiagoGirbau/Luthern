@@ -7,7 +7,7 @@ tags:
   - Objeto
 Estado: Terminado
 ---
-
+[[Objeto Mágico]] 
 _Arma (espada larga), poco común_
 Bonificador de +1 al ataque.
 Daño: 1d8 Cortante +1d4 Necrótico 

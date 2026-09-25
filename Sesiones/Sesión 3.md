@@ -2,6 +2,7 @@
 aliases:
 tags:
   - Sesión
+  - Lore
 Estado:
 ---
 ## Bo-Bore

@@ -7,6 +7,7 @@ tags:
   - Objeto
 Estado: Pobre
 ---
+[[Objeto Mágico]] 
 _Objeto maravilloso, común (30 po)_
 
 Un robusto recipiente cilíndrico de metal esmaltado, sellado mágicamente al vacío. Tiene capacidad para albergar hasta 1,5 litros (6 tazas o raciones) de cualquier líquido. Su nombre se debe a que [[Valdo Stanley]] es el herrero que lo hizo en base a la idea de maría.
