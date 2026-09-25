@@ -13,7 +13,7 @@ El **Sindicato de Bienestar Soberano (SIBISO)** es una organización oficial y b
 ### La Cúpula (Mesa Directiva)
 - **Ministro Valerius Thorne:** Director General del SIBISO. Un burócrata implacable y antiguo estratega que valora el orden por encima de la moral.
 - **Lady Carmilla Vance:** Alta Auditora. Controla las arcas del Sindicato, el flujo de oro y decide qué amenazas son prioritarias para publicarse en los boletines.
-- **Kaelen "El Muro" Rost:** Comandante de Sindicato. Un guerrero retirado (rango Rey de Cuarta) que audita y regula a los aventureros de mayor nivel para asegurar que no se rebelen contra la corona.
+- **Kael "El Muro" Rost:** Comandante de Sindicato. Un guerrero retirado (rango Rey de Cuarta) que audita y regula a los aventureros de mayor nivel para asegurar que no se rebelen contra la corona.
 
 ### Miembros y Operativos Notables
 - **Vanessa Posé:** Supervisora de Contratos. De carácter formal y estricto, es el enlace administrativo del grupo de Corvo.

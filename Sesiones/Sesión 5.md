@@ -58,8 +58,7 @@ Deben discutir qué misión aceptarán
 
 Escribir indicaciones del mapa.
 
-El mapa dice;
-
+El mapa dice:
 
 - Entrar al Bosque. Por la puerta de Bohsee
 - Caminar hacia el Norte.
