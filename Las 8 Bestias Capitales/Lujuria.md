@@ -14,7 +14,7 @@ Estado: Terminado
 
 Lujuria adopta una forma marcadamente femenina, de una belleza hipnótica y profundamente sugerente. Su presencia exuda un aura inherentemente sexual y magnética, encarnando el deseo en su estado más puro. Viste con una elegancia seductora, utilizando su atractivo físico para cautivar a quienes la buscan, aunque su mirada posee una quietud calculadora y vacía que delata su naturaleza inhumana.
 
-![[Pasted image 20260924212550.png]]
+![[Lujuria.png]]
 
 ### Comportamiento y El Juego
 
