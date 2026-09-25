@@ -71,13 +71,11 @@
             "id": "bf2cffb70cf5321a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Vanessa Posé.md",
-                "mode": "source",
-                "source": false
+                "file": "Vanessa Posé.png"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-image",
               "title": "Vanessa Posé"
             }
           }
@@ -310,8 +308,9 @@
   },
   "active": "bf2cffb70cf5321a",
   "lastOpenFiles": [
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Vanessa Posé.md",
+    "Vanessa Posé.png",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
     "Sesiones/Sesión 5.md",
     "Sesiones/Sesión 3.md",
     "zFotos/Lujuria2.png",
@@ -345,9 +344,7 @@
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Marina Cofmak.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Valdo Stanley.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Valdo.md",
-    "Party/Flawa.md",
     "zFotos/Lyra Torie.png",
-    "Pasted image 20260924184311.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo",
     "Objetos Hombrew/Objetos Mágicos/Otros",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Nedo",
