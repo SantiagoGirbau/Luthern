@@ -66,9 +66,23 @@
               "icon": "lucide-file",
               "title": "Sesión 5"
             }
+          },
+          {
+            "id": "8874a809c4e6346a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objetos Hombrew/Objetos Mágicos/Armas/Tendón.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tendón"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -294,12 +308,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f38143897f806520",
+  "active": "8874a809c4e6346a",
   "lastOpenFiles": [
     "Objetos Hombrew/Objetos Mágicos/Armas/Fémur.md",
+    "Sesiones/Sesión 5.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Tendón.md",
-    "Sesiones/Sesión 5.md",
     "Party/Vale.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Arco de Carroña.md",
     "Objetos Hombrew/Objetos Mágicos/Otros/Stanley's Thermical Bottle.md",
