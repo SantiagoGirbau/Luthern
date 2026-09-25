@@ -74,7 +74,7 @@ Mientras que un monje de nivel 10 es considerado Rey Monje de Segunda categoría
 | **Nivel 12**       | Rey de Cuarta categoría        | El pináculo de lo que el sistema convencional puede entrenar.                                           |
 | **Nivel 13**       | Emperador de Primera categoría | El primer paso fuera de los límites humanos; sus hazañas son difíciles de creer.                        |
 | **Nivel 14**       | Emperador de Segunda categoría | Un grupo de ellos es capaz de decidir el curso de una guerra.                                           |
-| **Nivel 15**       | Emperador de Tercera categoría | Desafía las reglas de física, la vida y la muerte.                                                      |
+| **Nivel 15**       | Emperador de Tercera categoría | Desafía las reglas de la física, la vida y la muerte.                                                   |
 | **Nivel 16**       | Emperador de Cuarta categoría  | Un maestro absoluto de su arte; casi intocable por medios normales.                                     |
 | **Nivel 17**       | Dios de Primera categoría      | Poder de escala continental. Capaz de cambiar el curso de una guerra por sí solo.                       |
 | **Nivel 18**       | Dios de Segunda categoría      | Fuerza abrumadora capaz de allanar montañas y limpiar bosques.                                          |
