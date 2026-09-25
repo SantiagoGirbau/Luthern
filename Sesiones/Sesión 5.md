@@ -27,21 +27,14 @@ Al despertarse todos, a pesar de que algunos han descansado de mala manera, se s
 
 Encuentran una nota deslizada debajo de la puerta.
 
-
 > [!NOTE] A la atención del grupo bajo la tutela de Silas Corvo:
 >> Es de mi agrado informarles que, debido a su reciente hazaña, el Sindicato de Bienestar Soberano ha decidido otorgar a todos sus miembros el título de **Avanzado de Primera categoría** en sus respectivas disciplinas.
 >> 
->> Aprovecho esta carta para presentarme. Mi nombre es Vanessa Posé y seré su nueva **Gestora de Contratos**. De ahora en adelante, yo me encargaré de asignarles sus misiones y supervisar sus progresos.
->> Por último, el SIBISO les exige que decidan un nombre oficial para su compañía. Un grupo de su calibre ya no puede figurar en nuestros registros simplemente como "el grupo de Corvo". Necesitan un nombre a la altura de sus logros.
+>> Aprovecho esta carta para presentarme. Mi nombre es Vanessa Posé y se me ha designado como su **Supervisora de contratos**. De ahora en adelante, mi trabajo consistirá en brindarles el boletín de misiones actualizado y realizar los controles y papeleo para la entrega de sus recompensas y puntos.
+>> Por último, el SIBISO les recomienda encarecidamente que decidan un nombre altura de sus logros para su compañía.
 >> Atentamente,
->> **Vanessa Posé**, _Gestora de Delegada de grupo de Bienestar Soberano._
+>> **Vanessa Posé**, _Supervisora de grupos del Sindicato de Bienestar Soberano._
 
-
-
-
-
-
-> Atte: Vanessa Posé
 
 
 
