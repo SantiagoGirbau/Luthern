@@ -29,7 +29,7 @@ Encuentran una nota deslizada debajo de la puerta.
 
 
 > [!NOTE] Reconocimiento al grupo de Corvo
-> Es de mi agrado informarles
+> Es de mi agrado informarles que debido a la reciente hazaña realizada por el grupo corvo, el Sindicado de Bienestar Soberano ha decidido otorgarles el título de Avanzado de Primera categoría a todo
 
 
 

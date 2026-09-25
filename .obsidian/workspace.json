@@ -68,15 +68,17 @@
             }
           },
           {
-            "id": "9c2c858288ecd078",
+            "id": "b3b6edfeff37221a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Lujuria.png"
+                "file": "Sesiones/Sesión 5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Lujuria"
+              "icon": "lucide-file",
+              "title": "Sesión 5"
             }
           }
         ],
@@ -114,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "marina",
+                "query": "sindica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +140,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -306,8 +309,9 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "9c2c858288ecd078",
+  "active": "b3b6edfeff37221a",
   "lastOpenFiles": [
+    "Lujuria.png",
     "biggsa.png",
     "Lugares/Reinos/Reino de Bigzha/Realeza/Biggsa.md",
     "Sesiones/Sesión 5.md",
@@ -323,7 +327,6 @@
     "Panteón/El Dragón.md",
     "Sesiones/Sesion 4.md",
     "Las 8 Bestias Capitales/Lujuria.md",
-    "Lujuria.png",
     "Mecánicas y Notas/Cocina.md",
     "Cocina.pdf",
     "Mecánicas y Notas/Títulos de nivel.md",
