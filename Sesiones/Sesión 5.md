@@ -74,6 +74,8 @@ El mapa dice:
 - No mires atrás.
 
 
+
+
 ||Shit de la IA||
 
 ### Boceto de Sesión: Ecos de la Civilización Olvidada
