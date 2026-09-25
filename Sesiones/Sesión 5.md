@@ -59,6 +59,8 @@ Deben discutir qué misión aceptarán
 Escribir indicaciones del mapa.
 
 El mapa dice;
+
+
 - Entrar al Bosque. Por la puerta de Bohsee
 - Caminar hacia el Norte.
 - En la encrucijada de la montaña Ternoma tomar la derecha
@@ -68,8 +70,9 @@ El mapa dice;
 - Dirigirse al Árbol Mayor.
 - En el Árbol Mayor, buscar las picas de escalada que dejó el gremio.
 - Trepar al Árbol Mayor
-- Desde la cima del Árbol Mayor, se puede ver las ruinas.
-- Sin mirar atrás en ningún momento
+- Desde la cima del Árbol Mayor, se pueden ver las ruinas.
+- Dirigirse en línea recta hacia las ruinas.
+- No mires atrás.
 
 
 ||Shit de la IA||
