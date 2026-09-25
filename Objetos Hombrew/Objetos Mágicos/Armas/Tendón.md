@@ -9,6 +9,7 @@ tags:
 Estado: Terminado
 ---
 [[Objeto Mágico]] 
+Bonificador de +1 al ataque.
 **Arco de Carroña** _Arma (arco), poco común_
 
 _Este macabro arco, tensado con tendones resecos y fabricado a partir de huesos, ha sido diseñado específicamente para disparar flechas talladas en restos óseos de animales. Su tensión es tan extrema que proyecta la munición a velocidades letales._
