@@ -40,3 +40,6 @@ Estos son los generales y mentores que [[Biggsa|Biggsa el Grande]] convocó para
     
 
 **6. [[Lyra Torie]] (Susurro del Mar) su grupo se llama "Susurro del Mar" en honor a ella (Mujer)** 
+	
+	
+**7. [[Silas Corvo|Silas "Hoja infinita" Corvo]]  y su grupo es la party**

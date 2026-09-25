@@ -66,37 +66,9 @@
               "icon": "lucide-file",
               "title": "Sesión 5"
             }
-          },
-          {
-            "id": "f3111bdb53ca950c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS/Jóse Posé.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jóse Posé"
-            }
-          },
-          {
-            "id": "26108fb74b2bb55f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS/Jóse Posé.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jóse Posé"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -322,15 +294,18 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "26108fb74b2bb55f",
+  "active": "f38143897f806520",
   "lastOpenFiles": [
-    "zFotos/Pasted image 20260802040252.png",
-    "zFotos/Lyra Torie.png",
-    "zFotos/Jóse Posé.png",
+    "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
+    "Agrupaciones y Gremios/Esperanza.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Vanessa Posé.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS/Jóse Posé.md",
+    "zFotos/Lyra Torie.png",
+    "zFotos/Valdo Stanley.png",
     "Sesiones/Sesión 5.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS/Jóse Posé.md",
+    "zFotos/Pasted image 20260802040252.png",
+    "zFotos/Jóse Posé.png",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Vanessa Posé.md",
     "zFotos/Vanessa Posé.png",
     "Sesiones/Sesión 3.md",
     "zFotos/Lujuria2.png",
@@ -355,13 +330,10 @@
     "Las 8 Bestias Capitales/Lujuria.md",
     "Mecánicas y Notas/Cocina.md",
     "Mecánicas y Notas/Títulos de nivel.md",
-    "zFotos/Valdo Stanley.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aries de Corvo.md",
-    "zFotos/Marina Cofmak.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Marina Cofmak.md",
     "Sesiones/Ideas para sesiones del futuro.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Marina Cofmak.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Valdo Stanley.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo",
     "Objetos Hombrew/Objetos Mágicos/Otros",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Nedo",
