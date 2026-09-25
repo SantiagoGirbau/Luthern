@@ -73,16 +73,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 5.md",
+                "file": "Sesiones/Sesión 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 5"
+              "title": "Sesión 3"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sindica",
+                "query": "Posé",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -309,12 +309,14 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "b3b6edfeff37221a",
+  "active": "f38143897f806520",
   "lastOpenFiles": [
+    "Sesiones/Sesión 3.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/José Jose.md",
+    "Sesiones/Sesión 5.md",
     "Lujuria.png",
     "biggsa.png",
     "Lugares/Reinos/Reino de Bigzha/Realeza/Biggsa.md",
-    "Sesiones/Sesión 5.md",
     "zFotos/4 Avaricia.png",
     "Las 8 Bestias Capitales/Avaricia.md",
     "Las 8 Bestias Capitales/Pereza.md",
@@ -346,7 +348,6 @@
     "zFotos/Lyra Torie.png",
     "Pasted image 20260924184311.png",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
-    "Party/_Party.md",
     "zFotos/Aries de Corvo.jpg",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo",
     "Objetos Hombrew/Objetos Mágicos/Otros",

@@ -92,7 +92,7 @@ Una tormenta los alcanza, parte del camino queda tapado de barro y árboles caí
 Llegan tarde a [[Eleandale]] y los espera una sola carroza para devolverlos a Asura.
 
 El chófer se llama Jóse Posé.
-Tiene una hija que se llama Lorena y trabaja en el SIBISO
+Tiene una hija que se llama Lorena y trabaja en el SIBISO y se llama Vanessa
 -Partamos cuanto antes así me pagan cuanto antes... Voz carrasposa algo españolezca
 
 El hombre les da charla sobre su vida, sobre su familia y etc...
