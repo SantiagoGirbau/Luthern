@@ -21,7 +21,7 @@ El puntaje de los grupos que atienden al llamado se publica en un boletín todos
 
 ---
 
-### Inicio [[Sesión 5]] 
+### Introducción [[Sesión 5]] 
 
 Al despertarse todos, a pesar de que algunos han descansado de mala manera, se sienten rejuvenecidos, como si el descanso hubiera asentado los frutos de su esfuerzo y entrenamiento.
 
@@ -60,9 +60,8 @@ En el [[Sindicato de Bienestar Soberano|SIBISO]] pueden encontrarse a [[Lorena P
 
 Si no, los atenderá un recepcionista malhumorado llamado Perreon Gatori.
 
-Les tomará las misiones que acepten
+Les tomará las misiones que acepten y les dirá que saldrán en el boletín de mañana.
 
-Escribir indicaciones del mapa.
 
 El mapa dice:
 
@@ -81,7 +80,17 @@ El mapa dice:
 - No mires atrás.
 - No mires atrás.
 
+---
+### Durante el viaje 
+
+Minijuego de [[Navegación]].
+
+Al entrar al bosque, no pasan ni 5 minutos y ya los atacan un grupo de 5 a 10 de Goblin y Hobgoblin. Los matarán con tremenda facilidad.
+![[Goblin.png]]![[Hobgoblin.png]]
 
 
+Unos 15 minutos después los atacarán 3 a 6![[Dire Wolf.png]]
 
-||Shit de la IA||
+Unos 40 minutos después detectarán un grupo de personas que los persiguen. (Tirada de percepción).
+
+Son gente del grupo Mano de Sangre. Los están usando de escudo para llegar más fácil al campamento de goblins.)
