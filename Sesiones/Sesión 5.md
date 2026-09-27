@@ -135,7 +135,8 @@ Va a una velocidad inimaginable, pero a pesar de solo haberla visto por una frac
 
 Cuando la información de lo que estaba por pasar les termina de golpear, una ráfaga de miasma verde los cubre, no duele, no quema, está fresco.
 
-Caen varios bultos de miasma a su alrededor, que lentamente se deforman y forman en "Criaturas" si así pudieran llamarse, un amalgama horroroso de lo que parecen ser almas se hunden lentamente en todo lo vi
+Caen varios bultos de miasma a su alrededor, que lentamente se deforman y forman en "Criaturas" si así pudieran llamarse, un amalgama horroroso de lo que parecen ser almas se hunden lentamente en todo lo vivo a su alrededor, haciéndolo cobrar vida.
+
 
 Tirar un d8 para ver qué bestia se encuentran.
 
