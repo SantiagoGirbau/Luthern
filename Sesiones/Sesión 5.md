@@ -16,8 +16,7 @@ El puntaje de los grupos que atienden al llamado se publica en un boletín todos
 
 ### Resúmen de la sesión pasada:
 
-
-
+(La hagamos en grupo jiji)
 
 ---
 
