@@ -1,4 +1,4 @@
-![[Troll.png]]![[Troll.png]]Van a al herrero, llegan a Noria (Herrera) bajo recomendación de Silas al norte de [[Bohsse]] y se encuentran con ella, tienen 3 hijos, 2 varones 1 niña. Noria es una raza rara como efloide pero de pelo blanco y ojos blancos, el parece humano pero no es. sus hijos se prenden a ellos como abrojos
+Van a al herrero, llegan a Noria (Herrera) bajo recomendación de Silas al norte de [[Bohsse]] y se encuentran con ella, tienen 3 hijos, 2 varones 1 niña. Noria es una raza rara como efloide pero de pelo blanco y ojos blancos, el parece humano pero no es. sus hijos se prenden a ellos como abrojos
 
 Silas les dio a cada [[Flawa|Aslan]] y [[Agustin|Hasta]]  una [[Piedra de Calma]] para alivianar sus síntomas de su encuentro con [[Ira]]  
 
@@ -122,7 +122,7 @@ Al entrar al bosque, no pasan ni 5 minutos y ya los atacan un grupo de 5 a 10 de
 ![[Goblin.png]]![[Hobgoblin.png]]
 
 
-Unos 15 minutos después los atacarán 3 a 6![[Dire Wolf.png]]
+Unos 15 minutos después los atacarán 3 a 6 Dire Wolf![[Dire Wolf.png]]
 
 ---
 
@@ -135,8 +135,6 @@ Va a una velocidad inimaginable, pero a pesar de solo haberla visto por una frac
 
 Cuando la información de lo que estaba por pasar les termina de golpear, una ráfaga de miasma verde los cubre, no duele, no quema, está fresco.
 
-Caen varios bultos de miasma a su alrededor, que lentamente se deforman y forman en "Criaturas" si así pudieran llamarse, un amalgama horroroso de lo que parecen ser almas se hunden lentamente en todo lo vivo a su alrededor, haciéndolo cobrar vida.
+Caen varios bultos de miasma a su alrededor, que lentamente se deforman y forman en "Criaturas" si así pudieran llamarse, un amalgama horroroso de lo que parecen ser almas se hunden lentamente en todo lo vivo y muerto a su alrededor, haciéndolo cobrar vida.
 
-
-Tirar un d8 para ver qué bestia se encuentran.
 
