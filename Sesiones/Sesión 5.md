@@ -116,3 +116,26 @@ Si corren directo a la piedra y la logran agarrar, los goblins se pondrán mucho
 
 ### Camino a las ruinas:
 
+(Si ya fueron por los goblins, saltear esta parte, si no, realizar los primeros 2 combates de los goblins)
+
+Al entrar al bosque, no pasan ni 5 minutos y ya los atacan un grupo de 5 a 10 de Goblin y Hobgoblin. Los matarán con tremenda facilidad.
+![[Goblin.png]]![[Hobgoblin.png]]
+
+
+Unos 15 minutos después los atacarán 3 a 6![[Dire Wolf.png]]
+
+---
+
+Luego detectan una presencia ominosa en el bosque.
+
+El bosque se torna silencioso. Solo se oye la leve brisa en las millones de hojas a su alrededor.
+El silencio se torna en soplido y el soplido en aleteo.
+Una silueta blanca y verde pasa volando a toda velocidad sobre el grupo.
+Va a una velocidad inimaginable, pero a pesar de solo haberla visto por una fracción de segundo, es una silueta inconfundible.
+
+Cuando la información de lo que estaba por pasar les termina de golpear, una ráfaga de miasma verde los cubre, no duele, no quema, está fresco.
+
+Caen varios bultos de miasma a su alrededor, que lentamente se deforman y forman en "Criaturas" si así pudieran llamarse, un amalgama horroroso de lo que parecen ser almas se hunden lentamente en todo lo vi
+
+Tirar un d8 para ver qué bestia se encuentran.
+

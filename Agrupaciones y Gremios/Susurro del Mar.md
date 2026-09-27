@@ -44,7 +44,7 @@ Es el grupo bajo la tutela de [[Lyra Torie]]
 - **Backstory:** Perteneció a un monasterio estricto que veneraba los manantiales curativos de las montañas. Tras un conflicto doctrinal, fue exiliada. Encontró en Lyra y su peculiar forma de tratar las maldiciones una filosofía más honesta. Aunque desaprueba sus modales descuidados, es su segunda al mando y el ancla moral del equipo.
 ---
 
-- **Nombre y apellido:** Orik "Escarcha" Thorne
+- **Nombre y apellido:** Orik "Escarcha" Trenco
     
 - **Descripción:** De mirada afilada, cabello gris prematuro y manos llenas de callos. Meticuloso y calculador, prefiere los ambientes gélidos y rara vez muestra el más mínimo entusiasmo.
     

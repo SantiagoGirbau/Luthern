@@ -11,14 +11,14 @@ tags:
   - Agrupación
 Estado: Aceptable
 ---
-El grupo mercenario conocido como **Mano de Sangre** es infame por su brutalidad y eficiencia. Aceptan los contratos del Sindicato que otros grupos consideran demasiado violentos o moralmente cuestionables.
+El grupo bajo la tutela de Thorne mercenario conocido como **Mano de Sangre** y dirigido por  es infame por su brutalidad y eficiencia. Aceptan los contratos del Sindicato que otros grupos consideran demasiado violentos o moralmente cuestionables.
 
-- **Nombre y apellido:** Vargas "El Rojo" Krell
+- **Nombre y apellido:** Vargas Krell
 - **Descripción:** Cicatrices profundas le cruzan el rostro. Viste una pesada armadura pintada de carmesí mate. Es implacable, de pocas palabras y está centrado puramente en el oro y la eficiencia táctica.
 - **Clase y título:** Guerrero / Avanzado de Tercera categoría (Nivel 7)
 - **Backstory:** Ex-soldado de la corona dado de baja por su excesiva brutalidad. Formó su propia compañía mercenaria aceptando los contratos que los gremios estándar consideraban demasiado sucios o letales. Se ganó rápidamente la reputación de no dejar jamás un cabo suelto ni un objetivo con vida.
 
-- **Nombre y apellido:** Ignis "Sangrehirviente" Tarn
+- **Nombre y apellido:** Ignis Tarn
 - **Descripción:** De ojos inyectados en sangre y piel pálida cubierta de tatuajes rúnicos pulsantes. Es volátil, perturbadoramente sonriente y tiene una fascinación casi religiosa por la anatomía.
 - **Clase y título:** Hechicero / Avanzado de Primera categoría (Nivel 5)
 - **Backstory:** Desterrado de un aquelarre norteño por experimentar ilegalmente con magia de sangre. Encontró en esta compañía el lugar perfecto para poner a prueba sus hechizos hemománticos en objetivos vivos, financiando sus retorcidos estudios anatómicos sin que el Sindicato haga demasiadas preguntas.
@@ -36,4 +36,4 @@ El grupo mercenario conocido como **Mano de Sangre** es infame por su brutalidad
 - **Nombre y apellido:** Bruna "Martillo" Valen
 - **Descripción:** Una mujer gigante y musculosa, con la nariz rota múltiples veces y una risa estruendosa. Adicta a la adrenalina, ruidosa y siempre busca al oponente más grande.
 - **Clase y título:** Bárbaro / Iniciado de Cuarta categoría (Nivel 4)
-- **Backstory:** Trabajaba como rompehuesos para prestamistas de poca monta hasta que destruyó una taberna entera ella sola por una simple apuesta. Vargas pagó su cuantiosa fianza, comprando su lealtad absoluta. Es el escudo de choque del grupo y disfruta sádicamente cada segundo del comba
+- **Backstory:** Trabajaba como rompehuesos para prestamistas de poca monta hasta que destruyó una taberna entera ella sola por una simple apuesta. Vargas pagó su cuantiosa fianza, comprando su lealtad absoluta. Es el escudo de choque del grupo y disfruta sádicamente cada segundo del combate.
