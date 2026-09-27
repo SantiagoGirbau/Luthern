@@ -52,13 +52,23 @@ Adjunto detrás de esta carta se encuentra el boletín de misiones disponibles.
 
 Deben discutir qué misión aceptarán
 
+Silas esta vez no podrá ir por ellos al SIBISO. Tiene que hacer cosas.
+
+Deberán ir al SIBISO para informar la aceptación de las misiones que elijan.
+
+En el [[Sindicato de Bienestar Soberano|SIBISO]] pueden encontrarse a [[Lorena Posé]] si es que la buscan.
+
+Si no, los atenderá un recepcionista malhumorado llamado Perreon Gatori.
+
+Les tomará las misiones que acepten
+
 Escribir indicaciones del mapa.
 
 El mapa dice:
 
 - Entrar al Bosque. Por la puerta de Bohsee
-- Caminar hacia el Norte.
-- En la encrucijada de la montaña Ternoma tomar la derecha
+- Caminar hacia el Norte hasta la segunda encrucijada.
+- En la encrucijada de la montaña Ternoma tomar la derecha.
 - Encontrar la piedra con forma de perro.
 - Subirse a la piedra con forma de perro.
 - Localizar desde la cima de la piedra, al Árbol Mayor más cercano.
@@ -67,6 +77,8 @@ El mapa dice:
 - Trepar al Árbol Mayor
 - Desde la cima del Árbol Mayor, se pueden ver las ruinas.
 - Dirigirse en línea recta hacia las ruinas.
+- No mires atrás.
+- No mires atrás.
 - No mires atrás.
 
 
