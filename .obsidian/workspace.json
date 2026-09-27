@@ -66,9 +66,21 @@
               "icon": "lucide-file",
               "title": "Sesión 5"
             }
+          },
+          {
+            "id": "4f2f152d70ed8e79",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Fotos/Susurro del Mar.png"
+              },
+              "icon": "lucide-image",
+              "title": "Susurro del Mar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -297,13 +309,15 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f38143897f806520",
+  "active": "f0490699a9331264",
   "lastOpenFiles": [
-    "Sesiones/Sesión 3.md",
-    "Agrupaciones y Gremios/Mano de Sangre.md",
-    "Sesiones/Sesión 2.md",
     "Agrupaciones y Gremios/Susurro del Mar.md",
+    "Fotos/Susurro del Mar.png",
+    "Fotos/Susurro del Mar.png",
+    "Agrupaciones y Gremios/Mano de Sangre.md",
     "Sesiones/Sesión 5.md",
+    "Sesiones/Sesión 3.md",
+    "Sesiones/Sesión 2.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Nedo/Nedo.md",
     "Party/_Party.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
@@ -317,14 +331,12 @@
     "Criaturas/Monstruos/Dire Wolf.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lorena Posé.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS/Jóse Posé.md",
-    "zFotos/Sobervia.png",
-    "zFotos/1 Pereza.png",
+    "Fotos/Sobervia.png",
+    "Fotos/1 Pereza.png",
     "Las 8 Bestias Capitales/Pereza.md",
     "zFotos/6 Ira.png",
-    "zFotos/Ira.png",
     "Las 8 Bestias Capitales/Ira.md",
     "Las 8 Bestias Capitales/Avaricia.md",
-    "zFotos/Gula.png",
     "Las 8 Bestias Capitales/Gula.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Marina Cofmak.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
@@ -335,7 +347,6 @@
     "Objetos Hombrew/Objetos Mágicos/Armas/Tendón.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Fémur.md",
     "Objetos Hombrew/Objetos Mágicos/Armas/Espada Podrida.md",
-    "Party/Vale.md",
     "Títulos de nivel.pdf",
     "Cocina.pdf",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo",
