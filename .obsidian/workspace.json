@@ -68,15 +68,17 @@
             }
           },
           {
-            "id": "9f2555afac541d30",
+            "id": "b68b47b84fb61c8a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "zFotos/1 Pereza.png"
+                "file": "Las 8 Bestias Capitales/Ira.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "1 Pereza"
+              "icon": "lucide-file",
+              "title": "Ira"
             }
           }
         ],
@@ -306,8 +308,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "9f2555afac541d30",
+  "active": "b68b47b84fb61c8a",
   "lastOpenFiles": [
+    "Sesiones/Sesión 5.md",
+    "Las 8 Bestias Capitales/Avaricia.md",
+    "Pasted image 20260927031215.png",
+    "zFotos/1 Pereza.png",
     "zFotos/Gula.png",
     "Las 8 Bestias Capitales/Gula.md",
     "Agrupaciones y Gremios/Susurro del Mar.md",
@@ -319,12 +325,9 @@
     "zFotos/1 Soberbia.png",
     "zFotos/biggsa.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Marina Cofmak.md",
-    "zFotos/Marina Cofmak.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
-    "zFotos/Lyra Torie2.png",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
     "Agrupaciones y Gremios/Esperanza.md",
-    "Sesiones/Sesión 5.md",
     "Sesiones/Sesion 4.md",
     "Party/_Party.md",
     "Agrupaciones y Gremios/Sindicato de Bienestar Soberano.md",

@@ -19,4 +19,4 @@ Recientemente se lo ve mucho más por las zonas heladas de los [[Reinos del Nort
 
 Un dragón imponente pero de aspecto enfermizo y **sin escamas**. Su piel es pálida, correosa y semitranslúcida. A través de su torso se puede observar un remolino de luces espectrales: su infinita colección de almas.
 
-![[4 Avaricia.png]]
+![[Pasted image 20260927031215.png]]

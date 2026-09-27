@@ -37,10 +37,6 @@ Encuentran una nota deslizada debajo de la puerta.
 
 Adjunto detrás de esta carta se encuentra el boletín de misiones disponibles.
 
-
-
-
-
 > [!NOTE] **Boletín oficial de misiones publicadas por el [[Sindicato de Bienestar Soberano]]**
 > - Investigar cualquier Ruina de la civilización antigua y traer de regreso al menos 5 piedras fosforescentes de ahí. (El mapa no se incluye) (Pensar para qué sirven las [[Piedras Fosforescentes]] ) 5 puntos 
 > 	La aceptaron ya: -
@@ -49,7 +45,7 @@ Adjunto detrás de esta carta se encuentra el boletín de misiones disponibles.
 > - Ayudar a navegantes a cruzar a salvo una barcaza con alimento por el Mar Dulce, se calculan 2 días de viaje de ida y 2 de vuelta. 5 puntos
 > 	La aceptaron ya:  _Susurro del Mar_
 > - Cazar goblins y trolls en el [[El Bosque Frontera|Bosque Umbrío]] y desarmar un asentamiento 2 puntos.
-> 	La aceptaron ya: _Mano de Sangre, Tormenta Azul y Voz Ceniza _
+> 	La aceptaron ya: _Mano de Sangre, Tormenta Azul y Susurro del Mar _
 > - Lidiar con bandidos que han estado robando caravanas provenientes de [[Imperio Teocrático de Umnazia|Umnazia]]. 2 puntos.
 > La aceptaron ya:  _Voz Ceniza_
 > 
