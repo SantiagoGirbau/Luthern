@@ -68,15 +68,17 @@
             }
           },
           {
-            "id": "4f2f152d70ed8e79",
+            "id": "921942865c17f323",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Fotos/Susurro del Mar.png"
+                "file": "Agrupaciones y Gremios/Mano de Sangre.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Susurro del Mar"
+              "icon": "lucide-file",
+              "title": "Mano de Sangre"
             }
           }
         ],
@@ -309,10 +311,9 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f0490699a9331264",
+  "active": "921942865c17f323",
   "lastOpenFiles": [
     "Agrupaciones y Gremios/Susurro del Mar.md",
-    "Fotos/Susurro del Mar.png",
     "Fotos/Susurro del Mar.png",
     "Agrupaciones y Gremios/Mano de Sangre.md",
     "Sesiones/Sesión 5.md",
