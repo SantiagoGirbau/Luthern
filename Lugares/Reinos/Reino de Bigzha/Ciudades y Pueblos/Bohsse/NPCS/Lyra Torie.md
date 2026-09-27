@@ -13,5 +13,5 @@ aliases:
 - ||Targos le brindó poderes simplemente porque ella era compatible con los mismos||
 - Ella conoció a [[Silas Corvo]] cuando [[Reino de Bigzha|Bigza]] lo trajo e introdujo como parte de "Esperanza" y fue su mayor confidente y apoyo durante el duelo, cuidando de [[Trina]] 
 
-
+![[Lyra Torie2.png]]
 ![[Lyra Torie.png]]
