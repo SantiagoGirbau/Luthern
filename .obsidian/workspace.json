@@ -68,21 +68,21 @@
             }
           },
           {
-            "id": "b1b24a4625134536",
+            "id": "31a823aa0df12757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
+                "file": "Agrupaciones y Gremios/Mano de Sangre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mentores de Bigss"
+              "title": "Mano de Sangre"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -293,7 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,10 +311,14 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f38143897f806520",
+  "active": "f0490699a9331264",
   "lastOpenFiles": [
-    "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
+    "Agrupaciones y Gremios/Susurro del Mar.md",
+    "Agrupaciones y Gremios/Mano de Sangre.md",
     "Sesiones/Sesión 5.md",
+    "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
+    "Criaturas/Monstruos/Troll.png",
+    "Criaturas/Monstruos/Troll (1).png",
     "Criaturas/Monstruos/Hobgoblin.png",
     "Criaturas/Monstruos/Harpía del Mar Dulce.md",
     "Criaturas/Monstruos/Goblin.png",
@@ -331,9 +335,6 @@
     "Las 8 Bestias Capitales/Avaricia.md",
     "zFotos/Gula.png",
     "Las 8 Bestias Capitales/Gula.md",
-    "Agrupaciones y Gremios/Susurro del Mar.md",
-    "zFotos/2 Gula.png",
-    "zFotos/Lujuria.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Marina Cofmak.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
     "Agrupaciones y Gremios/Esperanza.md",
