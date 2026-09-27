@@ -65,6 +65,8 @@ Les tomará las misiones que acepten y les dirá que saldrán en el boletín de 
 
 Los asentamientos goblins tienen siempre una piedra negra esférica que guardan y usan como parte de su ritual de procreación, El grupo que traiga la piedra recibe los puntos.
 
+Cualquier criatura que se elimine en el bosque puede ser saqueada y lo que obtengan de ahí se puede vender.
+
 
 ---
 ### Durante el viaje 
@@ -163,6 +165,8 @@ En caso de Fallo, habrá un combate de la tabla de combates. (1d12)
 
 ### Al llegar a [[Ruinas Antiguas|Las Ruinas]] :
 
+Una vez han llegado a las inmediateces de la Ruina, el mapa se autodestruye.
+
 Las ruinas se alzan de manera ominosa e incomprensible por sobre el bosque. Un construir un edificio de esta magnitud en un lugar tan inhóspito como este no debería de ser posible.
 Una torre central que se alza hacia el cielo de una manera inexplicable. Su punta siempre coincide con el horizonte del observador. Se deforma y pliega para cumplir este requisito.
 
@@ -170,7 +174,7 @@ Rodeando esta torre, hay 3 murallas finas pero impenetrables. Tan finas como un 
 
 Al ingresar a la ruina lo primero que notan es un olor extraño y desconocido, los jugadores lo reconocen como el aroma quirúrgico de un hospital, pero para sus personajes es algo completamente desconocido.
 
-Una vez han ingresado a la 
+
 
 
 ---

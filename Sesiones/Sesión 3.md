@@ -2,10 +2,11 @@
 aliases:
 tags:
   - Sesión
-  - Lore
 Estado:
 ---
-## Bo-Bore
+Continuamos de la [[Sesión 2]] 
+
+## [[Bo-Bore]] 
 
 Es una tribu muy tranquila, están bastante más desarrollados que el resto, ya que adoptaron la tecnología del mundo civilizado, pero aún viven en chozas sencillas, pero ahora con ventanas modernas y chimeneas, Es una tribu bastante rica. El río les da muchos ingresos, ya que en el mismo se puede pescar y batear oro.
 
@@ -173,7 +174,7 @@ leer [[Dok-momor]].
 
 Pueden pelear en el coliseo o volverse a la ciudad de [[Bohsse]]. Tienen que cruzar el Río Essix. No es tan sencillo como parece. Tendrán que empeñar o fabricar una balsa. No es un río rapidísimo. pero es HONDO y ANCHO.
 
-Nedo, pueblo al borde del rio
+[[Nedo]], pueblo al borde del rio
 
 Pueden pelear en el coliseo para comprar una. 
 
