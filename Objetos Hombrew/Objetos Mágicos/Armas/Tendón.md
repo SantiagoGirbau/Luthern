@@ -32,4 +32,4 @@ While (tiradaDeAtaque >= enemigo[n].AC && isNotNull(Enemigo[n])){
 //dios mío me puse a pensar soluciones para el acoplamiento refactorizando los cálculos de daño y ataque en métodos dentro de la clase enemigo y jugador. Tengo problemas.
 ```
 
-||**Pasiva, Extensión de mi carne:** Al sintonizarte con este arco, tu cuerpo piensa que el arco forma parte de él. Al tensarlo y manipularlo, puedes sentir cómo el arco forma parte de tu cuerpo. Este arco está maldito y no puede de-sintonizarse de ella sin utilizar un hechizo para retirar la maldición.||
+**Pasiva, Extensión de mi carne:** Al sintonizarte con este arco, tu cuerpo piensa que el arco forma parte de él. Al tensarlo y manipularlo, puedes sentir cómo el arco forma parte de tu cuerpo.<mark style="background:#ff4d4f"> Este arco está maldito y no puede de-sintonizarse de ella sin utilizar un hechizo para retirar la maldición.</mark>

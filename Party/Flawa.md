@@ -5,7 +5,7 @@ aliases:
 tags:
   - Jugador
 ---
-Forma parte de la [[_Party]]. 
+Forma parte de la [[Aegis]]. 
 Estadísticas:
 17
 11

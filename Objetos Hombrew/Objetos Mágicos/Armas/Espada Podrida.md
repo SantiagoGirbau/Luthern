@@ -19,5 +19,5 @@ Esta espada posee 5 cargas que se recargan a medianoche. Puedes gastar estas car
 - Puedes usar una acción extra para gastar 3 cargas y mutar por un minuto la carne podrida del arma, convirtiéndola en una Greatsword con la característica de Light (Puede ser usada con una mano). Modificando así su daño a 2d6.
 
 
-||**Pasiva, Putrefacción pasiva:** al sintonizarte con esta espada, tu cuerpo y alma se pudren lentamente. Cualquier parte del cuerpo que entre en contacto con la espada comienza un lento proceso de putrefacción in vita. Esta espada está maldita y no puede de-sintonizarse de ella sin utilizar un hechizo para retirar la maldición.||
+**Pasiva, Putrefacción pasiva:** al sintonizarte con esta espada, tu cuerpo y alma se pudren lentamente. Cualquier parte del cuerpo que entre en contacto con la espada comienza un lento proceso de putrefacción in vita.<mark style="background:#ff4d4f"><mark style="background:rgba(140, 140, 140, 0.12)"> Esta espada está maldita y no puede de-sintonizarse de ella sin utilizar un hechizo para retirar la</mark> maldición.</mark>
 

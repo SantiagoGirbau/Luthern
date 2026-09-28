@@ -29,8 +29,8 @@ Encuentran una nota deslizada debajo de la puerta.
 > [!NOTE] A la atención del grupo bajo la tutela de Silas Corvo:
 >> Es de mi agrado informarles que, debido a su reciente hazaña, el Sindicato de Bienestar Soberano ha decidido otorgar a todos sus miembros el título de **Avanzado de Primera categoría** en sus respectivas disciplinas.
 >> 
->> Aprovecho esta carta para presentarme. Mi nombre es Vanessa Posé y se me ha designado como su **Supervisora de contratos**. De ahora en adelante, mi trabajo consistirá en brindarles el boletín de misiones actualizado y realizar los controles y papeleo para la entrega de sus recompensas y puntos.
->> Por último, el SIBISO les recomienda encarecidamente que decidan un nombre altura de sus logros para su compañía.
+>> Aprovecho esta carta para presentarme. Mi nombre es Lorena Posé y se me ha designado como su **Supervisora de contratos**. De ahora en adelante, mi trabajo consistirá en brindarles el boletín de misiones actualizado y realizar los controles y papeleo para la entrega de sus recompensas y puntos.
+>> Por último, el SIBISO les recomienda encarecidamente que decidan un nombre a la altura de sus logros para su compañía.
 >> Atentamente,
 >> **Vanessa Posé**, _Supervisora de grupos del Sindicato de Bienestar Soberano._
 
@@ -49,7 +49,7 @@ Adjunto detrás de esta carta se encuentra el boletín de misiones disponibles.
 > La aceptaron ya:  _Voz Ceniza_
 > 
 
-Deben discutir qué misión aceptarán
+Deben discutir qué misión aceptarán.
 
 Silas esta vez no podrá ir por ellos al SIBISO. Tiene que hacer cosas.
 

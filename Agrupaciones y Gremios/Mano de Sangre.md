@@ -37,3 +37,4 @@ El grupo bajo la tutela de Thorne mercenario conocido como **Mano de Sangre** y 
 - **Descripción:** Una mujer gigante y musculosa, con la nariz rota múltiples veces y una risa estruendosa. Adicta a la adrenalina, ruidosa y siempre busca al oponente más grande.
 - **Clase y título:** Bárbaro / Iniciado de Cuarta categoría (Nivel 4)
 - **Backstory:** Trabajaba como rompehuesos para prestamistas de poca monta hasta que destruyó una taberna entera ella sola por una simple apuesta. Vargas pagó su cuantiosa fianza, comprando su lealtad absoluta. Es el escudo de choque del grupo y disfruta sádicamente cada segundo del combate.
+![[Mano de Sangre.png]]

@@ -1,5 +1,5 @@
 --- REGISTRO DEL DOMO DE LA VERDAD ---
-
+![[Marina Cofmak.png]]
 Pregunta: ¿Quién eres?
 Respuesta: Marina Cofmak
 
