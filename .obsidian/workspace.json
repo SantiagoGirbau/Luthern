@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Aegis"
             }
+          },
+          {
+            "id": "f2236f0ba664416a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agrupaciones y Gremios/Susurro del Mar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Susurro del Mar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -307,11 +321,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f38143897f806520",
+  "active": "f2236f0ba664416a",
   "lastOpenFiles": [
+    "Agrupaciones y Gremios/Mano de Sangre.md",
+    "Sesiones/Sesión 5.md",
     "Party/Aegis.md",
     "Sesiones/Ideas para sesiones del futuro.md",
-    "Sesiones/Sesión 5.md",
     "Objetos Hombrew/Cocina/Comidas/Escabeche de Fruta Piu Piu.md",
     "Mecánicas y Notas/Navegación.md",
     "Mecánicas y Notas/Cocina.md",
@@ -329,7 +344,6 @@
     "Fotos/biggsa.png",
     "Fotos/Aegis de Corvo2.png",
     "Fotos/Aegis de Corvo.jpg",
-    "Agrupaciones y Gremios/Mano de Sangre.md",
     "Fotos/Mano de Sangre.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Verdulería Exótica.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Marina Cofmak.md",
