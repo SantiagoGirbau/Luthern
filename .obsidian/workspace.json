@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Aegis.md",
+                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aegis"
+              "title": "Lyra Torie"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 310.5
   },
   "right": {
     "id": "d8b077610cfb0538",
@@ -321,11 +321,18 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f2236f0ba664416a",
+  "active": "9170052bde81ab44",
   "lastOpenFiles": [
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Noria de Crolly.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lorena Posé.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Berith.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Trina Corvo.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Silas Corvo.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aegis de Corvo.md",
+    "Party/Aegis.md",
+    "Agrupaciones y Gremios/Susurro del Mar.md",
     "Agrupaciones y Gremios/Mano de Sangre.md",
     "Sesiones/Sesión 5.md",
-    "Party/Aegis.md",
     "Sesiones/Ideas para sesiones del futuro.md",
     "Objetos Hombrew/Cocina/Comidas/Escabeche de Fruta Piu Piu.md",
     "Mecánicas y Notas/Navegación.md",
@@ -340,7 +347,6 @@
     "Fotos/Lyra Torie.png",
     "Fotos/Lyra Torie2.png",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Berith.md",
     "Fotos/biggsa.png",
     "Fotos/Aegis de Corvo2.png",
     "Fotos/Aegis de Corvo.jpg",
@@ -351,15 +357,9 @@
     "Fotos/Marina Cofmak.png",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Azura/NPCS/Jóse Posé.md",
     "Agrupaciones y Gremios/Gremio de Cartógrafos.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aegis de Corvo.md",
     "Party/Agustin.md",
     "Party/Ari.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lorena Posé.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Eleandale/NPCs/Asloth.md",
-    "Lugares/Reinos/Reino de Bigzha/Realeza/Lunaria.md",
-    "Agrupaciones y Gremios/Susurro del Mar.md",
     "Fotos/Susurro del Mar.png",
-    "Sesiones/Sesión 3.md",
     "Criaturas/Monstruos/Troll.png",
     "Criaturas/Monstruos/Troll (1).png",
     "Criaturas/Monstruos",

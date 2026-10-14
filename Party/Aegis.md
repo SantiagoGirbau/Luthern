@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Party
 tags:
   - Agrupación
 Estado: Aceptable

@@ -25,9 +25,3 @@ Sigue teniendo problemas con el Alcohol.
 
 ![[Silas Corvo.jpg|352]]
 		Silas hoy, luego de arrglarse
-
-
-						Trina Corvo Hoy en Día.
-						
-					![[Aries de Corvo.jpg]]
-										Aries de Corvo
