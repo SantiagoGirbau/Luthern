@@ -1,3 +1,8 @@
+---
+aliases:
+tags:
+  - Sesión
+---
 Van a al herrero, llegan a Noria (Herrera) bajo recomendación de Silas al norte de [[Bohsse]] y se encuentran con ella, tienen 3 hijos, 2 varones 1 niña. Noria es una raza rara como efloide pero de pelo blanco y ojos blancos, el parece humano pero no es. sus hijos se prenden a ellos como abrojos
 
 Silas les dio a cada [[Flawa|Aslan]] y [[Agustin|Hasta]]  una [[Piedra de Calma]] para alivianar sus síntomas de su encuentro con [[Ira]]  
