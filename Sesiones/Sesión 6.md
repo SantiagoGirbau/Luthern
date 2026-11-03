@@ -10,7 +10,7 @@ Escribí, no seas pajero
 Una voz ronca dice mientras sale de los arbustos:
 -Entreguen la esfera y nadie saldrá...
 -¿Y el resto?
-Dice el capitán de [[Mano de Sangre]] mientras hace una seña al resto de su grupo para que salga y amenace al único miembro de [[Aegis]]  a la vista.
+Dice el capitán de [[Mano de Sangre]] mientras hace una seña al resto de su grupo para que salga y amenace al único miembro de [[Aegis]] a la vista.
 
 Hacer tirada de sigilo del resto y tirada de persuasión de [[Agustin|Hasta]] 
 
@@ -20,7 +20,7 @@ Pueden cagarlos a palos, pero no deben matarlos, si llegan a matar a alguno se m
 
 Si hay combate, rawdoguear las stats?
 
-
+Mano de
 ### Durante el viaje 
 
 Minijuego de [[Navegación]].
