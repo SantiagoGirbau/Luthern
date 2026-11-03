@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,10 +279,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "ff49d34dfe2d4486",
+  "active": "89fcc00c69d3f076",
   "lastOpenFiles": [
-    "Agrupaciones y Gremios/Mano de Sangre.md",
     "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
+    "Agrupaciones y Gremios/Mano de Sangre.md",
     "Sesiones/Sesión 6.md",
     "Sesiones/Sesión 5.md",
     "Estructuras/Colmenas.md",

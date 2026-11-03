@@ -29,28 +29,9 @@ Dependiendo de a qué mision se dirijan, el camino será diferente.
 
 ---
 
-### Camino al campamento Goblin:
-
-Al entrar al bosque, no pasan ni 5 minutos y ya los atacan un grupo de 5 a 10 de Goblin y Hobgoblin. Los matarán con tremenda facilidad.
-![[Goblin.png]]![[Hobgoblin.png]]
-
-
-Unos 15 minutos después los atacarán 3 a 6![[Dire Wolf.png]]
-
-Unos 40 minutos después detectarán un grupo de personas que los persiguen. (Tirada de percepción).
-
-Son gente del grupo Mano de Sangre. (Los están usando de escudo para llegar más fácil al campamento de goblins.)
-
-Si los enfrentan, deberán de resolver las diferencias o cagándolos a palos o charlando y extorsionándolos.
-
 Más adelante se van a encontrar con el grupo de [[Lyra Torie]], [[Susurro del Mar]] y a todos sus integrantes. Ellos son mucho menos malos. Les ofrecen trabajar en conjunto con ellos y repartirse los puntos 1 y 1. 
 
 Pueden aceptar o no, si no aceptan será una competencia para ver quién llega antes y elimina a los goblins que resguardan la piedra.
-
-Si corren directo a la piedra y la logran agarrar, los goblins se pondrán mucho más agresivos y atacarán todos en manada a quien sea que la tenga.
-
-![[Troll.png]]
-
 
 ---
 
@@ -74,6 +55,10 @@ El mapa dice:
 - No mires atrás.
 - No mires atrás.
 - No mires atrás.
+
+### (Que pasa si miran atrás????)
+
+Entre las distintas etapas habrá [[Navegación]].
 
 En caso de Éxito habrá un evento de la tabla de eventos (1d12) 
 En caso de Fallo, habrá un combate de la tabla de combates. (1d12)
