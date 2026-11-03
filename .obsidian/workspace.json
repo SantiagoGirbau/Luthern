@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agrupaciones y Gremios/Mano de Sangre.md",
+                "file": "Criaturas/Monstruos/Deambulante.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mano de Sangre"
+              "title": "Deambulante"
             }
           }
         ],
@@ -311,10 +311,16 @@
   },
   "active": "896868bc439994ea",
   "lastOpenFiles": [
+    "Criaturas/Monstruos/Goblin.png",
+    "Criaturas/Monstruos/Deambulante.md",
+    "Criaturas/Monstruos/Harpía del Mar Dulce.md",
+    "Criaturas/Monstruos/Troll.png",
+    "Criaturas/Monstruos/Hobgoblin.png",
+    "Agrupaciones y Gremios/Susurro del Mar.md",
+    "Agrupaciones y Gremios/Mano de Sangre.md",
     "Sesiones/Sesión 6.md",
     "Party/Agustin.md",
     "Sesiones/Sesión 5.md",
-    "Agrupaciones y Gremios/Susurro del Mar.md",
     "Sesiones/Sesion 4.md",
     "Sesiones/Sesión 3.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
@@ -325,7 +331,6 @@
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Silas Corvo.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aegis de Corvo.md",
     "Party/Aegis.md",
-    "Agrupaciones y Gremios/Mano de Sangre.md",
     "Sesiones/Ideas para sesiones del futuro.md",
     "Objetos Hombrew/Cocina/Comidas/Escabeche de Fruta Piu Piu.md",
     "Mecánicas y Notas/Navegación.md",
@@ -343,13 +348,8 @@
     "Fotos/Aegis de Corvo2.png",
     "Fotos/Aegis de Corvo.jpg",
     "Fotos/Mano de Sangre.png",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/Verdulería Exótica.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Marina Cofmak.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Marina Cofmak.md",
     "Fotos/Marina Cofmak.png",
     "Fotos/Susurro del Mar.png",
-    "Criaturas/Monstruos/Troll.png",
-    "Criaturas/Monstruos/Troll (1).png",
     "Criaturas/Monstruos",
     "Títulos de nivel.pdf",
     "Cocina.pdf",

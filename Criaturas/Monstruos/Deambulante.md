@@ -13,3 +13,4 @@ Algunos [[Deambulante|Deambulantes]] pueden ser muy fuertes debido a que el anfi
 La gente infectada con [[Envidia|La peste]] no suele considerarse viva ya, por lo que su eliminación no es penada como asesinato por la ley en la mayoría de reinos. En [[Imperio Teocrático de Umnazia|El Imperio de Umnazia]] si se considera asesinato si no es realizada la eliminación por un clérigo autorizado para realizar exorcismos.
 
 
+Su statblock varía según la criatura infectada, pero aumenta su vida y explota al morir.
