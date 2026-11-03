@@ -37,8 +37,6 @@ Pueden aceptar o no, si no aceptan será una competencia para ver quién llega a
 
 ### Camino a las ruinas:
 
-
-
 El mapa dice:
 
 - Entrar al Bosque. Por la puerta de Bohsee
