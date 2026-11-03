@@ -2,7 +2,7 @@
 aliases:
   - Mano de Sangre
   - Grupo de Vargas
-  - Vargas "El Rojo" Krell
+  - Krell "El Rojo" Vorgneil
   - Ignis "Sangrehirviente" Tarn
   - Morlan "Corte Fino" Fenn
   - Garrick "El Sabueso" Tor
@@ -11,9 +11,9 @@ tags:
   - Agrupación
 Estado: Aceptable
 ---
-El grupo bajo la tutela de Thorne mercenario conocido como **Mano de Sangre** y dirigido por  es infame por su brutalidad y eficiencia. Aceptan los contratos del Sindicato que otros grupos consideran demasiado violentos o moralmente cuestionables.
+El grupo bajo la tutela de Thorne mercenario conocido como **Mano de Sangre** y dirigido por Thorne es infame por su brutalidad y eficiencia. Aceptan los contratos del Sindicato que otros grupos consideran demasiado violentos o moralmente cuestionables.
 
-- **Nombre y apellido:** Vargas Krell
+- **Nombre y apellido:** Krell Vorgneil 
 - **Descripción:** Humano con cicatrices profundas le cruzan el rostro. Viste una pesada armadura pintada de carmesí mate. Es implacable, de pocas palabras y está centrado puramente en el oro y la eficiencia táctica.
 - **Clase y título:** Guerrero / Avanzado de Tercera categoría (Nivel 7)
 - **Backstory:** Ex-soldado de la corona dado de baja por su excesiva brutalidad. Formó su propia compañía mercenaria aceptando los contratos que los gremios estándar consideraban demasiado sucios o letales. Se ganó rápidamente la reputación de no dejar jamás un cabo suelto ni un objetivo con vida.

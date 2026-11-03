@@ -2,6 +2,7 @@
 aliases:
   - Mentores
   - Generales
+  - Thorne
 tags:
   - NPC
   - Agrupación

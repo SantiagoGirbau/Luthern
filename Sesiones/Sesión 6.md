@@ -20,7 +20,7 @@ Pueden cagarlos a palos, pero no deben matarlos, si llegan a matar a alguno se m
 
 Si hay combate, rawdoguear las stats?
 
-Mano de
+![[Mano de Sangre.png]]
 ### Durante el viaje 
 
 Minijuego de [[Navegación]].
