@@ -18,7 +18,7 @@ Si hasta los convence de que ya no están. Lo van a kiddnapear o tratar de kiddn
 
 Pueden cagarlos a palos, pero no deben matarlos, si llegan a matar a alguno se meterán en remil quilombo y pueden terminar siendo multados/sentenciados a servicio militar (Básicamente hacer lo mismo que hacen, pero ya no les pagarán).
 
-Si hay combate, rawdoguear las stats.
+Si hay combate, rawdoguear las stats?
 
 
 ### Durante el viaje 
