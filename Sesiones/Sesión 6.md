@@ -14,6 +14,7 @@ Dice el capitán de [[Mano de Sangre]] mientras hace una seña al resto de su gr
 
 Hacer tirada de sigilo del resto y tirada de persuasión de [[Agustin|Hasta]] 
 
+Si hasta los convence de que ya no están. Lo van a kiddnapear o tratar de kiddnapear y luego tratar de 
 ### Durante el viaje 
 
 Minijuego de [[Navegación]].
