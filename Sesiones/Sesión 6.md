@@ -14,7 +14,13 @@ Dice el capitán de [[Mano de Sangre]] mientras hace una seña al resto de su gr
 
 Hacer tirada de sigilo del resto y tirada de persuasión de [[Agustin|Hasta]] 
 
-Si hasta los convence de que ya no están. Lo van a kiddnapear o tratar de kiddnapear y luego tratar de 
+Si hasta los convence de que ya no están. Lo van a kiddnapear o tratar de kiddnapear y luego extorsionar al grupo para cambiar a Hasta por la piedra.
+
+Pueden cagarlos a palos, pero no deben matarlos, si llegan a matar a alguno se meterán en remil quilombo y pueden terminar siendo multados/sentenciados a servicio militar (Básicamente hacer lo mismo que hacen, pero ya no les pagarán).
+
+Si hay combate, rawdoguear las stats.
+
+
 ### Durante el viaje 
 
 Minijuego de [[Navegación]].
