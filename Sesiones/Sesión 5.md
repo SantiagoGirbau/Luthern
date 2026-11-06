@@ -197,3 +197,5 @@ Cuando la información de lo que estaba por pasar les termina de golpear, una r�
 Caen varios bultos de miasma a su alrededor, que lentamente se deforman y forman en "Criaturas" si así pudieran llamarse, un amalgama horroroso de lo que parecen ser almas se hunden lentamente en todo lo vivo y muerto a su alrededor, haciéndolo cobrar vida.
 
 
+---
+Sesion 5.5
