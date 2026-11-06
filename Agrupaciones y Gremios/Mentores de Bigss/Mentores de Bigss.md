@@ -16,7 +16,7 @@ Estos son los generales y mentores que [[Biggsa|Biggsa el Grande]] convocó para
 
 - **Descripción:** Un guerrero imponente, casi un gigante, envuelto en una armadura pesada y desgastada que parece haber sido forjada a medida para él. Su rostro está curtido por innumerables batallas, y una cicatriz profunda le cruza el ojo izquierdo, ahora blanco y ciego. Lleva un mandoble gigantesco a la espalda con una facilidad pasmosa.
     
-- **Backstory:** Antiguo general de los ejércitos de Bigzha, Kaelen fue destituido tras negarse a obedecer una orden que habría resultado en la masacre de un pueblo inocente. Años de exilio como mercenario lo endurecieron, pero su lealtad al rey Bigssa, quien lo indultó recientemente, es absoluta. Busca redención a través de la formación de la nueva generación de guerreros, exigiéndoles la misma disciplina y sacrificio que él mismo practicó.
+- **Backstory:** Antiguo general de los ejércitos de [[Ducado de Eredon|Eredon]], Kaelen fue destituido tras negarse a obedecer una orden que habría resultado en la masacre de un pueblo inocente. Años de exilio como mercenario lo endurecieron, pero su lealtad al rey Bigssa, quien lo indultó recientemente, es absoluta. Busca redención a través de la formación de la nueva generación de guerreros, exigiéndoles la misma disciplina y sacrificio que él mismo practicó.
     
 
 **2. Elara "Voz de Ceniza" (Mujer)** 2 puntos líder de un grupo con 2 puntos, Voz Ceniza
