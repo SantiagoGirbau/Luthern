@@ -6,6 +6,7 @@ aliases:
 Estado: Aceptable
 tags:
   - NPC
+Nivel: Rey Luchador de segunda Categoría
 ---
 **Descripción:** Un hombre de mediana edad con ojeras tan profundas que parecen moretones, barba de varios días y una vieja gabardina que apesta permanentemente a tabaco barato y humedad. Siempre tiene un cigarrillo a medio consumir colgando de los labios y te mira con una mezcla de cansancio extremo y lástima. Su postura es encorvada, con las manos siempre en los bolsillos, y lleva una espada vieja en el cinto que claramente no se ha molestado en afilar en mucho tiempo.
 
