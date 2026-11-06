@@ -33,14 +33,14 @@ Estos son los generales y mentores que [[Biggsa|Biggsa el Grande]] convocó para
 - **Backstory:** Vanya es una devota seguidora del Sol Eterno, convencida de que su fe es la única arma capaz de purgar a Luthern de la oscuridad de las Bestias. Su fe inquebrantable a veces la hace inflexible y dogmática, pero su coraje en batalla es innegable. Fue ella quien encontró los restos de Lunaria y trajo la noticia al rey, un evento que fortaleció aún más su determinación de erradicar el mal. Entrena a sus pupilos en el combate cuerpo a cuerpo y en la canalización de la luz divina.
     
 
-**5. Thorne y su grupo se llama "Mano de Sangre" (Hombre)** líder de un grupo con 2 puntos, Mano de Sangre
+**5. Thorne y su grupo se llama "Mano de Sangre" (Hombre)** líder de un grupo con 2 puntos, [[Mano de Sangre]]
 
 - **Descripción:** Un asesino calculador y pragmático, vestido con ropas oscuras y sencillas que no llaman la atención. Su rostro es inexpresivo, como una máscara de hielo, y sus movimientos son fluidos y económicos. Lleva una variedad de armas ocultas, desde dagas envenenadas hasta estrellas arrojadizas.
     
 - **Backstory:** Thorne fue criado en las sombras, entrenado desde niño en el arte del asesinato y el espionaje. Su lealtad no es a un rey o a una religión, sino a su propio código de honor y a quien pueda pagar sus servicios. Bigssa lo contrató no por su moralidad, sino por su eficiencia letal. Thorne cree que la victoria contra las Bestias no se logrará con honor o fe, sino con astucia, engaño y un golpe certero en la oscuridad. Entrena a sus pupilos en las artes de la infiltración, el sabotaje y el asesinato.
     
 
-**6. [[Lyra Torie]] (Susurro del Mar) su grupo se llama "Susurro del Mar" en honor a ella (Mujer)** 
+**6. [[Lyra Torie]] (Susurro del Mar) su grupo se llama "[[Susurro del Mar]]" en honor a ella (Mujer)** 
 	
 	
 **7. [[Silas Corvo|Silas "Hoja infinita" Corvo]]  y su grupo es la party**
