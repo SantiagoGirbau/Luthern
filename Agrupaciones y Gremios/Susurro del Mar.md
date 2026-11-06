@@ -17,7 +17,7 @@ Es el grupo bajo la tutela de [[Lyra Torie]]
 - **Backstory:** Antiguo guardia de caravanas que escoltaba cargamentos a través de pantanos y ríos traicioneros. Perdió a su familia por una enfermedad transmitida por aguas estancadas. Lyra lo curó a él antes de que fuera tarde. Ahora busca redención protegiendo a otros de destinos similares bajo el estandarte de su salvadora.
 ---
 
-- **Nombre y apellido:** Nirael Fane
+- **Nombre y apellido:** Nirael "Nira" Fane
 
 - **Descripción:** Humana Delgada y escurridiza, de tez pálida y ojos grises como tormenta. Es pragmática, cínica y tiene la costumbre de hacer trucos con monedas mojadas en sus nudillos.
     
