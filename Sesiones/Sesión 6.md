@@ -20,7 +20,7 @@ Escribí, no seas pajero
 > - Lidiar con bandidos que han estado robando caravanas provenientes de [[Imperio Teocrático de Umnazia|Umnazia]]. 2 puntos.
 > La aceptaron ya:  _Voz Ceniza_ 
 > 
-
+ 
 
 Una voz ronca dice mientras sale de los arbustos:
 -Entreguen la esfera y nadie saldrá...
