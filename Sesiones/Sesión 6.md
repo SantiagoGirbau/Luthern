@@ -27,7 +27,9 @@ Una voz ronca dice mientras sale de los arbustos:
 -¿Y el resto?
 Dice el capitán de [[Mano de Sangre]] mientras hace una seña al resto de su grupo para que salga y amenace al único miembro de [[Aegis]] a la vista.
 
-Hacer tirada de sigilo del resto y tirada de persuasión de [[Agustin|Hasta]] 
+Asta dice que va a usar engaño!
+
+Hacer tirada de sigilo del resto y tirada de engaño de [[Agustin|Hasta]].
 
 Si hasta los convence de que ya no están. Lo van a kiddnapear o tratar de kiddnapear y luego extorsionar al grupo para cambiar a Hasta por la piedra.
 
@@ -40,13 +42,11 @@ Si hay combate, rawdoguear las stats?
 
 Minijuego de [[Navegación]].
 
-Dependiendo de a qué mision se dirijan, el camino será diferente.
-
 ---
 
-Más adelante se van a encontrar con el grupo de [[Lyra Torie]], [[Susurro del Mar]] y a todos sus integrantes. Ellos son mucho menos malos. Les ofrecen trabajar en conjunto con ellos y repartirse los puntos 1 y 1. 
+Silas estaba viniendo con [[Ari|Amaranta]] y con el grupo de [[Lyra Torie]], [[Susurro del Mar]] y a todos sus integrantes. Para ayudar al grupo antes de que [[Mano de Sangre]] haga una locura.
 
-Pueden aceptar o no, si no aceptan será una competencia para ver quién llega antes y elimina a los goblins que resguardan la piedra.
+Silas ofreció compartir el mapa con [[Lyra Torie|Susurro del Mar]] a cambio de la ayuda así que deberán ir juntos a las ruinas.
 
 ---
 
@@ -68,8 +68,8 @@ El mapa dice:
 - No mires atrás.
 - No mires atrás.
 - No mires atrás.
-
 ### (Que pasa si miran atrás????)
+Si miran atrás, Volverán al la segunda encrucijada.
 
 Entre las distintas etapas habrá [[Navegación]].
 
@@ -124,7 +124,7 @@ Rodeando esta torre, hay 3 murallas finas pero impenetrables. Tan finas como un 
 
 Al ingresar a la ruina lo primero que notan es un olor extraño y desconocido, los jugadores lo reconocen como el aroma quirúrgico de un hospital, pero para sus personajes es algo completamente desconocido.
 
-
+En los alrededores de las ruinas hay, si buscan bien, [[Piedras Fosforescentes]]. Necesitan un mínimo de 5, pero cuantas más traigan, mejor les van a pagar. La [[Piedras Fosforescentes]] 
 
 
 ---
