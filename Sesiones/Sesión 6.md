@@ -176,4 +176,7 @@ En la puerta de la casa de Fiddle hay un pequeño altar con notitas, dibujos y r
 
 Hay dos niños iguales a Fiddle jugando en el césped y sale una mujer también parecida a ellos que dice "A comer..."
 
-Si Fiddle no se oculta suelta la olla que tiene con cuidado de no derramar nada y lo m
+Si Fiddle no se oculta suelta la olla que tiene con cuidado de no derramar nada y lo mira por unos 40 segundos.
+
+Los niños ya estaban entrando así que no lo ven por un ratito.
+
