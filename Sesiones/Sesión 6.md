@@ -63,13 +63,14 @@ El mapa dice:
 - Dirigirse al Árbol Mayor.
 - En el Árbol Mayor, buscar las picas de escalada que dejó el gremio.
 - Trepar al Árbol Mayor
-- Desde la cima del Árbol Mayor, se pueden ver las ruinas.
+- Desde la cima del Árbol Mayor, se pueden ver las ruinas al norte.
 - Dirigirse en línea recta hacia las ruinas.
 - No mires atrás.
 - No mires atrás.
 - No mires atrás.
 ### (Que pasa si miran atrás????)
 Si miran atrás, Volverán al la segunda encrucijada.
+Deben caminar en línea recta como 3 días, las ruinas no parecen acercarse en ningún momento hasta que de golpe están en frente suyo.
 
 Entre las distintas etapas habrá [[Navegación]].
 
@@ -156,4 +157,23 @@ La criatura blanquecina y pálida aterriza de un único aleteo al suelo, un ojo 
 
 -Les prometo que no voy a morir...
 
-Corren hacia el norte, unos 2
+Corren hacia el norte, un poco y el bosque se empieza a aligerar, poco a poco el [[El Bosque Frontera|Bosque Umbrío]] se torna en un bosque común. Y a la distancia ven humo de las chimeneas de un pueblo oculto en los montes boscosos.
+
+Están en [[Thes’Burrow]].
+
+Fiddle tiene una decisión importante
+
+[[Pado|Edric]] siente que el alma que tiene dentro GRITA por un segundo y luego calla.
+
+El pueblito pintoresco parece la ciudad de los hobbits. Criaturas de todas las razas dan vueltas. Pero hay una grán poblacion "Bestial". Las casas son grandes y en algunas viven más de una familia.
+
+La gente voltea a ver a [[Vale|Fiddle]] pero la mayoría descarta la posibilidad.
+
+Se cruzan con un grupo de 3 aventureros, 2 mujeres y alguien con armadura completa.
+Les pueden preguntar dónde se pueden quedar y los van a indicar hacia la casa de [[Vale|Fiddle]].
+
+En la puerta de la casa de Fiddle hay un pequeño altar con notitas, dibujos y regalos y un cuadro de él.
+
+Hay dos niños iguales a Fiddle jugando en el césped y sale una mujer también parecida a ellos que dice "A comer..."
+
+Si Fiddle no se oculta suelta la olla que tiene con cuidado de no derramar nada y lo m
