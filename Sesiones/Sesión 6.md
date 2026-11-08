@@ -59,7 +59,7 @@ El mapa dice:
 - En la encrucijada de la montaña Ternoma tomar la izquierda para entrar al Sector Onírico.
 - Encontrar la piedra con forma de perro.
 - Subirse a la piedra con forma de perro.
-- Localizar desde la cima de la piedra, al Árbol Mayor más cercano.
+- Si no está lloviendo, localizar desde la cima de la piedra, al Árbol Mayor más cercano.
 - Dirigirse al Árbol Mayor.
 - En el Árbol Mayor, buscar las picas de escalada que dejó el gremio.
 - Trepar al Árbol Mayor
@@ -124,19 +124,36 @@ Rodeando esta torre, hay 3 murallas finas pero impenetrables. Tan finas como un 
 
 Al ingresar a la ruina lo primero que notan es un olor extraño y desconocido, los jugadores lo reconocen como el aroma quirúrgico de un hospital, pero para sus personajes es algo completamente desconocido.
 
-En los alrededores de las ruinas hay, si buscan bien, [[Piedras Fosforescentes]]. Necesitan un mínimo de 5, pero cuantas más traigan, mejor les van a pagar. La [[Piedras Fosforescentes]] 
+En los alrededores de las ruinas hay, si buscan bien, [[Piedras Fosforescentes]]. Necesitan un mínimo de 5, pero cuantas más traigan, mejor les van a pagar. La [[Piedras Fosforescentes]].
 
+No demoran mucho en hacerlo, la dificultad de la misión era conseguir el mapa y llegar a las ruinas.
 
+La última persona que encuentra una piedra encuentra además una especie de palanca. Si la tira, la puerta de la ruina se abre.
+
+Si entran a las ruinas estoy follado no sé qué puede haber adentro.
 ---
-### Al regrasar:
+Lo primero que se me ocurre es que esté [[Lujuria]] dentro, los salude y se vaya, adentro darles algo útil, como indicios de que las bestias están relacionadas con las ruinas de alguna manera.
 
-Luego detectan una presencia en el bosque.
+Luego habrá otra puerta que no puedan abrir ya.
+### Al regrasar ámbos grupos están charlando entre ellos y:
 
 El bosque se torna silencioso. Solo se oye la leve brisa en las millones de hojas a su alrededor.
 El silencio se torna en soplido y el soplido en aleteo.
 Una silueta blanca y verde pasa volando a toda velocidad sobre el grupo.
-Va a una velocidad inimaginable, pero a pesar de solo haberla visto por una fracción de segundo, es una silueta inconfundible.
+Va a una velocidad inimaginable, pero a pesar de solo haberla visto por una fracción de segundo, es una silueta inconfundible. [[Avaricia|El terror del cielo]].
 
 Cuando la información de lo que estaba por pasar les termina de golpear, una ráfaga de miasma verde los cubre, no duele, no quema, está fresco.
 
 Caen varios bultos de miasma a su alrededor, que lentamente se deforman y forman en "Criaturas" si así pudieran llamarse, un amalgama horroroso de lo que parecen ser almas se hunden lentamente en todo lo vivo y muerto a su alrededor, haciéndolo cobrar vida.
+
+Silas y Lyra se miran por una fracción de segundo, desenvainan y gritan al grupo.
+
+-CORRAN! NO MIREN ATRÁS, NO SE DETENGAN HASTA SALIR DEL BOSQUE.
+Lyra da las mismas órdenes a su grupo, pero Silas la noquea de un solo golpe y la lanza hacia Rurik. 
+-USTEDES TAMBIÉN. LARGO.
+
+La criatura blanquecina y pálida aterriza de un único aleteo al suelo, un ojo herido y con una pata torcida.
+
+-Les prometo que no voy a morir...
+
+Corren hacia el norte, unos 2
