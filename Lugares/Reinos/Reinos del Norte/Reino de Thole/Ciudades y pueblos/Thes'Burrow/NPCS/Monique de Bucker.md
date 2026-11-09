@@ -1,0 +1,1 @@
+mujer de [[Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Bucker Tropp|Bucker]].

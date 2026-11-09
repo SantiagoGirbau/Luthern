@@ -114,7 +114,7 @@ En caso de Fallo, habrá un combate de la tabla de combates. (1d12)
 
 ---
 
-### Al llegar a [[Ruinas Antiguas|Las Ruinas]] :
+### Al llegar a [[Ruinas Antiguas|Las Ruinas]]:
 
 Una vez han llegado a las inmediateces de la Ruina, el mapa se autodestruye.
 
@@ -180,3 +180,10 @@ Si Fiddle no se oculta suelta la olla que tiene con cuidado de no derramar nada 
 
 Los niños ya estaban entrando así que no lo ven por un ratito.
 
+Luego se acercará a Fiddle, lo agarrará de la pata y le dirá/
+
+Estas... Vivo? mientras llora en silencio.
+
+Luego de un abrazo le mete 43 piñas en el estómago 
+
+¿¿POR QUE NO VOLVISTE A CASA IMBÉCIL??

@@ -8,7 +8,7 @@ Estado: Pobre
 ---
 Es el grupo bajo la tutela de [[Lyra Torie]] 
 
-- **Nombre y apellido:** Rurik "Aguaclara" Vance
+- **Nombre y apellido:** Rurik "Aguaclara" Vance publica libros bajo el pseudónimo de [[Ordsted Baltra]] 
 
 - **Descripción:** Orco y de hombros anchos, suele llevar una capa pesada siempre húmeda por el rocío. Es un hombre de pocas palabras, protector y sorprendentemente melancólico.
 

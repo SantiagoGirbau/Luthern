@@ -34,9 +34,107 @@
               "icon": "lucide-file",
               "title": "Sesión 6"
             }
+          },
+          {
+            "id": "a2d50cdade29e28e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agrupaciones y Gremios/Susurro del Mar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Susurro del Mar"
+            }
+          },
+          {
+            "id": "0d256ee2d28dd53e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agrupaciones y Gremios/Mano de Sangre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mano de Sangre"
+            }
+          },
+          {
+            "id": "27e85fd38aea897f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agrupaciones y Gremios/Susurro del Mar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Susurro del Mar"
+            }
+          },
+          {
+            "id": "1d48ca0a06da7c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Bucker Tropp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bucker Tropp"
+            }
+          },
+          {
+            "id": "b068f92b9d5ed74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Reinos/Reino de Austris/NPCS/Marielle Lonac.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marielle Lonac"
+            }
+          },
+          {
+            "id": "03378b3ddc283e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Reinos/Reino de Bigzha/Realeza/Lunaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lunaria"
+            }
+          },
+          {
+            "id": "dde39dfa88738136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aegis de Corvo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aegis de Corvo"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,38 +363,39 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "89fcc00c69d3f076",
+  "active": "a2d50cdade29e28e",
   "lastOpenFiles": [
-    "Sesiones/Sesión 5.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Aegis de Corvo.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Silas Corvo.md",
-    "Agrupaciones y Gremios/Susurro del Mar.md",
+    "Lugares/Reinos/Reino de Bigzha/Realeza/Lunaria.md",
     "Sesiones/Sesión 6.md",
-    "Objetos Hombrew/Materiales/Piedras Fosforescentes.md",
-    "Objetos Hombrew/Objetos Mágicos/Consumibles/Piedra de Calma.md",
-    "Sesiones/Sesión 5.5.md",
+    "Lugares/Reinos/Reino de Austris/NPCS/Marielle Lonac.md",
+    "Lugares/Reinos/Reino de Austris/NPCS",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Thes’Burrow.md",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS/Monique de Bucker.md",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Bucker Tropp.md",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS/Bucker Tropp.md",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS/Primrose de Dirtpaws.md",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/NPCS/Holy y Grace.md",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Primrose de Dirtpaws.md",
+    "Lugares/Reinos/Reinos del Norte/Reino de Thole/Ciudades y pueblos/Thes'Burrow/Holy y Grace.md",
+    "Agrupaciones y Gremios/Susurro del Mar.md",
+    "Cocina/Ingredientes/Carne de minigrifo.md",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Ordsted Baltra.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/Edificios/El Escondrijo Restobar.md",
-    "Sesiones/Sesion 4.md",
+    "Sesiones/Sesión 5.5.md",
+    "Sesiones/Sesión 1.md",
+    "Cocina/Cocina.md",
     "Agrupaciones y Gremios/Mano de Sangre.md",
-    "Agrupaciones y Gremios/Mentores de Bigss/Mentores de Bigss.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lyra Torie.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Berith.md",
-    "Mecánicas y Notas/Títulos de nivel.md",
-    "Estructuras/Colmenas.md",
-    "Criaturas/Gorila Umbrío.md",
-    "Criaturas/Civeta umbría.md",
+    "Cocina/Ingredientes/Batata Verde.md",
+    "Cocina/Ingredientes/Ingredientes Especiales.md",
+    "Sesiones/Sesión 3.md",
+    "Sesiones/Sesion 4.md",
+    "Sesiones/Sesión 5.md",
+    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Silas Corvo.md",
+    "Objetos Hombrew/Materiales/Piedras Fosforescentes.md",
     "Criaturas/Monstruos/Dire Wolf.png",
     "Criaturas/Monstruos/Goblin.png",
-    "Criaturas/Monstruos/Deambulante.md",
-    "Criaturas/Monstruos/Harpía del Mar Dulce.md",
     "Criaturas/Monstruos/Troll.png",
     "Criaturas/Monstruos/Hobgoblin.png",
-    "Party/Agustin.md",
-    "Sesiones/Sesión 3.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Noria de Crolly.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Lorena Posé.md",
-    "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo/Trina Corvo.md",
     "Fémur.pdf",
     "Tendón.pdf",
     "Espada Podrida.pdf",
@@ -312,7 +411,6 @@
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Bohsse/NPCS/Familia Corvo",
     "Objetos Hombrew/Objetos Mágicos/Otros",
     "Lugares/Reinos/Reino de Bigzha/Ciudades y Pueblos/Nedo",
-    "Lugares/Tierras sin reclamar/Tribus/Dok-momor",
     "Objetos Hombrew/Objetos Mágicos/Armas/Sin título.canvas",
     "Sin título.canvas"
   ]

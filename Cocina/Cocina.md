@@ -25,7 +25,7 @@ Bueno: +3 de vida temporal
 Soso: Nada
 Feo: 3 de daño
 Horrible: 5 de daño
-Espantoso: 7 de daño  
+Espantoso: 7 de daño
 
 Y, en caso de haberse utilizado, además aplica los efectos (Positivos y/o negativos) de los ingredientes especiales que se hayan integrado al plato.
 
